@@ -1,0 +1,2086 @@
+nct_id,adverse_event,severity,frequency,serious,drug,target
+NCT00000000,Cardiac dysfunction,Moderate,93,True,Trastuzumab,HER2
+NCT00000000,Arrhythmia,Life-threatening,22,False,Trastuzumab,HER2
+NCT00000000,Heart failure,Moderate,88,True,Trastuzumab,HER2
+NCT00000000,Hypertension,Mild,74,True,Trastuzumab,HER2
+NCT00000001,Hypertension,Moderate,53,True,Bevacizumab,VEGF
+NCT00000001,Thromboembolism,Life-threatening,65,False,Bevacizumab,VEGF
+NCT00000001,Bleeding,Mild,91,True,Bevacizumab,VEGF
+NCT00000001,Proteinuria,Moderate,72,False,Bevacizumab,VEGF
+NCT00000002,Rash,Severe,70,False,Daratumumab,CD38
+NCT00000002,Pruritus,Severe,79,False,Daratumumab,CD38
+NCT00000002,Chills,Moderate,32,False,Daratumumab,CD38
+NCT00000002,Infusion reaction,Severe,29,False,Daratumumab,CD38
+NCT00000002,Fever,Severe,91,True,Daratumumab,CD38
+NCT00000003,Rash,Severe,16,False,Rituximab,CD20
+NCT00000003,Fever,Life-threatening,45,True,Rituximab,CD20
+NCT00000003,Chills,Severe,6,False,Rituximab,CD20
+NCT00000003,Pruritus,Mild,45,False,Rituximab,CD20
+NCT00000003,Infusion reaction,Severe,96,False,Rituximab,CD20
+NCT00000004,Thromboembolism,Moderate,14,True,Bevacizumab,VEGF
+NCT00000004,Bleeding,Moderate,7,True,Bevacizumab,VEGF
+NCT00000004,Proteinuria,Moderate,7,True,Bevacizumab,VEGF
+NCT00000004,Hypertension,Life-threatening,43,False,Bevacizumab,VEGF
+NCT00000005,Chills,Moderate,53,False,Daratumumab,CD38
+NCT00000005,Infusion reaction,Life-threatening,84,True,Daratumumab,CD38
+NCT00000005,Fever,Severe,42,False,Daratumumab,CD38
+NCT00000006,Colitis,Moderate,54,True,Ipilimumab,CTLA-4
+NCT00000006,Rash,Mild,51,False,Ipilimumab,CTLA-4
+NCT00000006,Hepatitis,Moderate,96,False,Ipilimumab,CTLA-4
+NCT00000006,Thyroiditis,Mild,2,False,Ipilimumab,CTLA-4
+NCT00000006,Pneumonitis,Mild,43,False,Ipilimumab,CTLA-4
+NCT00000007,Dry skin,Moderate,15,False,Cetuximab,EGFR
+NCT00000007,Rash,Moderate,94,False,Cetuximab,EGFR
+NCT00000007,Acneiform rash,Severe,92,True,Cetuximab,EGFR
+NCT00000007,Pruritus,Mild,95,False,Cetuximab,EGFR
+NCT00000008,Thromboembolism,Severe,12,False,Bevacizumab,VEGF
+NCT00000008,Hypertension,Mild,24,True,Bevacizumab,VEGF
+NCT00000008,Proteinuria,Life-threatening,42,True,Bevacizumab,VEGF
+NCT00000008,Bleeding,Mild,34,False,Bevacizumab,VEGF
+NCT00000009,Dry skin,Mild,34,False,Cetuximab,EGFR
+NCT00000009,Acneiform rash,Moderate,8,True,Cetuximab,EGFR
+NCT00000009,Pruritus,Life-threatening,40,True,Cetuximab,EGFR
+NCT00000009,Rash,Life-threatening,88,False,Cetuximab,EGFR
+NCT00000010,Colitis,Moderate,62,True,Ipilimumab,CTLA-4
+NCT00000010,Hepatitis,Life-threatening,96,False,Ipilimumab,CTLA-4
+NCT00000010,Pneumonitis,Life-threatening,90,False,Ipilimumab,CTLA-4
+NCT00000010,Rash,Moderate,98,True,Ipilimumab,CTLA-4
+NCT00000010,Thyroiditis,Mild,68,False,Ipilimumab,CTLA-4
+NCT00000011,Fever,Moderate,74,True,Daratumumab,CD38
+NCT00000011,Infusion reaction,Moderate,42,False,Daratumumab,CD38
+NCT00000011,Pruritus,Mild,88,True,Daratumumab,CD38
+NCT00000011,Rash,Life-threatening,12,False,Daratumumab,CD38
+NCT00000011,Chills,Mild,59,True,Daratumumab,CD38
+NCT00000012,Hypertension,Severe,93,True,Trastuzumab,HER2
+NCT00000012,Heart failure,Life-threatening,33,True,Trastuzumab,HER2
+NCT00000012,Cardiac dysfunction,Moderate,75,True,Trastuzumab,HER2
+NCT00000012,Arrhythmia,Mild,55,False,Trastuzumab,HER2
+NCT00000013,Cardiac dysfunction,Life-threatening,5,False,Trastuzumab,HER2
+NCT00000013,Arrhythmia,Life-threatening,24,True,Trastuzumab,HER2
+NCT00000013,Hypertension,Life-threatening,48,False,Trastuzumab,HER2
+NCT00000013,Heart failure,Life-threatening,49,False,Trastuzumab,HER2
+NCT00000014,Pneumonia,Mild,23,False,Adalimumab,TNF-alpha
+NCT00000014,Sepsis,Moderate,94,True,Adalimumab,TNF-alpha
+NCT00000014,Tuberculosis,Mild,97,True,Adalimumab,TNF-alpha
+NCT00000015,Hypertension,Moderate,32,False,Trastuzumab,HER2
+NCT00000015,Arrhythmia,Severe,20,False,Trastuzumab,HER2
+NCT00000015,Heart failure,Moderate,93,True,Trastuzumab,HER2
+NCT00000015,Cardiac dysfunction,Mild,85,False,Trastuzumab,HER2
+NCT00000016,Infection,Mild,77,True,Tocilizumab,IL-6
+NCT00000016,Tuberculosis,Life-threatening,77,True,Tocilizumab,IL-6
+NCT00000016,Sepsis,Moderate,95,True,Tocilizumab,IL-6
+NCT00000016,Pneumonia,Life-threatening,57,True,Tocilizumab,IL-6
+NCT00000017,Thromboembolism,Moderate,94,False,Bevacizumab,VEGF
+NCT00000017,Hypertension,Severe,31,False,Bevacizumab,VEGF
+NCT00000017,Bleeding,Moderate,85,True,Bevacizumab,VEGF
+NCT00000017,Proteinuria,Life-threatening,39,False,Bevacizumab,VEGF
+NCT00000018,Pruritus,Life-threatening,72,False,Daratumumab,CD38
+NCT00000018,Chills,Mild,45,False,Daratumumab,CD38
+NCT00000018,Fever,Severe,90,False,Daratumumab,CD38
+NCT00000019,Acneiform rash,Life-threatening,31,True,Cetuximab,EGFR
+NCT00000019,Dry skin,Severe,91,True,Cetuximab,EGFR
+NCT00000019,Pruritus,Life-threatening,8,False,Cetuximab,EGFR
+NCT00000019,Rash,Life-threatening,72,True,Cetuximab,EGFR
+NCT00000020,Pneumonia,Mild,58,False,Tocilizumab,IL-6
+NCT00000020,Tuberculosis,Mild,69,True,Tocilizumab,IL-6
+NCT00000020,Infection,Mild,35,False,Tocilizumab,IL-6
+NCT00000020,Sepsis,Mild,10,True,Tocilizumab,IL-6
+NCT00000021,Pneumonia,Severe,2,True,Tocilizumab,IL-6
+NCT00000021,Tuberculosis,Moderate,95,True,Tocilizumab,IL-6
+NCT00000021,Infection,Life-threatening,32,True,Tocilizumab,IL-6
+NCT00000021,Sepsis,Life-threatening,31,False,Tocilizumab,IL-6
+NCT00000022,Proteinuria,Severe,47,False,Bevacizumab,VEGF
+NCT00000022,Thromboembolism,Life-threatening,13,False,Bevacizumab,VEGF
+NCT00000022,Bleeding,Severe,27,False,Bevacizumab,VEGF
+NCT00000022,Hypertension,Severe,53,True,Bevacizumab,VEGF
+NCT00000023,Acneiform rash,Severe,71,False,Cetuximab,EGFR
+NCT00000023,Pruritus,Severe,20,True,Cetuximab,EGFR
+NCT00000023,Rash,Severe,30,False,Cetuximab,EGFR
+NCT00000023,Dry skin,Moderate,64,False,Cetuximab,EGFR
+NCT00000024,Thyroiditis,Moderate,18,False,Pembrolizumab,PD-1
+NCT00000024,Rash,Moderate,70,True,Pembrolizumab,PD-1
+NCT00000024,Pneumonitis,Mild,10,True,Pembrolizumab,PD-1
+NCT00000024,Colitis,Mild,53,True,Pembrolizumab,PD-1
+NCT00000024,Hepatitis,Moderate,9,True,Pembrolizumab,PD-1
+NCT00000025,Pneumonitis,Mild,80,False,Ipilimumab,CTLA-4
+NCT00000025,Thyroiditis,Life-threatening,3,True,Ipilimumab,CTLA-4
+NCT00000025,Rash,Life-threatening,2,True,Ipilimumab,CTLA-4
+NCT00000026,Sepsis,Life-threatening,23,True,Tocilizumab,IL-6
+NCT00000026,Tuberculosis,Mild,68,True,Tocilizumab,IL-6
+NCT00000026,Pneumonia,Moderate,25,False,Tocilizumab,IL-6
+NCT00000026,Infection,Severe,35,False,Tocilizumab,IL-6
+NCT00000027,Arrhythmia,Moderate,90,True,Trastuzumab,HER2
+NCT00000027,Heart failure,Severe,88,True,Trastuzumab,HER2
+NCT00000027,Hypertension,Mild,12,False,Trastuzumab,HER2
+NCT00000028,Thyroiditis,Mild,64,False,Pembrolizumab,PD-1
+NCT00000028,Rash,Severe,73,True,Pembrolizumab,PD-1
+NCT00000028,Colitis,Mild,30,True,Pembrolizumab,PD-1
+NCT00000028,Hepatitis,Life-threatening,35,True,Pembrolizumab,PD-1
+NCT00000028,Pneumonitis,Mild,88,False,Pembrolizumab,PD-1
+NCT00000029,Rash,Moderate,76,True,Ipilimumab,CTLA-4
+NCT00000029,Colitis,Life-threatening,10,False,Ipilimumab,CTLA-4
+NCT00000029,Thyroiditis,Moderate,73,True,Ipilimumab,CTLA-4
+NCT00000029,Pneumonitis,Life-threatening,87,False,Ipilimumab,CTLA-4
+NCT00000029,Hepatitis,Life-threatening,97,True,Ipilimumab,CTLA-4
+NCT00000030,Colitis,Moderate,10,False,Ipilimumab,CTLA-4
+NCT00000030,Hepatitis,Life-threatening,100,False,Ipilimumab,CTLA-4
+NCT00000030,Rash,Mild,82,False,Ipilimumab,CTLA-4
+NCT00000030,Thyroiditis,Life-threatening,63,True,Ipilimumab,CTLA-4
+NCT00000030,Pneumonitis,Severe,71,False,Ipilimumab,CTLA-4
+NCT00000031,Chills,Mild,11,False,Daratumumab,CD38
+NCT00000031,Rash,Moderate,49,True,Daratumumab,CD38
+NCT00000031,Infusion reaction,Life-threatening,41,False,Daratumumab,CD38
+NCT00000031,Pruritus,Mild,12,True,Daratumumab,CD38
+NCT00000031,Fever,Severe,57,False,Daratumumab,CD38
+NCT00000032,Infusion reaction,Life-threatening,72,False,Daratumumab,CD38
+NCT00000032,Chills,Mild,4,True,Daratumumab,CD38
+NCT00000032,Pruritus,Severe,71,True,Daratumumab,CD38
+NCT00000032,Fever,Severe,50,True,Daratumumab,CD38
+NCT00000032,Rash,Severe,53,False,Daratumumab,CD38
+NCT00000033,Pneumonia,Life-threatening,22,True,Adalimumab,TNF-alpha
+NCT00000033,Sepsis,Severe,39,False,Adalimumab,TNF-alpha
+NCT00000033,Infection,Life-threatening,19,True,Adalimumab,TNF-alpha
+NCT00000034,Rash,Life-threatening,10,False,Rituximab,CD20
+NCT00000034,Fever,Severe,32,False,Rituximab,CD20
+NCT00000034,Chills,Moderate,59,True,Rituximab,CD20
+NCT00000034,Pruritus,Moderate,39,True,Rituximab,CD20
+NCT00000035,Fever,Life-threatening,84,True,Daratumumab,CD38
+NCT00000035,Rash,Severe,42,True,Daratumumab,CD38
+NCT00000035,Chills,Life-threatening,41,True,Daratumumab,CD38
+NCT00000035,Pruritus,Life-threatening,41,False,Daratumumab,CD38
+NCT00000035,Infusion reaction,Life-threatening,74,True,Daratumumab,CD38
+NCT00000036,Rash,Moderate,76,True,Daratumumab,CD38
+NCT00000036,Fever,Mild,94,False,Daratumumab,CD38
+NCT00000036,Chills,Moderate,57,False,Daratumumab,CD38
+NCT00000036,Pruritus,Mild,53,False,Daratumumab,CD38
+NCT00000036,Infusion reaction,Moderate,82,False,Daratumumab,CD38
+NCT00000037,Hepatitis,Life-threatening,10,False,Pembrolizumab,PD-1
+NCT00000037,Pneumonitis,Life-threatening,75,False,Pembrolizumab,PD-1
+NCT00000037,Rash,Life-threatening,70,True,Pembrolizumab,PD-1
+NCT00000037,Thyroiditis,Severe,90,True,Pembrolizumab,PD-1
+NCT00000038,Seizure,Mild,73,False,Blinatumomab,CD19/CD3
+NCT00000038,Tremor,Severe,56,True,Blinatumomab,CD19/CD3
+NCT00000038,Confusion,Mild,13,False,Blinatumomab,CD19/CD3
+NCT00000039,Pneumonia,Life-threatening,99,True,Adalimumab,TNF-alpha
+NCT00000039,Tuberculosis,Severe,4,False,Adalimumab,TNF-alpha
+NCT00000039,Sepsis,Mild,38,False,Adalimumab,TNF-alpha
+NCT00000039,Infection,Mild,15,True,Adalimumab,TNF-alpha
+NCT00000040,Hepatitis,Severe,61,True,Ipilimumab,CTLA-4
+NCT00000040,Rash,Life-threatening,93,False,Ipilimumab,CTLA-4
+NCT00000040,Pneumonitis,Severe,9,False,Ipilimumab,CTLA-4
+NCT00000040,Colitis,Mild,91,True,Ipilimumab,CTLA-4
+NCT00000040,Thyroiditis,Mild,44,True,Ipilimumab,CTLA-4
+NCT00000041,Heart failure,Moderate,43,False,Trastuzumab,HER2
+NCT00000041,Arrhythmia,Life-threatening,30,False,Trastuzumab,HER2
+NCT00000041,Cardiac dysfunction,Moderate,24,False,Trastuzumab,HER2
+NCT00000041,Hypertension,Life-threatening,4,True,Trastuzumab,HER2
+NCT00000042,Pruritus,Moderate,36,True,Daratumumab,CD38
+NCT00000042,Rash,Mild,69,True,Daratumumab,CD38
+NCT00000042,Chills,Severe,42,True,Daratumumab,CD38
+NCT00000042,Infusion reaction,Life-threatening,15,False,Daratumumab,CD38
+NCT00000042,Fever,Life-threatening,68,False,Daratumumab,CD38
+NCT00000043,Proteinuria,Severe,46,False,Bevacizumab,VEGF
+NCT00000043,Bleeding,Moderate,87,False,Bevacizumab,VEGF
+NCT00000043,Thromboembolism,Mild,87,True,Bevacizumab,VEGF
+NCT00000043,Hypertension,Severe,16,True,Bevacizumab,VEGF
+NCT00000044,Rash,Life-threatening,54,True,Cetuximab,EGFR
+NCT00000044,Dry skin,Life-threatening,55,True,Cetuximab,EGFR
+NCT00000044,Acneiform rash,Life-threatening,82,True,Cetuximab,EGFR
+NCT00000044,Pruritus,Moderate,63,False,Cetuximab,EGFR
+NCT00000045,Heart failure,Severe,2,False,Trastuzumab,HER2
+NCT00000045,Hypertension,Moderate,25,False,Trastuzumab,HER2
+NCT00000045,Arrhythmia,Life-threatening,53,False,Trastuzumab,HER2
+NCT00000045,Cardiac dysfunction,Life-threatening,91,False,Trastuzumab,HER2
+NCT00000046,Pneumonia,Severe,5,False,Tocilizumab,IL-6
+NCT00000046,Infection,Moderate,69,False,Tocilizumab,IL-6
+NCT00000046,Sepsis,Moderate,100,False,Tocilizumab,IL-6
+NCT00000046,Tuberculosis,Life-threatening,71,True,Tocilizumab,IL-6
+NCT00000047,Colitis,Life-threatening,70,True,Ipilimumab,CTLA-4
+NCT00000047,Hepatitis,Life-threatening,14,True,Ipilimumab,CTLA-4
+NCT00000047,Thyroiditis,Severe,5,False,Ipilimumab,CTLA-4
+NCT00000047,Pneumonitis,Severe,45,True,Ipilimumab,CTLA-4
+NCT00000047,Rash,Life-threatening,16,True,Ipilimumab,CTLA-4
+NCT00000048,Pruritus,Moderate,79,True,Rituximab,CD20
+NCT00000048,Fever,Moderate,27,True,Rituximab,CD20
+NCT00000048,Rash,Severe,69,False,Rituximab,CD20
+NCT00000048,Chills,Moderate,42,False,Rituximab,CD20
+NCT00000049,Sepsis,Life-threatening,8,False,Tocilizumab,IL-6
+NCT00000049,Tuberculosis,Moderate,90,True,Tocilizumab,IL-6
+NCT00000049,Infection,Moderate,19,False,Tocilizumab,IL-6
+NCT00000049,Pneumonia,Moderate,98,False,Tocilizumab,IL-6
+NCT00000050,Pneumonia,Life-threatening,58,True,Adalimumab,TNF-alpha
+NCT00000050,Sepsis,Mild,52,False,Adalimumab,TNF-alpha
+NCT00000050,Tuberculosis,Severe,59,False,Adalimumab,TNF-alpha
+NCT00000050,Infection,Severe,75,True,Adalimumab,TNF-alpha
+NCT00000051,Colitis,Life-threatening,28,False,Ipilimumab,CTLA-4
+NCT00000051,Thyroiditis,Moderate,64,False,Ipilimumab,CTLA-4
+NCT00000051,Hepatitis,Severe,37,False,Ipilimumab,CTLA-4
+NCT00000051,Pneumonitis,Moderate,73,False,Ipilimumab,CTLA-4
+NCT00000051,Rash,Severe,88,True,Ipilimumab,CTLA-4
+NCT00000052,Rash,Mild,16,True,Cetuximab,EGFR
+NCT00000052,Pruritus,Life-threatening,59,True,Cetuximab,EGFR
+NCT00000052,Acneiform rash,Life-threatening,26,True,Cetuximab,EGFR
+NCT00000053,Pruritus,Severe,33,True,Cetuximab,EGFR
+NCT00000053,Rash,Severe,86,True,Cetuximab,EGFR
+NCT00000053,Acneiform rash,Mild,51,False,Cetuximab,EGFR
+NCT00000053,Dry skin,Moderate,55,True,Cetuximab,EGFR
+NCT00000054,Confusion,Moderate,76,True,Blinatumomab,CD19/CD3
+NCT00000054,Dizziness,Life-threatening,2,True,Blinatumomab,CD19/CD3
+NCT00000054,Headache,Severe,16,False,Blinatumomab,CD19/CD3
+NCT00000054,Seizure,Moderate,62,True,Blinatumomab,CD19/CD3
+NCT00000054,Tremor,Moderate,50,True,Blinatumomab,CD19/CD3
+NCT00000055,Infusion reaction,Moderate,49,True,Rituximab,CD20
+NCT00000055,Pruritus,Moderate,9,True,Rituximab,CD20
+NCT00000055,Chills,Moderate,57,False,Rituximab,CD20
+NCT00000055,Fever,Moderate,81,True,Rituximab,CD20
+NCT00000055,Rash,Life-threatening,79,False,Rituximab,CD20
+NCT00000056,Hypertension,Life-threatening,45,False,Bevacizumab,VEGF
+NCT00000056,Proteinuria,Severe,18,True,Bevacizumab,VEGF
+NCT00000056,Bleeding,Severe,83,True,Bevacizumab,VEGF
+NCT00000056,Thromboembolism,Moderate,71,False,Bevacizumab,VEGF
+NCT00000057,Colitis,Severe,83,True,Pembrolizumab,PD-1
+NCT00000057,Hepatitis,Moderate,64,False,Pembrolizumab,PD-1
+NCT00000057,Rash,Mild,31,False,Pembrolizumab,PD-1
+NCT00000057,Thyroiditis,Mild,68,True,Pembrolizumab,PD-1
+NCT00000057,Pneumonitis,Severe,41,True,Pembrolizumab,PD-1
+NCT00000058,Dizziness,Mild,3,True,Blinatumomab,CD19/CD3
+NCT00000058,Headache,Mild,34,True,Blinatumomab,CD19/CD3
+NCT00000058,Seizure,Mild,8,False,Blinatumomab,CD19/CD3
+NCT00000058,Confusion,Severe,81,False,Blinatumomab,CD19/CD3
+NCT00000058,Tremor,Life-threatening,90,False,Blinatumomab,CD19/CD3
+NCT00000059,Dizziness,Mild,40,True,Blinatumomab,CD19/CD3
+NCT00000059,Seizure,Moderate,20,False,Blinatumomab,CD19/CD3
+NCT00000059,Headache,Life-threatening,76,True,Blinatumomab,CD19/CD3
+NCT00000060,Hypertension,Moderate,12,False,Trastuzumab,HER2
+NCT00000060,Arrhythmia,Mild,59,True,Trastuzumab,HER2
+NCT00000060,Cardiac dysfunction,Severe,86,True,Trastuzumab,HER2
+NCT00000060,Heart failure,Mild,2,True,Trastuzumab,HER2
+NCT00000061,Confusion,Moderate,48,True,Blinatumomab,CD19/CD3
+NCT00000061,Seizure,Severe,94,True,Blinatumomab,CD19/CD3
+NCT00000061,Headache,Mild,43,False,Blinatumomab,CD19/CD3
+NCT00000061,Tremor,Severe,68,True,Blinatumomab,CD19/CD3
+NCT00000061,Dizziness,Severe,92,True,Blinatumomab,CD19/CD3
+NCT00000062,Rash,Severe,21,False,Rituximab,CD20
+NCT00000062,Fever,Mild,74,True,Rituximab,CD20
+NCT00000062,Infusion reaction,Moderate,95,True,Rituximab,CD20
+NCT00000062,Chills,Mild,2,True,Rituximab,CD20
+NCT00000062,Pruritus,Mild,61,False,Rituximab,CD20
+NCT00000063,Acneiform rash,Moderate,42,True,Cetuximab,EGFR
+NCT00000063,Rash,Life-threatening,93,False,Cetuximab,EGFR
+NCT00000063,Pruritus,Severe,10,False,Cetuximab,EGFR
+NCT00000063,Dry skin,Mild,65,True,Cetuximab,EGFR
+NCT00000064,Acneiform rash,Mild,60,False,Cetuximab,EGFR
+NCT00000064,Pruritus,Severe,42,True,Cetuximab,EGFR
+NCT00000064,Rash,Life-threatening,2,False,Cetuximab,EGFR
+NCT00000064,Dry skin,Moderate,38,False,Cetuximab,EGFR
+NCT00000065,Pneumonia,Moderate,94,True,Adalimumab,TNF-alpha
+NCT00000065,Tuberculosis,Moderate,1,False,Adalimumab,TNF-alpha
+NCT00000065,Sepsis,Mild,30,False,Adalimumab,TNF-alpha
+NCT00000065,Infection,Mild,43,True,Adalimumab,TNF-alpha
+NCT00000066,Tuberculosis,Moderate,68,True,Tocilizumab,IL-6
+NCT00000066,Sepsis,Life-threatening,63,True,Tocilizumab,IL-6
+NCT00000066,Pneumonia,Moderate,92,False,Tocilizumab,IL-6
+NCT00000066,Infection,Mild,6,True,Tocilizumab,IL-6
+NCT00000067,Rash,Moderate,82,False,Daratumumab,CD38
+NCT00000067,Fever,Mild,76,True,Daratumumab,CD38
+NCT00000067,Chills,Life-threatening,85,True,Daratumumab,CD38
+NCT00000067,Infusion reaction,Moderate,38,False,Daratumumab,CD38
+NCT00000067,Pruritus,Severe,51,False,Daratumumab,CD38
+NCT00000068,Thyroiditis,Moderate,100,True,Pembrolizumab,PD-1
+NCT00000068,Hepatitis,Moderate,14,True,Pembrolizumab,PD-1
+NCT00000068,Colitis,Life-threatening,60,False,Pembrolizumab,PD-1
+NCT00000068,Rash,Life-threatening,16,False,Pembrolizumab,PD-1
+NCT00000068,Pneumonitis,Moderate,58,False,Pembrolizumab,PD-1
+NCT00000069,Bleeding,Severe,91,True,Bevacizumab,VEGF
+NCT00000069,Hypertension,Moderate,42,True,Bevacizumab,VEGF
+NCT00000069,Proteinuria,Mild,92,True,Bevacizumab,VEGF
+NCT00000069,Thromboembolism,Severe,51,True,Bevacizumab,VEGF
+NCT00000070,Hepatitis,Life-threatening,72,True,Ipilimumab,CTLA-4
+NCT00000070,Rash,Mild,60,True,Ipilimumab,CTLA-4
+NCT00000070,Colitis,Moderate,16,True,Ipilimumab,CTLA-4
+NCT00000070,Thyroiditis,Mild,100,True,Ipilimumab,CTLA-4
+NCT00000070,Pneumonitis,Moderate,26,False,Ipilimumab,CTLA-4
+NCT00000071,Rash,Mild,9,True,Cetuximab,EGFR
+NCT00000071,Pruritus,Life-threatening,17,True,Cetuximab,EGFR
+NCT00000071,Acneiform rash,Severe,16,True,Cetuximab,EGFR
+NCT00000071,Dry skin,Life-threatening,7,True,Cetuximab,EGFR
+NCT00000072,Tuberculosis,Mild,49,False,Tocilizumab,IL-6
+NCT00000072,Sepsis,Moderate,46,True,Tocilizumab,IL-6
+NCT00000072,Pneumonia,Moderate,36,False,Tocilizumab,IL-6
+NCT00000072,Infection,Life-threatening,20,True,Tocilizumab,IL-6
+NCT00000073,Rash,Life-threatening,71,False,Pembrolizumab,PD-1
+NCT00000073,Pneumonitis,Mild,12,False,Pembrolizumab,PD-1
+NCT00000073,Hepatitis,Life-threatening,18,False,Pembrolizumab,PD-1
+NCT00000073,Thyroiditis,Moderate,83,True,Pembrolizumab,PD-1
+NCT00000073,Colitis,Mild,49,False,Pembrolizumab,PD-1
+NCT00000074,Hypertension,Severe,24,True,Trastuzumab,HER2
+NCT00000074,Heart failure,Severe,77,True,Trastuzumab,HER2
+NCT00000074,Arrhythmia,Mild,100,False,Trastuzumab,HER2
+NCT00000074,Cardiac dysfunction,Mild,61,False,Trastuzumab,HER2
+NCT00000075,Heart failure,Moderate,35,True,Trastuzumab,HER2
+NCT00000075,Cardiac dysfunction,Moderate,74,False,Trastuzumab,HER2
+NCT00000075,Arrhythmia,Severe,23,True,Trastuzumab,HER2
+NCT00000075,Hypertension,Moderate,76,False,Trastuzumab,HER2
+NCT00000076,Hepatitis,Moderate,64,False,Pembrolizumab,PD-1
+NCT00000076,Colitis,Moderate,63,True,Pembrolizumab,PD-1
+NCT00000076,Rash,Mild,8,True,Pembrolizumab,PD-1
+NCT00000076,Pneumonitis,Moderate,3,False,Pembrolizumab,PD-1
+NCT00000076,Thyroiditis,Mild,43,True,Pembrolizumab,PD-1
+NCT00000077,Sepsis,Mild,3,True,Tocilizumab,IL-6
+NCT00000077,Tuberculosis,Moderate,100,True,Tocilizumab,IL-6
+NCT00000077,Infection,Severe,10,False,Tocilizumab,IL-6
+NCT00000077,Pneumonia,Life-threatening,76,True,Tocilizumab,IL-6
+NCT00000078,Fever,Life-threatening,84,False,Daratumumab,CD38
+NCT00000078,Pruritus,Moderate,91,False,Daratumumab,CD38
+NCT00000078,Infusion reaction,Moderate,86,True,Daratumumab,CD38
+NCT00000078,Rash,Life-threatening,40,False,Daratumumab,CD38
+NCT00000078,Chills,Moderate,23,True,Daratumumab,CD38
+NCT00000079,Pruritus,Severe,79,True,Daratumumab,CD38
+NCT00000079,Rash,Mild,64,True,Daratumumab,CD38
+NCT00000079,Fever,Severe,96,True,Daratumumab,CD38
+NCT00000079,Infusion reaction,Moderate,45,False,Daratumumab,CD38
+NCT00000079,Chills,Moderate,82,True,Daratumumab,CD38
+NCT00000080,Sepsis,Moderate,32,True,Adalimumab,TNF-alpha
+NCT00000080,Pneumonia,Severe,33,True,Adalimumab,TNF-alpha
+NCT00000080,Infection,Mild,7,False,Adalimumab,TNF-alpha
+NCT00000080,Tuberculosis,Life-threatening,94,False,Adalimumab,TNF-alpha
+NCT00000081,Rash,Life-threatening,13,False,Daratumumab,CD38
+NCT00000081,Pruritus,Moderate,21,False,Daratumumab,CD38
+NCT00000081,Chills,Mild,5,False,Daratumumab,CD38
+NCT00000081,Fever,Mild,41,False,Daratumumab,CD38
+NCT00000082,Colitis,Life-threatening,21,True,Ipilimumab,CTLA-4
+NCT00000082,Hepatitis,Mild,44,False,Ipilimumab,CTLA-4
+NCT00000082,Rash,Mild,56,True,Ipilimumab,CTLA-4
+NCT00000083,Proteinuria,Severe,27,True,Bevacizumab,VEGF
+NCT00000083,Hypertension,Life-threatening,90,False,Bevacizumab,VEGF
+NCT00000083,Bleeding,Severe,39,True,Bevacizumab,VEGF
+NCT00000083,Thromboembolism,Mild,7,False,Bevacizumab,VEGF
+NCT00000084,Tuberculosis,Mild,55,True,Adalimumab,TNF-alpha
+NCT00000084,Infection,Severe,85,False,Adalimumab,TNF-alpha
+NCT00000084,Sepsis,Moderate,13,True,Adalimumab,TNF-alpha
+NCT00000084,Pneumonia,Moderate,22,False,Adalimumab,TNF-alpha
+NCT00000085,Tuberculosis,Life-threatening,61,False,Adalimumab,TNF-alpha
+NCT00000085,Infection,Severe,12,False,Adalimumab,TNF-alpha
+NCT00000085,Pneumonia,Moderate,48,False,Adalimumab,TNF-alpha
+NCT00000086,Pneumonitis,Life-threatening,34,True,Pembrolizumab,PD-1
+NCT00000086,Thyroiditis,Severe,73,True,Pembrolizumab,PD-1
+NCT00000086,Colitis,Moderate,97,True,Pembrolizumab,PD-1
+NCT00000086,Rash,Mild,86,False,Pembrolizumab,PD-1
+NCT00000086,Hepatitis,Life-threatening,97,True,Pembrolizumab,PD-1
+NCT00000087,Infusion reaction,Moderate,61,False,Daratumumab,CD38
+NCT00000087,Rash,Mild,51,True,Daratumumab,CD38
+NCT00000087,Fever,Moderate,16,False,Daratumumab,CD38
+NCT00000087,Chills,Moderate,22,True,Daratumumab,CD38
+NCT00000087,Pruritus,Moderate,17,True,Daratumumab,CD38
+NCT00000088,Cardiac dysfunction,Moderate,77,False,Trastuzumab,HER2
+NCT00000088,Arrhythmia,Severe,94,True,Trastuzumab,HER2
+NCT00000088,Heart failure,Mild,50,False,Trastuzumab,HER2
+NCT00000088,Hypertension,Severe,36,False,Trastuzumab,HER2
+NCT00000089,Pruritus,Life-threatening,20,True,Daratumumab,CD38
+NCT00000089,Rash,Mild,14,True,Daratumumab,CD38
+NCT00000089,Infusion reaction,Severe,69,False,Daratumumab,CD38
+NCT00000090,Hepatitis,Mild,23,False,Ipilimumab,CTLA-4
+NCT00000090,Thyroiditis,Life-threatening,19,False,Ipilimumab,CTLA-4
+NCT00000090,Rash,Mild,51,False,Ipilimumab,CTLA-4
+NCT00000090,Pneumonitis,Moderate,7,False,Ipilimumab,CTLA-4
+NCT00000090,Colitis,Severe,48,True,Ipilimumab,CTLA-4
+NCT00000091,Fever,Moderate,18,False,Rituximab,CD20
+NCT00000091,Pruritus,Life-threatening,100,False,Rituximab,CD20
+NCT00000091,Chills,Severe,94,False,Rituximab,CD20
+NCT00000091,Rash,Mild,25,False,Rituximab,CD20
+NCT00000091,Infusion reaction,Moderate,53,False,Rituximab,CD20
+NCT00000092,Sepsis,Severe,91,False,Tocilizumab,IL-6
+NCT00000092,Infection,Moderate,100,True,Tocilizumab,IL-6
+NCT00000092,Tuberculosis,Moderate,25,True,Tocilizumab,IL-6
+NCT00000092,Pneumonia,Mild,32,True,Tocilizumab,IL-6
+NCT00000093,Cardiac dysfunction,Severe,60,False,Trastuzumab,HER2
+NCT00000093,Heart failure,Mild,88,True,Trastuzumab,HER2
+NCT00000093,Hypertension,Moderate,48,False,Trastuzumab,HER2
+NCT00000093,Arrhythmia,Life-threatening,23,False,Trastuzumab,HER2
+NCT00000094,Rash,Mild,37,True,Ipilimumab,CTLA-4
+NCT00000094,Hepatitis,Life-threatening,7,True,Ipilimumab,CTLA-4
+NCT00000094,Pneumonitis,Moderate,29,True,Ipilimumab,CTLA-4
+NCT00000094,Colitis,Moderate,35,False,Ipilimumab,CTLA-4
+NCT00000094,Thyroiditis,Mild,100,True,Ipilimumab,CTLA-4
+NCT00000095,Pneumonitis,Severe,78,False,Pembrolizumab,PD-1
+NCT00000095,Rash,Severe,55,False,Pembrolizumab,PD-1
+NCT00000095,Hepatitis,Severe,59,False,Pembrolizumab,PD-1
+NCT00000095,Colitis,Moderate,60,False,Pembrolizumab,PD-1
+NCT00000095,Thyroiditis,Life-threatening,75,True,Pembrolizumab,PD-1
+NCT00000096,Pruritus,Severe,39,True,Rituximab,CD20
+NCT00000096,Fever,Life-threatening,9,False,Rituximab,CD20
+NCT00000096,Rash,Severe,82,False,Rituximab,CD20
+NCT00000097,Pruritus,Moderate,67,True,Cetuximab,EGFR
+NCT00000097,Dry skin,Mild,77,False,Cetuximab,EGFR
+NCT00000097,Acneiform rash,Severe,88,True,Cetuximab,EGFR
+NCT00000097,Rash,Mild,84,False,Cetuximab,EGFR
+NCT00000098,Arrhythmia,Mild,75,True,Trastuzumab,HER2
+NCT00000098,Heart failure,Severe,93,True,Trastuzumab,HER2
+NCT00000098,Hypertension,Life-threatening,86,False,Trastuzumab,HER2
+NCT00000098,Cardiac dysfunction,Severe,22,True,Trastuzumab,HER2
+NCT00000099,Hypertension,Moderate,88,False,Bevacizumab,VEGF
+NCT00000099,Thromboembolism,Mild,29,False,Bevacizumab,VEGF
+NCT00000099,Proteinuria,Moderate,96,False,Bevacizumab,VEGF
+NCT00000099,Bleeding,Life-threatening,43,False,Bevacizumab,VEGF
+NCT00000100,Sepsis,Mild,82,True,Tocilizumab,IL-6
+NCT00000100,Pneumonia,Life-threatening,25,True,Tocilizumab,IL-6
+NCT00000100,Infection,Life-threatening,68,False,Tocilizumab,IL-6
+NCT00000100,Tuberculosis,Life-threatening,7,True,Tocilizumab,IL-6
+NCT00000101,Chills,Moderate,41,True,Rituximab,CD20
+NCT00000101,Fever,Mild,63,False,Rituximab,CD20
+NCT00000101,Pruritus,Moderate,41,True,Rituximab,CD20
+NCT00000101,Rash,Mild,58,False,Rituximab,CD20
+NCT00000102,Pneumonia,Mild,17,False,Adalimumab,TNF-alpha
+NCT00000102,Sepsis,Life-threatening,52,False,Adalimumab,TNF-alpha
+NCT00000102,Infection,Life-threatening,50,True,Adalimumab,TNF-alpha
+NCT00000102,Tuberculosis,Mild,69,True,Adalimumab,TNF-alpha
+NCT00000103,Sepsis,Mild,87,True,Tocilizumab,IL-6
+NCT00000103,Infection,Moderate,29,False,Tocilizumab,IL-6
+NCT00000103,Pneumonia,Severe,17,True,Tocilizumab,IL-6
+NCT00000103,Tuberculosis,Life-threatening,65,False,Tocilizumab,IL-6
+NCT00000104,Infusion reaction,Life-threatening,94,False,Rituximab,CD20
+NCT00000104,Pruritus,Life-threatening,88,True,Rituximab,CD20
+NCT00000104,Chills,Severe,63,False,Rituximab,CD20
+NCT00000104,Fever,Moderate,22,False,Rituximab,CD20
+NCT00000105,Pneumonitis,Moderate,28,True,Pembrolizumab,PD-1
+NCT00000105,Rash,Moderate,16,False,Pembrolizumab,PD-1
+NCT00000105,Hepatitis,Mild,49,False,Pembrolizumab,PD-1
+NCT00000106,Rash,Mild,7,True,Ipilimumab,CTLA-4
+NCT00000106,Colitis,Life-threatening,57,False,Ipilimumab,CTLA-4
+NCT00000106,Hepatitis,Mild,71,False,Ipilimumab,CTLA-4
+NCT00000106,Thyroiditis,Life-threatening,90,True,Ipilimumab,CTLA-4
+NCT00000106,Pneumonitis,Moderate,89,True,Ipilimumab,CTLA-4
+NCT00000107,Dry skin,Moderate,54,True,Cetuximab,EGFR
+NCT00000107,Pruritus,Mild,37,True,Cetuximab,EGFR
+NCT00000107,Rash,Mild,64,True,Cetuximab,EGFR
+NCT00000107,Acneiform rash,Moderate,100,False,Cetuximab,EGFR
+NCT00000108,Pneumonia,Moderate,6,False,Adalimumab,TNF-alpha
+NCT00000108,Tuberculosis,Moderate,89,False,Adalimumab,TNF-alpha
+NCT00000108,Sepsis,Severe,31,True,Adalimumab,TNF-alpha
+NCT00000108,Infection,Mild,86,True,Adalimumab,TNF-alpha
+NCT00000109,Pruritus,Mild,100,True,Rituximab,CD20
+NCT00000109,Rash,Mild,33,True,Rituximab,CD20
+NCT00000109,Infusion reaction,Life-threatening,38,False,Rituximab,CD20
+NCT00000110,Cardiac dysfunction,Severe,47,False,Trastuzumab,HER2
+NCT00000110,Hypertension,Life-threatening,95,True,Trastuzumab,HER2
+NCT00000110,Arrhythmia,Mild,98,True,Trastuzumab,HER2
+NCT00000110,Heart failure,Mild,18,True,Trastuzumab,HER2
+NCT00000111,Sepsis,Severe,44,True,Adalimumab,TNF-alpha
+NCT00000111,Pneumonia,Mild,52,False,Adalimumab,TNF-alpha
+NCT00000111,Tuberculosis,Life-threatening,35,False,Adalimumab,TNF-alpha
+NCT00000111,Infection,Life-threatening,54,True,Adalimumab,TNF-alpha
+NCT00000112,Acneiform rash,Moderate,14,False,Cetuximab,EGFR
+NCT00000112,Pruritus,Life-threatening,73,False,Cetuximab,EGFR
+NCT00000112,Rash,Moderate,79,False,Cetuximab,EGFR
+NCT00000113,Hypertension,Life-threatening,15,False,Bevacizumab,VEGF
+NCT00000113,Bleeding,Life-threatening,6,True,Bevacizumab,VEGF
+NCT00000113,Proteinuria,Severe,84,False,Bevacizumab,VEGF
+NCT00000113,Thromboembolism,Mild,91,True,Bevacizumab,VEGF
+NCT00000114,Hepatitis,Severe,85,False,Ipilimumab,CTLA-4
+NCT00000114,Colitis,Moderate,72,True,Ipilimumab,CTLA-4
+NCT00000114,Pneumonitis,Mild,83,True,Ipilimumab,CTLA-4
+NCT00000114,Thyroiditis,Life-threatening,64,True,Ipilimumab,CTLA-4
+NCT00000114,Rash,Mild,97,False,Ipilimumab,CTLA-4
+NCT00000115,Pneumonia,Moderate,71,False,Adalimumab,TNF-alpha
+NCT00000115,Tuberculosis,Life-threatening,31,True,Adalimumab,TNF-alpha
+NCT00000115,Sepsis,Life-threatening,57,False,Adalimumab,TNF-alpha
+NCT00000115,Infection,Mild,64,False,Adalimumab,TNF-alpha
+NCT00000116,Colitis,Life-threatening,53,True,Ipilimumab,CTLA-4
+NCT00000116,Thyroiditis,Mild,12,False,Ipilimumab,CTLA-4
+NCT00000116,Hepatitis,Moderate,84,False,Ipilimumab,CTLA-4
+NCT00000116,Rash,Severe,47,True,Ipilimumab,CTLA-4
+NCT00000116,Pneumonitis,Moderate,59,False,Ipilimumab,CTLA-4
+NCT00000117,Dizziness,Mild,13,True,Blinatumomab,CD19/CD3
+NCT00000117,Headache,Mild,44,False,Blinatumomab,CD19/CD3
+NCT00000117,Tremor,Severe,71,False,Blinatumomab,CD19/CD3
+NCT00000117,Seizure,Mild,6,True,Blinatumomab,CD19/CD3
+NCT00000117,Confusion,Life-threatening,18,False,Blinatumomab,CD19/CD3
+NCT00000118,Hepatitis,Mild,51,True,Pembrolizumab,PD-1
+NCT00000118,Pneumonitis,Life-threatening,25,False,Pembrolizumab,PD-1
+NCT00000118,Colitis,Mild,97,False,Pembrolizumab,PD-1
+NCT00000119,Cardiac dysfunction,Moderate,64,True,Trastuzumab,HER2
+NCT00000119,Heart failure,Mild,71,False,Trastuzumab,HER2
+NCT00000119,Arrhythmia,Life-threatening,66,True,Trastuzumab,HER2
+NCT00000120,Thromboembolism,Life-threatening,85,False,Bevacizumab,VEGF
+NCT00000120,Bleeding,Life-threatening,54,True,Bevacizumab,VEGF
+NCT00000120,Hypertension,Severe,51,False,Bevacizumab,VEGF
+NCT00000120,Proteinuria,Severe,58,True,Bevacizumab,VEGF
+NCT00000121,Rash,Moderate,26,True,Rituximab,CD20
+NCT00000121,Fever,Severe,88,False,Rituximab,CD20
+NCT00000121,Pruritus,Moderate,91,True,Rituximab,CD20
+NCT00000121,Chills,Severe,91,True,Rituximab,CD20
+NCT00000122,Dizziness,Life-threatening,2,True,Blinatumomab,CD19/CD3
+NCT00000122,Headache,Mild,49,True,Blinatumomab,CD19/CD3
+NCT00000122,Tremor,Mild,86,True,Blinatumomab,CD19/CD3
+NCT00000122,Seizure,Moderate,35,True,Blinatumomab,CD19/CD3
+NCT00000122,Confusion,Severe,88,False,Blinatumomab,CD19/CD3
+NCT00000123,Rash,Mild,46,False,Cetuximab,EGFR
+NCT00000123,Pruritus,Mild,79,True,Cetuximab,EGFR
+NCT00000123,Acneiform rash,Life-threatening,31,False,Cetuximab,EGFR
+NCT00000123,Dry skin,Mild,49,False,Cetuximab,EGFR
+NCT00000124,Hepatitis,Life-threatening,29,False,Pembrolizumab,PD-1
+NCT00000124,Colitis,Moderate,100,True,Pembrolizumab,PD-1
+NCT00000124,Thyroiditis,Severe,58,True,Pembrolizumab,PD-1
+NCT00000124,Pneumonitis,Mild,24,True,Pembrolizumab,PD-1
+NCT00000124,Rash,Mild,49,True,Pembrolizumab,PD-1
+NCT00000125,Pruritus,Moderate,75,False,Cetuximab,EGFR
+NCT00000125,Dry skin,Mild,43,False,Cetuximab,EGFR
+NCT00000125,Acneiform rash,Moderate,6,True,Cetuximab,EGFR
+NCT00000125,Rash,Severe,77,True,Cetuximab,EGFR
+NCT00000126,Pruritus,Severe,68,True,Rituximab,CD20
+NCT00000126,Fever,Moderate,67,True,Rituximab,CD20
+NCT00000126,Chills,Moderate,54,False,Rituximab,CD20
+NCT00000126,Rash,Mild,45,True,Rituximab,CD20
+NCT00000126,Infusion reaction,Moderate,85,False,Rituximab,CD20
+NCT00000127,Tremor,Mild,86,False,Blinatumomab,CD19/CD3
+NCT00000127,Dizziness,Life-threatening,31,True,Blinatumomab,CD19/CD3
+NCT00000127,Confusion,Mild,88,False,Blinatumomab,CD19/CD3
+NCT00000127,Seizure,Life-threatening,15,False,Blinatumomab,CD19/CD3
+NCT00000127,Headache,Severe,70,False,Blinatumomab,CD19/CD3
+NCT00000128,Pruritus,Life-threatening,63,True,Daratumumab,CD38
+NCT00000128,Fever,Severe,84,True,Daratumumab,CD38
+NCT00000128,Rash,Severe,66,True,Daratumumab,CD38
+NCT00000129,Chills,Mild,27,True,Daratumumab,CD38
+NCT00000129,Infusion reaction,Life-threatening,14,True,Daratumumab,CD38
+NCT00000129,Fever,Life-threatening,83,True,Daratumumab,CD38
+NCT00000130,Seizure,Mild,10,True,Blinatumomab,CD19/CD3
+NCT00000130,Confusion,Moderate,33,True,Blinatumomab,CD19/CD3
+NCT00000130,Dizziness,Moderate,34,False,Blinatumomab,CD19/CD3
+NCT00000130,Tremor,Life-threatening,58,False,Blinatumomab,CD19/CD3
+NCT00000130,Headache,Life-threatening,41,True,Blinatumomab,CD19/CD3
+NCT00000131,Infusion reaction,Mild,46,True,Daratumumab,CD38
+NCT00000131,Pruritus,Severe,88,False,Daratumumab,CD38
+NCT00000131,Fever,Mild,37,False,Daratumumab,CD38
+NCT00000131,Rash,Life-threatening,51,True,Daratumumab,CD38
+NCT00000131,Chills,Life-threatening,21,True,Daratumumab,CD38
+NCT00000132,Headache,Severe,87,False,Blinatumomab,CD19/CD3
+NCT00000132,Tremor,Mild,71,True,Blinatumomab,CD19/CD3
+NCT00000132,Dizziness,Mild,6,True,Blinatumomab,CD19/CD3
+NCT00000132,Confusion,Life-threatening,69,True,Blinatumomab,CD19/CD3
+NCT00000133,Thromboembolism,Life-threatening,83,True,Bevacizumab,VEGF
+NCT00000133,Bleeding,Moderate,24,True,Bevacizumab,VEGF
+NCT00000133,Proteinuria,Severe,25,True,Bevacizumab,VEGF
+NCT00000133,Hypertension,Moderate,86,True,Bevacizumab,VEGF
+NCT00000134,Rash,Mild,26,False,Daratumumab,CD38
+NCT00000134,Infusion reaction,Severe,46,True,Daratumumab,CD38
+NCT00000134,Chills,Moderate,13,False,Daratumumab,CD38
+NCT00000134,Pruritus,Mild,25,False,Daratumumab,CD38
+NCT00000134,Fever,Life-threatening,58,False,Daratumumab,CD38
+NCT00000135,Bleeding,Severe,55,True,Bevacizumab,VEGF
+NCT00000135,Proteinuria,Mild,41,True,Bevacizumab,VEGF
+NCT00000135,Hypertension,Moderate,92,False,Bevacizumab,VEGF
+NCT00000135,Thromboembolism,Severe,47,True,Bevacizumab,VEGF
+NCT00000136,Arrhythmia,Severe,100,False,Trastuzumab,HER2
+NCT00000136,Heart failure,Life-threatening,71,True,Trastuzumab,HER2
+NCT00000136,Hypertension,Moderate,83,True,Trastuzumab,HER2
+NCT00000136,Cardiac dysfunction,Severe,18,True,Trastuzumab,HER2
+NCT00000137,Infusion reaction,Moderate,5,False,Daratumumab,CD38
+NCT00000137,Pruritus,Life-threatening,84,True,Daratumumab,CD38
+NCT00000137,Rash,Severe,51,True,Daratumumab,CD38
+NCT00000137,Fever,Severe,18,False,Daratumumab,CD38
+NCT00000137,Chills,Mild,51,False,Daratumumab,CD38
+NCT00000138,Hypertension,Moderate,58,True,Bevacizumab,VEGF
+NCT00000138,Bleeding,Moderate,73,True,Bevacizumab,VEGF
+NCT00000138,Proteinuria,Life-threatening,46,True,Bevacizumab,VEGF
+NCT00000138,Thromboembolism,Moderate,98,False,Bevacizumab,VEGF
+NCT00000139,Colitis,Mild,86,True,Ipilimumab,CTLA-4
+NCT00000139,Hepatitis,Severe,50,False,Ipilimumab,CTLA-4
+NCT00000139,Pneumonitis,Life-threatening,6,True,Ipilimumab,CTLA-4
+NCT00000139,Rash,Severe,14,False,Ipilimumab,CTLA-4
+NCT00000140,Sepsis,Life-threatening,47,True,Tocilizumab,IL-6
+NCT00000140,Tuberculosis,Severe,49,True,Tocilizumab,IL-6
+NCT00000140,Infection,Life-threatening,46,False,Tocilizumab,IL-6
+NCT00000140,Pneumonia,Life-threatening,62,True,Tocilizumab,IL-6
+NCT00000141,Chills,Severe,28,True,Daratumumab,CD38
+NCT00000141,Rash,Moderate,21,False,Daratumumab,CD38
+NCT00000141,Infusion reaction,Mild,85,True,Daratumumab,CD38
+NCT00000141,Fever,Life-threatening,43,True,Daratumumab,CD38
+NCT00000141,Pruritus,Life-threatening,87,False,Daratumumab,CD38
+NCT00000142,Pneumonia,Mild,32,True,Adalimumab,TNF-alpha
+NCT00000142,Sepsis,Moderate,74,True,Adalimumab,TNF-alpha
+NCT00000142,Infection,Moderate,81,True,Adalimumab,TNF-alpha
+NCT00000142,Tuberculosis,Moderate,8,True,Adalimumab,TNF-alpha
+NCT00000143,Acneiform rash,Severe,11,True,Cetuximab,EGFR
+NCT00000143,Pruritus,Life-threatening,78,False,Cetuximab,EGFR
+NCT00000143,Dry skin,Life-threatening,22,True,Cetuximab,EGFR
+NCT00000143,Rash,Life-threatening,77,True,Cetuximab,EGFR
+NCT00000144,Seizure,Mild,30,False,Blinatumomab,CD19/CD3
+NCT00000144,Tremor,Life-threatening,17,True,Blinatumomab,CD19/CD3
+NCT00000144,Confusion,Mild,26,False,Blinatumomab,CD19/CD3
+NCT00000144,Dizziness,Moderate,78,True,Blinatumomab,CD19/CD3
+NCT00000144,Headache,Moderate,61,True,Blinatumomab,CD19/CD3
+NCT00000145,Rash,Mild,100,False,Cetuximab,EGFR
+NCT00000145,Dry skin,Life-threatening,48,True,Cetuximab,EGFR
+NCT00000145,Acneiform rash,Life-threatening,30,False,Cetuximab,EGFR
+NCT00000145,Pruritus,Life-threatening,45,True,Cetuximab,EGFR
+NCT00000146,Pneumonitis,Severe,77,False,Pembrolizumab,PD-1
+NCT00000146,Hepatitis,Severe,25,True,Pembrolizumab,PD-1
+NCT00000146,Rash,Mild,74,True,Pembrolizumab,PD-1
+NCT00000146,Colitis,Mild,49,True,Pembrolizumab,PD-1
+NCT00000146,Thyroiditis,Severe,53,False,Pembrolizumab,PD-1
+NCT00000147,Pneumonia,Severe,69,False,Adalimumab,TNF-alpha
+NCT00000147,Tuberculosis,Severe,79,False,Adalimumab,TNF-alpha
+NCT00000147,Sepsis,Life-threatening,97,True,Adalimumab,TNF-alpha
+NCT00000148,Dizziness,Severe,40,False,Blinatumomab,CD19/CD3
+NCT00000148,Headache,Life-threatening,95,True,Blinatumomab,CD19/CD3
+NCT00000148,Confusion,Mild,96,True,Blinatumomab,CD19/CD3
+NCT00000148,Seizure,Life-threatening,90,True,Blinatumomab,CD19/CD3
+NCT00000148,Tremor,Mild,28,False,Blinatumomab,CD19/CD3
+NCT00000149,Infection,Mild,19,False,Adalimumab,TNF-alpha
+NCT00000149,Tuberculosis,Life-threatening,12,True,Adalimumab,TNF-alpha
+NCT00000149,Pneumonia,Severe,29,False,Adalimumab,TNF-alpha
+NCT00000149,Sepsis,Mild,78,True,Adalimumab,TNF-alpha
+NCT00000150,Headache,Moderate,82,False,Blinatumomab,CD19/CD3
+NCT00000150,Dizziness,Life-threatening,2,True,Blinatumomab,CD19/CD3
+NCT00000150,Tremor,Severe,25,True,Blinatumomab,CD19/CD3
+NCT00000150,Seizure,Moderate,79,True,Blinatumomab,CD19/CD3
+NCT00000150,Confusion,Mild,47,True,Blinatumomab,CD19/CD3
+NCT00000151,Infection,Life-threatening,46,False,Tocilizumab,IL-6
+NCT00000151,Tuberculosis,Life-threatening,76,True,Tocilizumab,IL-6
+NCT00000151,Sepsis,Mild,95,True,Tocilizumab,IL-6
+NCT00000151,Pneumonia,Mild,71,False,Tocilizumab,IL-6
+NCT00000152,Pruritus,Moderate,59,False,Rituximab,CD20
+NCT00000152,Fever,Mild,34,True,Rituximab,CD20
+NCT00000152,Chills,Life-threatening,65,True,Rituximab,CD20
+NCT00000152,Rash,Mild,65,False,Rituximab,CD20
+NCT00000152,Infusion reaction,Severe,15,False,Rituximab,CD20
+NCT00000153,Bleeding,Life-threatening,99,True,Bevacizumab,VEGF
+NCT00000153,Proteinuria,Severe,100,False,Bevacizumab,VEGF
+NCT00000153,Thromboembolism,Life-threatening,76,True,Bevacizumab,VEGF
+NCT00000153,Hypertension,Life-threatening,15,False,Bevacizumab,VEGF
+NCT00000154,Proteinuria,Moderate,41,False,Bevacizumab,VEGF
+NCT00000154,Bleeding,Severe,67,True,Bevacizumab,VEGF
+NCT00000154,Hypertension,Severe,32,False,Bevacizumab,VEGF
+NCT00000155,Thyroiditis,Moderate,61,False,Ipilimumab,CTLA-4
+NCT00000155,Hepatitis,Severe,28,False,Ipilimumab,CTLA-4
+NCT00000155,Colitis,Moderate,96,True,Ipilimumab,CTLA-4
+NCT00000156,Pneumonia,Moderate,30,True,Tocilizumab,IL-6
+NCT00000156,Infection,Moderate,80,False,Tocilizumab,IL-6
+NCT00000156,Sepsis,Moderate,100,True,Tocilizumab,IL-6
+NCT00000156,Tuberculosis,Mild,11,False,Tocilizumab,IL-6
+NCT00000157,Colitis,Life-threatening,74,False,Pembrolizumab,PD-1
+NCT00000157,Rash,Life-threatening,24,False,Pembrolizumab,PD-1
+NCT00000157,Pneumonitis,Life-threatening,29,True,Pembrolizumab,PD-1
+NCT00000157,Hepatitis,Mild,68,False,Pembrolizumab,PD-1
+NCT00000157,Thyroiditis,Life-threatening,70,True,Pembrolizumab,PD-1
+NCT00000158,Sepsis,Mild,90,False,Adalimumab,TNF-alpha
+NCT00000158,Pneumonia,Severe,89,True,Adalimumab,TNF-alpha
+NCT00000158,Infection,Mild,87,True,Adalimumab,TNF-alpha
+NCT00000158,Tuberculosis,Life-threatening,75,True,Adalimumab,TNF-alpha
+NCT00000159,Arrhythmia,Severe,31,False,Trastuzumab,HER2
+NCT00000159,Hypertension,Life-threatening,79,False,Trastuzumab,HER2
+NCT00000159,Heart failure,Severe,24,False,Trastuzumab,HER2
+NCT00000159,Cardiac dysfunction,Life-threatening,27,False,Trastuzumab,HER2
+NCT00000160,Hepatitis,Moderate,74,True,Ipilimumab,CTLA-4
+NCT00000160,Rash,Moderate,13,False,Ipilimumab,CTLA-4
+NCT00000160,Pneumonitis,Moderate,72,False,Ipilimumab,CTLA-4
+NCT00000160,Thyroiditis,Life-threatening,26,True,Ipilimumab,CTLA-4
+NCT00000160,Colitis,Moderate,61,True,Ipilimumab,CTLA-4
+NCT00000161,Tuberculosis,Life-threatening,39,False,Tocilizumab,IL-6
+NCT00000161,Pneumonia,Mild,51,True,Tocilizumab,IL-6
+NCT00000161,Infection,Moderate,8,True,Tocilizumab,IL-6
+NCT00000161,Sepsis,Severe,61,True,Tocilizumab,IL-6
+NCT00000162,Fever,Severe,3,False,Daratumumab,CD38
+NCT00000162,Pruritus,Mild,45,True,Daratumumab,CD38
+NCT00000162,Chills,Moderate,100,False,Daratumumab,CD38
+NCT00000162,Rash,Severe,42,False,Daratumumab,CD38
+NCT00000162,Infusion reaction,Life-threatening,11,False,Daratumumab,CD38
+NCT00000163,Tremor,Severe,54,False,Blinatumomab,CD19/CD3
+NCT00000163,Headache,Mild,11,True,Blinatumomab,CD19/CD3
+NCT00000163,Dizziness,Severe,30,False,Blinatumomab,CD19/CD3
+NCT00000163,Confusion,Severe,84,False,Blinatumomab,CD19/CD3
+NCT00000163,Seizure,Severe,78,False,Blinatumomab,CD19/CD3
+NCT00000164,Headache,Moderate,24,True,Blinatumomab,CD19/CD3
+NCT00000164,Tremor,Moderate,94,True,Blinatumomab,CD19/CD3
+NCT00000164,Dizziness,Severe,96,True,Blinatumomab,CD19/CD3
+NCT00000164,Seizure,Moderate,22,False,Blinatumomab,CD19/CD3
+NCT00000164,Confusion,Mild,13,True,Blinatumomab,CD19/CD3
+NCT00000165,Pruritus,Mild,34,True,Daratumumab,CD38
+NCT00000165,Infusion reaction,Mild,84,False,Daratumumab,CD38
+NCT00000165,Rash,Severe,30,True,Daratumumab,CD38
+NCT00000165,Chills,Severe,57,True,Daratumumab,CD38
+NCT00000165,Fever,Moderate,68,True,Daratumumab,CD38
+NCT00000166,Confusion,Life-threatening,60,False,Blinatumomab,CD19/CD3
+NCT00000166,Tremor,Life-threatening,18,True,Blinatumomab,CD19/CD3
+NCT00000166,Seizure,Life-threatening,81,False,Blinatumomab,CD19/CD3
+NCT00000167,Sepsis,Mild,57,False,Tocilizumab,IL-6
+NCT00000167,Pneumonia,Severe,53,False,Tocilizumab,IL-6
+NCT00000167,Tuberculosis,Moderate,39,True,Tocilizumab,IL-6
+NCT00000167,Infection,Mild,67,True,Tocilizumab,IL-6
+NCT00000168,Sepsis,Life-threatening,39,True,Adalimumab,TNF-alpha
+NCT00000168,Pneumonia,Life-threatening,38,True,Adalimumab,TNF-alpha
+NCT00000168,Infection,Mild,71,False,Adalimumab,TNF-alpha
+NCT00000168,Tuberculosis,Moderate,53,False,Adalimumab,TNF-alpha
+NCT00000169,Pneumonitis,Moderate,34,True,Ipilimumab,CTLA-4
+NCT00000169,Rash,Life-threatening,81,True,Ipilimumab,CTLA-4
+NCT00000169,Hepatitis,Severe,37,False,Ipilimumab,CTLA-4
+NCT00000169,Thyroiditis,Life-threatening,25,True,Ipilimumab,CTLA-4
+NCT00000169,Colitis,Moderate,18,False,Ipilimumab,CTLA-4
+NCT00000170,Headache,Life-threatening,25,False,Blinatumomab,CD19/CD3
+NCT00000170,Dizziness,Mild,20,True,Blinatumomab,CD19/CD3
+NCT00000170,Seizure,Mild,24,True,Blinatumomab,CD19/CD3
+NCT00000171,Bleeding,Moderate,12,True,Bevacizumab,VEGF
+NCT00000171,Hypertension,Mild,64,True,Bevacizumab,VEGF
+NCT00000171,Thromboembolism,Severe,54,False,Bevacizumab,VEGF
+NCT00000171,Proteinuria,Life-threatening,48,False,Bevacizumab,VEGF
+NCT00000172,Infection,Mild,35,False,Adalimumab,TNF-alpha
+NCT00000172,Pneumonia,Mild,70,False,Adalimumab,TNF-alpha
+NCT00000172,Tuberculosis,Moderate,25,False,Adalimumab,TNF-alpha
+NCT00000172,Sepsis,Life-threatening,2,True,Adalimumab,TNF-alpha
+NCT00000173,Chills,Moderate,59,True,Daratumumab,CD38
+NCT00000173,Rash,Moderate,61,False,Daratumumab,CD38
+NCT00000173,Pruritus,Severe,42,True,Daratumumab,CD38
+NCT00000173,Infusion reaction,Mild,96,True,Daratumumab,CD38
+NCT00000173,Fever,Severe,62,False,Daratumumab,CD38
+NCT00000174,Pruritus,Moderate,82,False,Cetuximab,EGFR
+NCT00000174,Rash,Severe,2,True,Cetuximab,EGFR
+NCT00000174,Dry skin,Severe,75,True,Cetuximab,EGFR
+NCT00000174,Acneiform rash,Life-threatening,32,True,Cetuximab,EGFR
+NCT00000175,Dizziness,Moderate,48,True,Blinatumomab,CD19/CD3
+NCT00000175,Headache,Moderate,21,False,Blinatumomab,CD19/CD3
+NCT00000175,Tremor,Mild,88,False,Blinatumomab,CD19/CD3
+NCT00000176,Cardiac dysfunction,Mild,17,False,Trastuzumab,HER2
+NCT00000176,Hypertension,Moderate,41,False,Trastuzumab,HER2
+NCT00000176,Heart failure,Life-threatening,94,True,Trastuzumab,HER2
+NCT00000176,Arrhythmia,Mild,89,False,Trastuzumab,HER2
+NCT00000177,Thromboembolism,Life-threatening,72,False,Bevacizumab,VEGF
+NCT00000177,Proteinuria,Life-threatening,25,True,Bevacizumab,VEGF
+NCT00000177,Hypertension,Severe,42,False,Bevacizumab,VEGF
+NCT00000177,Bleeding,Severe,77,True,Bevacizumab,VEGF
+NCT00000178,Dizziness,Severe,34,False,Blinatumomab,CD19/CD3
+NCT00000178,Seizure,Life-threatening,1,False,Blinatumomab,CD19/CD3
+NCT00000178,Headache,Moderate,3,False,Blinatumomab,CD19/CD3
+NCT00000179,Pneumonia,Moderate,68,False,Tocilizumab,IL-6
+NCT00000179,Tuberculosis,Moderate,79,False,Tocilizumab,IL-6
+NCT00000179,Infection,Severe,53,False,Tocilizumab,IL-6
+NCT00000179,Sepsis,Mild,13,True,Tocilizumab,IL-6
+NCT00000180,Pneumonia,Moderate,14,False,Adalimumab,TNF-alpha
+NCT00000180,Infection,Moderate,13,True,Adalimumab,TNF-alpha
+NCT00000180,Sepsis,Life-threatening,85,False,Adalimumab,TNF-alpha
+NCT00000181,Sepsis,Mild,2,True,Tocilizumab,IL-6
+NCT00000181,Infection,Life-threatening,11,False,Tocilizumab,IL-6
+NCT00000181,Pneumonia,Mild,47,False,Tocilizumab,IL-6
+NCT00000181,Tuberculosis,Severe,91,True,Tocilizumab,IL-6
+NCT00000182,Bleeding,Severe,10,True,Bevacizumab,VEGF
+NCT00000182,Proteinuria,Mild,13,True,Bevacizumab,VEGF
+NCT00000182,Hypertension,Life-threatening,25,True,Bevacizumab,VEGF
+NCT00000182,Thromboembolism,Moderate,73,True,Bevacizumab,VEGF
+NCT00000183,Tuberculosis,Life-threatening,90,False,Adalimumab,TNF-alpha
+NCT00000183,Sepsis,Mild,22,True,Adalimumab,TNF-alpha
+NCT00000183,Infection,Life-threatening,65,False,Adalimumab,TNF-alpha
+NCT00000183,Pneumonia,Moderate,69,False,Adalimumab,TNF-alpha
+NCT00000184,Sepsis,Life-threatening,98,False,Adalimumab,TNF-alpha
+NCT00000184,Tuberculosis,Severe,78,True,Adalimumab,TNF-alpha
+NCT00000184,Pneumonia,Moderate,49,False,Adalimumab,TNF-alpha
+NCT00000184,Infection,Severe,58,False,Adalimumab,TNF-alpha
+NCT00000185,Infection,Mild,67,True,Adalimumab,TNF-alpha
+NCT00000185,Sepsis,Severe,1,False,Adalimumab,TNF-alpha
+NCT00000185,Tuberculosis,Moderate,28,False,Adalimumab,TNF-alpha
+NCT00000185,Pneumonia,Mild,99,False,Adalimumab,TNF-alpha
+NCT00000186,Pneumonia,Severe,20,True,Adalimumab,TNF-alpha
+NCT00000186,Infection,Severe,47,True,Adalimumab,TNF-alpha
+NCT00000186,Sepsis,Moderate,33,False,Adalimumab,TNF-alpha
+NCT00000186,Tuberculosis,Mild,74,False,Adalimumab,TNF-alpha
+NCT00000187,Pneumonitis,Moderate,63,True,Pembrolizumab,PD-1
+NCT00000187,Colitis,Severe,5,False,Pembrolizumab,PD-1
+NCT00000187,Hepatitis,Mild,100,True,Pembrolizumab,PD-1
+NCT00000187,Rash,Severe,45,False,Pembrolizumab,PD-1
+NCT00000187,Thyroiditis,Life-threatening,16,True,Pembrolizumab,PD-1
+NCT00000188,Rash,Severe,68,True,Ipilimumab,CTLA-4
+NCT00000188,Colitis,Severe,70,True,Ipilimumab,CTLA-4
+NCT00000188,Hepatitis,Severe,65,True,Ipilimumab,CTLA-4
+NCT00000188,Pneumonitis,Moderate,7,False,Ipilimumab,CTLA-4
+NCT00000188,Thyroiditis,Life-threatening,97,True,Ipilimumab,CTLA-4
+NCT00000189,Headache,Moderate,44,True,Blinatumomab,CD19/CD3
+NCT00000189,Tremor,Life-threatening,74,True,Blinatumomab,CD19/CD3
+NCT00000189,Seizure,Life-threatening,34,True,Blinatumomab,CD19/CD3
+NCT00000189,Confusion,Life-threatening,65,False,Blinatumomab,CD19/CD3
+NCT00000190,Pneumonia,Life-threatening,51,True,Adalimumab,TNF-alpha
+NCT00000190,Infection,Moderate,32,True,Adalimumab,TNF-alpha
+NCT00000190,Tuberculosis,Severe,100,False,Adalimumab,TNF-alpha
+NCT00000190,Sepsis,Severe,88,True,Adalimumab,TNF-alpha
+NCT00000191,Dry skin,Severe,25,False,Cetuximab,EGFR
+NCT00000191,Acneiform rash,Severe,77,True,Cetuximab,EGFR
+NCT00000191,Pruritus,Severe,22,False,Cetuximab,EGFR
+NCT00000192,Thyroiditis,Moderate,88,False,Pembrolizumab,PD-1
+NCT00000192,Pneumonitis,Moderate,97,True,Pembrolizumab,PD-1
+NCT00000192,Rash,Mild,95,True,Pembrolizumab,PD-1
+NCT00000192,Colitis,Moderate,80,True,Pembrolizumab,PD-1
+NCT00000192,Hepatitis,Severe,2,False,Pembrolizumab,PD-1
+NCT00000193,Cardiac dysfunction,Mild,43,True,Trastuzumab,HER2
+NCT00000193,Heart failure,Moderate,27,False,Trastuzumab,HER2
+NCT00000193,Arrhythmia,Life-threatening,80,True,Trastuzumab,HER2
+NCT00000193,Hypertension,Mild,49,True,Trastuzumab,HER2
+NCT00000194,Pneumonitis,Mild,60,True,Ipilimumab,CTLA-4
+NCT00000194,Colitis,Mild,50,False,Ipilimumab,CTLA-4
+NCT00000194,Rash,Severe,14,True,Ipilimumab,CTLA-4
+NCT00000194,Thyroiditis,Severe,84,False,Ipilimumab,CTLA-4
+NCT00000194,Hepatitis,Moderate,49,True,Ipilimumab,CTLA-4
+NCT00000195,Headache,Mild,6,True,Blinatumomab,CD19/CD3
+NCT00000195,Confusion,Severe,43,False,Blinatumomab,CD19/CD3
+NCT00000195,Dizziness,Life-threatening,96,True,Blinatumomab,CD19/CD3
+NCT00000195,Tremor,Mild,45,False,Blinatumomab,CD19/CD3
+NCT00000195,Seizure,Severe,81,False,Blinatumomab,CD19/CD3
+NCT00000196,Sepsis,Mild,72,False,Adalimumab,TNF-alpha
+NCT00000196,Infection,Moderate,20,False,Adalimumab,TNF-alpha
+NCT00000196,Pneumonia,Life-threatening,85,True,Adalimumab,TNF-alpha
+NCT00000196,Tuberculosis,Mild,94,False,Adalimumab,TNF-alpha
+NCT00000197,Thromboembolism,Life-threatening,40,False,Bevacizumab,VEGF
+NCT00000197,Proteinuria,Life-threatening,70,True,Bevacizumab,VEGF
+NCT00000197,Hypertension,Moderate,84,True,Bevacizumab,VEGF
+NCT00000197,Bleeding,Moderate,18,False,Bevacizumab,VEGF
+NCT00000198,Rash,Severe,9,True,Pembrolizumab,PD-1
+NCT00000198,Pneumonitis,Moderate,41,True,Pembrolizumab,PD-1
+NCT00000198,Thyroiditis,Mild,98,False,Pembrolizumab,PD-1
+NCT00000198,Colitis,Life-threatening,53,False,Pembrolizumab,PD-1
+NCT00000198,Hepatitis,Life-threatening,96,False,Pembrolizumab,PD-1
+NCT00000199,Pneumonitis,Mild,98,False,Pembrolizumab,PD-1
+NCT00000199,Colitis,Moderate,77,True,Pembrolizumab,PD-1
+NCT00000199,Thyroiditis,Moderate,88,True,Pembrolizumab,PD-1
+NCT00000199,Hepatitis,Severe,11,False,Pembrolizumab,PD-1
+NCT00000200,Rash,Moderate,50,False,Ipilimumab,CTLA-4
+NCT00000200,Thyroiditis,Life-threatening,18,True,Ipilimumab,CTLA-4
+NCT00000200,Hepatitis,Moderate,29,True,Ipilimumab,CTLA-4
+NCT00000200,Pneumonitis,Life-threatening,98,True,Ipilimumab,CTLA-4
+NCT00000201,Proteinuria,Mild,23,False,Bevacizumab,VEGF
+NCT00000201,Hypertension,Life-threatening,89,False,Bevacizumab,VEGF
+NCT00000201,Bleeding,Life-threatening,32,False,Bevacizumab,VEGF
+NCT00000201,Thromboembolism,Life-threatening,100,True,Bevacizumab,VEGF
+NCT00000202,Hypertension,Mild,67,True,Trastuzumab,HER2
+NCT00000202,Arrhythmia,Life-threatening,59,True,Trastuzumab,HER2
+NCT00000202,Heart failure,Moderate,67,False,Trastuzumab,HER2
+NCT00000202,Cardiac dysfunction,Mild,72,False,Trastuzumab,HER2
+NCT00000203,Colitis,Severe,100,False,Ipilimumab,CTLA-4
+NCT00000203,Pneumonitis,Life-threatening,22,False,Ipilimumab,CTLA-4
+NCT00000203,Thyroiditis,Severe,79,True,Ipilimumab,CTLA-4
+NCT00000203,Hepatitis,Moderate,60,False,Ipilimumab,CTLA-4
+NCT00000203,Rash,Mild,93,True,Ipilimumab,CTLA-4
+NCT00000204,Pruritus,Severe,58,True,Daratumumab,CD38
+NCT00000204,Chills,Moderate,59,True,Daratumumab,CD38
+NCT00000204,Rash,Life-threatening,12,False,Daratumumab,CD38
+NCT00000204,Fever,Severe,89,True,Daratumumab,CD38
+NCT00000205,Infection,Severe,11,False,Adalimumab,TNF-alpha
+NCT00000205,Tuberculosis,Moderate,49,False,Adalimumab,TNF-alpha
+NCT00000205,Sepsis,Mild,99,True,Adalimumab,TNF-alpha
+NCT00000205,Pneumonia,Severe,73,True,Adalimumab,TNF-alpha
+NCT00000206,Pneumonitis,Life-threatening,40,False,Pembrolizumab,PD-1
+NCT00000206,Rash,Life-threatening,37,True,Pembrolizumab,PD-1
+NCT00000206,Hepatitis,Mild,17,True,Pembrolizumab,PD-1
+NCT00000206,Colitis,Mild,80,False,Pembrolizumab,PD-1
+NCT00000207,Headache,Mild,78,False,Blinatumomab,CD19/CD3
+NCT00000207,Dizziness,Moderate,28,False,Blinatumomab,CD19/CD3
+NCT00000207,Seizure,Life-threatening,53,False,Blinatumomab,CD19/CD3
+NCT00000208,Rash,Moderate,7,True,Cetuximab,EGFR
+NCT00000208,Dry skin,Moderate,8,False,Cetuximab,EGFR
+NCT00000208,Acneiform rash,Mild,19,True,Cetuximab,EGFR
+NCT00000209,Dizziness,Mild,54,True,Blinatumomab,CD19/CD3
+NCT00000209,Tremor,Moderate,87,False,Blinatumomab,CD19/CD3
+NCT00000209,Seizure,Moderate,59,False,Blinatumomab,CD19/CD3
+NCT00000209,Confusion,Mild,12,False,Blinatumomab,CD19/CD3
+NCT00000209,Headache,Severe,48,False,Blinatumomab,CD19/CD3
+NCT00000210,Dry skin,Severe,61,True,Cetuximab,EGFR
+NCT00000210,Pruritus,Mild,89,False,Cetuximab,EGFR
+NCT00000210,Rash,Severe,68,False,Cetuximab,EGFR
+NCT00000211,Heart failure,Mild,74,True,Trastuzumab,HER2
+NCT00000211,Arrhythmia,Life-threatening,93,False,Trastuzumab,HER2
+NCT00000211,Cardiac dysfunction,Life-threatening,78,False,Trastuzumab,HER2
+NCT00000211,Hypertension,Severe,68,False,Trastuzumab,HER2
+NCT00000212,Tuberculosis,Moderate,79,True,Adalimumab,TNF-alpha
+NCT00000212,Sepsis,Severe,25,True,Adalimumab,TNF-alpha
+NCT00000212,Pneumonia,Mild,4,False,Adalimumab,TNF-alpha
+NCT00000212,Infection,Mild,95,True,Adalimumab,TNF-alpha
+NCT00000213,Headache,Moderate,2,True,Blinatumomab,CD19/CD3
+NCT00000213,Dizziness,Severe,33,True,Blinatumomab,CD19/CD3
+NCT00000213,Confusion,Severe,39,False,Blinatumomab,CD19/CD3
+NCT00000213,Seizure,Mild,15,False,Blinatumomab,CD19/CD3
+NCT00000213,Tremor,Severe,51,True,Blinatumomab,CD19/CD3
+NCT00000214,Pneumonitis,Life-threatening,5,True,Ipilimumab,CTLA-4
+NCT00000214,Hepatitis,Life-threatening,20,False,Ipilimumab,CTLA-4
+NCT00000214,Rash,Severe,60,False,Ipilimumab,CTLA-4
+NCT00000214,Thyroiditis,Mild,67,False,Ipilimumab,CTLA-4
+NCT00000215,Tremor,Mild,20,False,Blinatumomab,CD19/CD3
+NCT00000215,Confusion,Mild,44,False,Blinatumomab,CD19/CD3
+NCT00000215,Headache,Moderate,74,False,Blinatumomab,CD19/CD3
+NCT00000215,Seizure,Moderate,77,True,Blinatumomab,CD19/CD3
+NCT00000215,Dizziness,Severe,91,False,Blinatumomab,CD19/CD3
+NCT00000216,Infection,Life-threatening,31,False,Tocilizumab,IL-6
+NCT00000216,Pneumonia,Life-threatening,39,True,Tocilizumab,IL-6
+NCT00000216,Sepsis,Severe,23,True,Tocilizumab,IL-6
+NCT00000216,Tuberculosis,Severe,5,True,Tocilizumab,IL-6
+NCT00000217,Tuberculosis,Life-threatening,65,True,Tocilizumab,IL-6
+NCT00000217,Sepsis,Moderate,44,False,Tocilizumab,IL-6
+NCT00000217,Infection,Severe,100,False,Tocilizumab,IL-6
+NCT00000218,Rash,Mild,59,False,Cetuximab,EGFR
+NCT00000218,Pruritus,Mild,1,False,Cetuximab,EGFR
+NCT00000218,Dry skin,Mild,88,True,Cetuximab,EGFR
+NCT00000218,Acneiform rash,Severe,60,True,Cetuximab,EGFR
+NCT00000219,Sepsis,Moderate,42,True,Tocilizumab,IL-6
+NCT00000219,Infection,Moderate,37,False,Tocilizumab,IL-6
+NCT00000219,Pneumonia,Severe,99,False,Tocilizumab,IL-6
+NCT00000220,Rash,Severe,15,True,Cetuximab,EGFR
+NCT00000220,Acneiform rash,Mild,27,False,Cetuximab,EGFR
+NCT00000220,Dry skin,Severe,35,True,Cetuximab,EGFR
+NCT00000220,Pruritus,Severe,74,True,Cetuximab,EGFR
+NCT00000221,Rash,Mild,17,True,Cetuximab,EGFR
+NCT00000221,Acneiform rash,Life-threatening,87,True,Cetuximab,EGFR
+NCT00000221,Pruritus,Mild,50,True,Cetuximab,EGFR
+NCT00000221,Dry skin,Mild,55,False,Cetuximab,EGFR
+NCT00000222,Rash,Severe,43,True,Ipilimumab,CTLA-4
+NCT00000222,Thyroiditis,Mild,97,False,Ipilimumab,CTLA-4
+NCT00000222,Hepatitis,Moderate,12,False,Ipilimumab,CTLA-4
+NCT00000222,Pneumonitis,Mild,59,False,Ipilimumab,CTLA-4
+NCT00000223,Proteinuria,Moderate,79,False,Bevacizumab,VEGF
+NCT00000223,Thromboembolism,Severe,51,True,Bevacizumab,VEGF
+NCT00000223,Hypertension,Severe,42,False,Bevacizumab,VEGF
+NCT00000223,Bleeding,Life-threatening,4,True,Bevacizumab,VEGF
+NCT00000224,Infection,Moderate,37,False,Adalimumab,TNF-alpha
+NCT00000224,Pneumonia,Moderate,66,True,Adalimumab,TNF-alpha
+NCT00000224,Sepsis,Life-threatening,92,True,Adalimumab,TNF-alpha
+NCT00000224,Tuberculosis,Severe,72,True,Adalimumab,TNF-alpha
+NCT00000225,Pruritus,Moderate,71,True,Rituximab,CD20
+NCT00000225,Rash,Life-threatening,50,True,Rituximab,CD20
+NCT00000225,Chills,Severe,27,False,Rituximab,CD20
+NCT00000225,Fever,Life-threatening,73,False,Rituximab,CD20
+NCT00000225,Infusion reaction,Moderate,23,True,Rituximab,CD20
+NCT00000226,Tuberculosis,Mild,57,True,Adalimumab,TNF-alpha
+NCT00000226,Infection,Severe,52,True,Adalimumab,TNF-alpha
+NCT00000226,Pneumonia,Mild,88,False,Adalimumab,TNF-alpha
+NCT00000226,Sepsis,Severe,64,True,Adalimumab,TNF-alpha
+NCT00000227,Heart failure,Moderate,85,True,Trastuzumab,HER2
+NCT00000227,Cardiac dysfunction,Life-threatening,69,False,Trastuzumab,HER2
+NCT00000227,Arrhythmia,Life-threatening,79,False,Trastuzumab,HER2
+NCT00000228,Seizure,Life-threatening,92,False,Blinatumomab,CD19/CD3
+NCT00000228,Tremor,Mild,75,True,Blinatumomab,CD19/CD3
+NCT00000228,Dizziness,Life-threatening,17,False,Blinatumomab,CD19/CD3
+NCT00000228,Headache,Mild,48,True,Blinatumomab,CD19/CD3
+NCT00000229,Dizziness,Severe,4,True,Blinatumomab,CD19/CD3
+NCT00000229,Tremor,Life-threatening,90,False,Blinatumomab,CD19/CD3
+NCT00000229,Confusion,Severe,92,False,Blinatumomab,CD19/CD3
+NCT00000230,Dry skin,Life-threatening,18,True,Cetuximab,EGFR
+NCT00000230,Acneiform rash,Life-threatening,47,False,Cetuximab,EGFR
+NCT00000230,Rash,Moderate,37,True,Cetuximab,EGFR
+NCT00000230,Pruritus,Moderate,2,True,Cetuximab,EGFR
+NCT00000231,Confusion,Moderate,11,True,Blinatumomab,CD19/CD3
+NCT00000231,Seizure,Life-threatening,59,False,Blinatumomab,CD19/CD3
+NCT00000231,Tremor,Moderate,59,False,Blinatumomab,CD19/CD3
+NCT00000231,Headache,Life-threatening,50,False,Blinatumomab,CD19/CD3
+NCT00000231,Dizziness,Moderate,24,False,Blinatumomab,CD19/CD3
+NCT00000232,Colitis,Life-threatening,70,False,Ipilimumab,CTLA-4
+NCT00000232,Thyroiditis,Mild,5,False,Ipilimumab,CTLA-4
+NCT00000232,Hepatitis,Severe,15,False,Ipilimumab,CTLA-4
+NCT00000232,Rash,Mild,19,False,Ipilimumab,CTLA-4
+NCT00000232,Pneumonitis,Life-threatening,67,True,Ipilimumab,CTLA-4
+NCT00000233,Infection,Severe,79,True,Adalimumab,TNF-alpha
+NCT00000233,Tuberculosis,Severe,69,True,Adalimumab,TNF-alpha
+NCT00000233,Pneumonia,Life-threatening,59,False,Adalimumab,TNF-alpha
+NCT00000233,Sepsis,Severe,54,False,Adalimumab,TNF-alpha
+NCT00000234,Fever,Mild,81,False,Rituximab,CD20
+NCT00000234,Chills,Moderate,74,True,Rituximab,CD20
+NCT00000234,Infusion reaction,Severe,95,True,Rituximab,CD20
+NCT00000234,Rash,Severe,63,True,Rituximab,CD20
+NCT00000234,Pruritus,Moderate,65,True,Rituximab,CD20
+NCT00000235,Hepatitis,Severe,2,True,Pembrolizumab,PD-1
+NCT00000235,Pneumonitis,Moderate,76,True,Pembrolizumab,PD-1
+NCT00000235,Rash,Life-threatening,48,True,Pembrolizumab,PD-1
+NCT00000235,Thyroiditis,Severe,90,True,Pembrolizumab,PD-1
+NCT00000235,Colitis,Life-threatening,24,True,Pembrolizumab,PD-1
+NCT00000236,Infection,Life-threatening,99,False,Tocilizumab,IL-6
+NCT00000236,Tuberculosis,Moderate,85,False,Tocilizumab,IL-6
+NCT00000236,Sepsis,Moderate,27,False,Tocilizumab,IL-6
+NCT00000236,Pneumonia,Mild,83,False,Tocilizumab,IL-6
+NCT00000237,Confusion,Life-threatening,61,False,Blinatumomab,CD19/CD3
+NCT00000237,Seizure,Life-threatening,96,True,Blinatumomab,CD19/CD3
+NCT00000237,Headache,Life-threatening,88,False,Blinatumomab,CD19/CD3
+NCT00000238,Hepatitis,Severe,58,False,Ipilimumab,CTLA-4
+NCT00000238,Pneumonitis,Severe,68,True,Ipilimumab,CTLA-4
+NCT00000238,Rash,Mild,69,False,Ipilimumab,CTLA-4
+NCT00000238,Thyroiditis,Life-threatening,79,False,Ipilimumab,CTLA-4
+NCT00000238,Colitis,Severe,35,False,Ipilimumab,CTLA-4
+NCT00000239,Fever,Moderate,94,True,Rituximab,CD20
+NCT00000239,Rash,Severe,87,True,Rituximab,CD20
+NCT00000239,Chills,Severe,71,True,Rituximab,CD20
+NCT00000240,Rash,Mild,68,True,Cetuximab,EGFR
+NCT00000240,Dry skin,Life-threatening,45,True,Cetuximab,EGFR
+NCT00000240,Pruritus,Severe,33,True,Cetuximab,EGFR
+NCT00000240,Acneiform rash,Mild,4,True,Cetuximab,EGFR
+NCT00000241,Rash,Mild,91,True,Pembrolizumab,PD-1
+NCT00000241,Pneumonitis,Mild,78,True,Pembrolizumab,PD-1
+NCT00000241,Hepatitis,Life-threatening,85,True,Pembrolizumab,PD-1
+NCT00000242,Heart failure,Life-threatening,85,True,Trastuzumab,HER2
+NCT00000242,Hypertension,Life-threatening,36,False,Trastuzumab,HER2
+NCT00000242,Arrhythmia,Severe,33,True,Trastuzumab,HER2
+NCT00000243,Pruritus,Life-threatening,43,True,Cetuximab,EGFR
+NCT00000243,Rash,Severe,34,True,Cetuximab,EGFR
+NCT00000243,Acneiform rash,Life-threatening,9,False,Cetuximab,EGFR
+NCT00000244,Tuberculosis,Moderate,70,False,Adalimumab,TNF-alpha
+NCT00000244,Infection,Moderate,79,True,Adalimumab,TNF-alpha
+NCT00000244,Pneumonia,Life-threatening,92,False,Adalimumab,TNF-alpha
+NCT00000244,Sepsis,Mild,5,True,Adalimumab,TNF-alpha
+NCT00000245,Sepsis,Life-threatening,20,True,Tocilizumab,IL-6
+NCT00000245,Pneumonia,Mild,86,False,Tocilizumab,IL-6
+NCT00000245,Infection,Severe,20,False,Tocilizumab,IL-6
+NCT00000246,Pruritus,Life-threatening,52,True,Daratumumab,CD38
+NCT00000246,Infusion reaction,Moderate,1,False,Daratumumab,CD38
+NCT00000246,Fever,Life-threatening,16,False,Daratumumab,CD38
+NCT00000246,Chills,Severe,88,False,Daratumumab,CD38
+NCT00000246,Rash,Life-threatening,8,True,Daratumumab,CD38
+NCT00000247,Bleeding,Moderate,23,True,Bevacizumab,VEGF
+NCT00000247,Hypertension,Life-threatening,85,True,Bevacizumab,VEGF
+NCT00000247,Thromboembolism,Severe,90,False,Bevacizumab,VEGF
+NCT00000247,Proteinuria,Mild,81,False,Bevacizumab,VEGF
+NCT00000248,Rash,Moderate,5,True,Cetuximab,EGFR
+NCT00000248,Pruritus,Mild,93,True,Cetuximab,EGFR
+NCT00000248,Acneiform rash,Life-threatening,50,True,Cetuximab,EGFR
+NCT00000248,Dry skin,Severe,64,False,Cetuximab,EGFR
+NCT00000249,Confusion,Severe,93,True,Blinatumomab,CD19/CD3
+NCT00000249,Tremor,Life-threatening,16,True,Blinatumomab,CD19/CD3
+NCT00000249,Dizziness,Life-threatening,87,True,Blinatumomab,CD19/CD3
+NCT00000250,Pruritus,Life-threatening,84,True,Rituximab,CD20
+NCT00000250,Chills,Life-threatening,80,True,Rituximab,CD20
+NCT00000250,Infusion reaction,Moderate,90,True,Rituximab,CD20
+NCT00000250,Fever,Mild,23,True,Rituximab,CD20
+NCT00000250,Rash,Severe,13,False,Rituximab,CD20
+NCT00000251,Pneumonia,Mild,64,True,Adalimumab,TNF-alpha
+NCT00000251,Sepsis,Mild,26,False,Adalimumab,TNF-alpha
+NCT00000251,Infection,Severe,95,False,Adalimumab,TNF-alpha
+NCT00000251,Tuberculosis,Severe,16,True,Adalimumab,TNF-alpha
+NCT00000252,Pneumonitis,Mild,16,False,Pembrolizumab,PD-1
+NCT00000252,Colitis,Moderate,97,False,Pembrolizumab,PD-1
+NCT00000252,Hepatitis,Moderate,90,False,Pembrolizumab,PD-1
+NCT00000252,Thyroiditis,Moderate,57,True,Pembrolizumab,PD-1
+NCT00000252,Rash,Mild,18,True,Pembrolizumab,PD-1
+NCT00000253,Rash,Mild,1,True,Ipilimumab,CTLA-4
+NCT00000253,Thyroiditis,Moderate,12,False,Ipilimumab,CTLA-4
+NCT00000253,Colitis,Life-threatening,89,False,Ipilimumab,CTLA-4
+NCT00000253,Hepatitis,Moderate,27,True,Ipilimumab,CTLA-4
+NCT00000253,Pneumonitis,Severe,67,False,Ipilimumab,CTLA-4
+NCT00000254,Heart failure,Life-threatening,79,True,Trastuzumab,HER2
+NCT00000254,Cardiac dysfunction,Severe,45,False,Trastuzumab,HER2
+NCT00000254,Arrhythmia,Mild,72,True,Trastuzumab,HER2
+NCT00000254,Hypertension,Moderate,16,True,Trastuzumab,HER2
+NCT00000255,Hepatitis,Mild,25,True,Ipilimumab,CTLA-4
+NCT00000255,Pneumonitis,Moderate,88,False,Ipilimumab,CTLA-4
+NCT00000255,Thyroiditis,Life-threatening,23,True,Ipilimumab,CTLA-4
+NCT00000255,Colitis,Mild,7,False,Ipilimumab,CTLA-4
+NCT00000255,Rash,Severe,27,False,Ipilimumab,CTLA-4
+NCT00000256,Sepsis,Mild,95,True,Adalimumab,TNF-alpha
+NCT00000256,Tuberculosis,Moderate,21,True,Adalimumab,TNF-alpha
+NCT00000256,Pneumonia,Life-threatening,66,True,Adalimumab,TNF-alpha
+NCT00000256,Infection,Mild,31,False,Adalimumab,TNF-alpha
+NCT00000257,Dizziness,Moderate,100,True,Blinatumomab,CD19/CD3
+NCT00000257,Tremor,Severe,30,True,Blinatumomab,CD19/CD3
+NCT00000257,Seizure,Moderate,95,False,Blinatumomab,CD19/CD3
+NCT00000257,Confusion,Moderate,49,True,Blinatumomab,CD19/CD3
+NCT00000257,Headache,Mild,61,False,Blinatumomab,CD19/CD3
+NCT00000258,Hypertension,Life-threatening,23,False,Trastuzumab,HER2
+NCT00000258,Cardiac dysfunction,Severe,18,False,Trastuzumab,HER2
+NCT00000258,Arrhythmia,Moderate,81,False,Trastuzumab,HER2
+NCT00000259,Acneiform rash,Mild,36,True,Cetuximab,EGFR
+NCT00000259,Dry skin,Mild,60,False,Cetuximab,EGFR
+NCT00000259,Rash,Life-threatening,22,False,Cetuximab,EGFR
+NCT00000259,Pruritus,Moderate,38,True,Cetuximab,EGFR
+NCT00000260,Thromboembolism,Life-threatening,67,False,Bevacizumab,VEGF
+NCT00000260,Bleeding,Moderate,76,False,Bevacizumab,VEGF
+NCT00000260,Hypertension,Life-threatening,36,True,Bevacizumab,VEGF
+NCT00000260,Proteinuria,Life-threatening,95,True,Bevacizumab,VEGF
+NCT00000261,Bleeding,Mild,54,True,Bevacizumab,VEGF
+NCT00000261,Thromboembolism,Mild,61,True,Bevacizumab,VEGF
+NCT00000261,Hypertension,Life-threatening,68,False,Bevacizumab,VEGF
+NCT00000261,Proteinuria,Life-threatening,90,True,Bevacizumab,VEGF
+NCT00000262,Thyroiditis,Moderate,17,False,Ipilimumab,CTLA-4
+NCT00000262,Pneumonitis,Severe,31,True,Ipilimumab,CTLA-4
+NCT00000262,Colitis,Mild,62,False,Ipilimumab,CTLA-4
+NCT00000262,Hepatitis,Moderate,91,False,Ipilimumab,CTLA-4
+NCT00000262,Rash,Mild,59,False,Ipilimumab,CTLA-4
+NCT00000263,Dry skin,Mild,81,True,Cetuximab,EGFR
+NCT00000263,Rash,Life-threatening,89,False,Cetuximab,EGFR
+NCT00000263,Acneiform rash,Mild,38,False,Cetuximab,EGFR
+NCT00000263,Pruritus,Severe,90,True,Cetuximab,EGFR
+NCT00000264,Colitis,Mild,15,False,Ipilimumab,CTLA-4
+NCT00000264,Hepatitis,Severe,60,True,Ipilimumab,CTLA-4
+NCT00000264,Thyroiditis,Severe,47,True,Ipilimumab,CTLA-4
+NCT00000264,Rash,Mild,72,True,Ipilimumab,CTLA-4
+NCT00000264,Pneumonitis,Moderate,43,True,Ipilimumab,CTLA-4
+NCT00000265,Colitis,Severe,46,False,Ipilimumab,CTLA-4
+NCT00000265,Thyroiditis,Life-threatening,36,True,Ipilimumab,CTLA-4
+NCT00000265,Hepatitis,Mild,48,False,Ipilimumab,CTLA-4
+NCT00000265,Rash,Life-threatening,63,True,Ipilimumab,CTLA-4
+NCT00000265,Pneumonitis,Life-threatening,91,False,Ipilimumab,CTLA-4
+NCT00000266,Rash,Life-threatening,12,True,Ipilimumab,CTLA-4
+NCT00000266,Hepatitis,Life-threatening,23,False,Ipilimumab,CTLA-4
+NCT00000266,Thyroiditis,Mild,14,True,Ipilimumab,CTLA-4
+NCT00000266,Colitis,Severe,15,True,Ipilimumab,CTLA-4
+NCT00000266,Pneumonitis,Life-threatening,20,True,Ipilimumab,CTLA-4
+NCT00000267,Infusion reaction,Severe,54,False,Rituximab,CD20
+NCT00000267,Fever,Mild,38,True,Rituximab,CD20
+NCT00000267,Chills,Mild,3,True,Rituximab,CD20
+NCT00000267,Pruritus,Severe,53,False,Rituximab,CD20
+NCT00000267,Rash,Severe,63,False,Rituximab,CD20
+NCT00000268,Hepatitis,Moderate,62,False,Ipilimumab,CTLA-4
+NCT00000268,Pneumonitis,Severe,99,True,Ipilimumab,CTLA-4
+NCT00000268,Thyroiditis,Moderate,46,False,Ipilimumab,CTLA-4
+NCT00000268,Colitis,Life-threatening,22,True,Ipilimumab,CTLA-4
+NCT00000268,Rash,Severe,24,True,Ipilimumab,CTLA-4
+NCT00000269,Pneumonia,Mild,41,True,Adalimumab,TNF-alpha
+NCT00000269,Infection,Life-threatening,34,False,Adalimumab,TNF-alpha
+NCT00000269,Sepsis,Moderate,27,True,Adalimumab,TNF-alpha
+NCT00000269,Tuberculosis,Severe,45,True,Adalimumab,TNF-alpha
+NCT00000270,Proteinuria,Mild,4,False,Bevacizumab,VEGF
+NCT00000270,Bleeding,Life-threatening,99,True,Bevacizumab,VEGF
+NCT00000270,Hypertension,Life-threatening,41,True,Bevacizumab,VEGF
+NCT00000270,Thromboembolism,Mild,95,False,Bevacizumab,VEGF
+NCT00000271,Fever,Severe,89,True,Daratumumab,CD38
+NCT00000271,Rash,Life-threatening,6,True,Daratumumab,CD38
+NCT00000271,Chills,Mild,40,True,Daratumumab,CD38
+NCT00000271,Infusion reaction,Life-threatening,80,True,Daratumumab,CD38
+NCT00000271,Pruritus,Life-threatening,46,True,Daratumumab,CD38
+NCT00000272,Confusion,Moderate,3,True,Blinatumomab,CD19/CD3
+NCT00000272,Seizure,Life-threatening,87,True,Blinatumomab,CD19/CD3
+NCT00000272,Tremor,Life-threatening,25,False,Blinatumomab,CD19/CD3
+NCT00000272,Dizziness,Severe,78,True,Blinatumomab,CD19/CD3
+NCT00000272,Headache,Severe,51,True,Blinatumomab,CD19/CD3
+NCT00000273,Headache,Severe,45,False,Blinatumomab,CD19/CD3
+NCT00000273,Tremor,Severe,58,True,Blinatumomab,CD19/CD3
+NCT00000273,Seizure,Moderate,94,False,Blinatumomab,CD19/CD3
+NCT00000273,Dizziness,Life-threatening,57,False,Blinatumomab,CD19/CD3
+NCT00000273,Confusion,Moderate,94,False,Blinatumomab,CD19/CD3
+NCT00000274,Dry skin,Moderate,39,False,Cetuximab,EGFR
+NCT00000274,Rash,Severe,9,False,Cetuximab,EGFR
+NCT00000274,Pruritus,Mild,1,False,Cetuximab,EGFR
+NCT00000274,Acneiform rash,Severe,54,True,Cetuximab,EGFR
+NCT00000275,Rash,Severe,71,False,Rituximab,CD20
+NCT00000275,Chills,Mild,39,False,Rituximab,CD20
+NCT00000275,Infusion reaction,Life-threatening,72,False,Rituximab,CD20
+NCT00000275,Fever,Moderate,4,True,Rituximab,CD20
+NCT00000275,Pruritus,Moderate,34,False,Rituximab,CD20
+NCT00000276,Headache,Moderate,63,True,Blinatumomab,CD19/CD3
+NCT00000276,Confusion,Mild,16,False,Blinatumomab,CD19/CD3
+NCT00000276,Tremor,Life-threatening,9,False,Blinatumomab,CD19/CD3
+NCT00000276,Seizure,Life-threatening,73,False,Blinatumomab,CD19/CD3
+NCT00000276,Dizziness,Severe,81,False,Blinatumomab,CD19/CD3
+NCT00000277,Infection,Moderate,75,True,Tocilizumab,IL-6
+NCT00000277,Pneumonia,Moderate,41,False,Tocilizumab,IL-6
+NCT00000277,Tuberculosis,Moderate,46,True,Tocilizumab,IL-6
+NCT00000277,Sepsis,Mild,35,False,Tocilizumab,IL-6
+NCT00000278,Tremor,Moderate,99,True,Blinatumomab,CD19/CD3
+NCT00000278,Confusion,Mild,77,True,Blinatumomab,CD19/CD3
+NCT00000278,Seizure,Severe,41,False,Blinatumomab,CD19/CD3
+NCT00000278,Dizziness,Severe,88,False,Blinatumomab,CD19/CD3
+NCT00000278,Headache,Mild,69,False,Blinatumomab,CD19/CD3
+NCT00000279,Colitis,Severe,100,False,Ipilimumab,CTLA-4
+NCT00000279,Pneumonitis,Life-threatening,44,True,Ipilimumab,CTLA-4
+NCT00000279,Hepatitis,Mild,28,True,Ipilimumab,CTLA-4
+NCT00000279,Thyroiditis,Moderate,25,True,Ipilimumab,CTLA-4
+NCT00000280,Headache,Life-threatening,45,False,Blinatumomab,CD19/CD3
+NCT00000280,Confusion,Severe,18,False,Blinatumomab,CD19/CD3
+NCT00000280,Dizziness,Severe,23,False,Blinatumomab,CD19/CD3
+NCT00000280,Tremor,Mild,96,True,Blinatumomab,CD19/CD3
+NCT00000280,Seizure,Moderate,17,True,Blinatumomab,CD19/CD3
+NCT00000281,Pneumonitis,Mild,55,True,Pembrolizumab,PD-1
+NCT00000281,Hepatitis,Mild,3,False,Pembrolizumab,PD-1
+NCT00000281,Colitis,Life-threatening,6,True,Pembrolizumab,PD-1
+NCT00000281,Thyroiditis,Mild,5,True,Pembrolizumab,PD-1
+NCT00000281,Rash,Life-threatening,16,False,Pembrolizumab,PD-1
+NCT00000282,Infection,Mild,16,True,Adalimumab,TNF-alpha
+NCT00000282,Pneumonia,Moderate,24,False,Adalimumab,TNF-alpha
+NCT00000282,Tuberculosis,Mild,12,True,Adalimumab,TNF-alpha
+NCT00000283,Bleeding,Moderate,65,True,Bevacizumab,VEGF
+NCT00000283,Proteinuria,Mild,13,True,Bevacizumab,VEGF
+NCT00000283,Thromboembolism,Moderate,92,True,Bevacizumab,VEGF
+NCT00000283,Hypertension,Severe,22,True,Bevacizumab,VEGF
+NCT00000284,Infection,Moderate,57,True,Tocilizumab,IL-6
+NCT00000284,Tuberculosis,Moderate,46,False,Tocilizumab,IL-6
+NCT00000284,Pneumonia,Life-threatening,28,True,Tocilizumab,IL-6
+NCT00000284,Sepsis,Life-threatening,15,False,Tocilizumab,IL-6
+NCT00000285,Dry skin,Life-threatening,98,False,Cetuximab,EGFR
+NCT00000285,Rash,Severe,72,True,Cetuximab,EGFR
+NCT00000285,Pruritus,Mild,42,False,Cetuximab,EGFR
+NCT00000286,Thyroiditis,Severe,88,False,Ipilimumab,CTLA-4
+NCT00000286,Hepatitis,Moderate,71,False,Ipilimumab,CTLA-4
+NCT00000286,Pneumonitis,Severe,55,True,Ipilimumab,CTLA-4
+NCT00000287,Tuberculosis,Moderate,2,False,Tocilizumab,IL-6
+NCT00000287,Sepsis,Mild,51,False,Tocilizumab,IL-6
+NCT00000287,Pneumonia,Mild,16,True,Tocilizumab,IL-6
+NCT00000288,Proteinuria,Mild,47,True,Bevacizumab,VEGF
+NCT00000288,Bleeding,Severe,26,False,Bevacizumab,VEGF
+NCT00000288,Hypertension,Mild,30,False,Bevacizumab,VEGF
+NCT00000288,Thromboembolism,Life-threatening,36,False,Bevacizumab,VEGF
+NCT00000289,Rash,Severe,19,False,Daratumumab,CD38
+NCT00000289,Fever,Mild,16,False,Daratumumab,CD38
+NCT00000289,Chills,Life-threatening,64,True,Daratumumab,CD38
+NCT00000289,Pruritus,Moderate,4,True,Daratumumab,CD38
+NCT00000289,Infusion reaction,Mild,9,False,Daratumumab,CD38
+NCT00000290,Infection,Moderate,39,True,Adalimumab,TNF-alpha
+NCT00000290,Tuberculosis,Mild,85,False,Adalimumab,TNF-alpha
+NCT00000290,Pneumonia,Life-threatening,26,False,Adalimumab,TNF-alpha
+NCT00000290,Sepsis,Life-threatening,63,False,Adalimumab,TNF-alpha
+NCT00000291,Arrhythmia,Life-threatening,16,False,Trastuzumab,HER2
+NCT00000291,Hypertension,Life-threatening,41,False,Trastuzumab,HER2
+NCT00000291,Cardiac dysfunction,Life-threatening,59,True,Trastuzumab,HER2
+NCT00000291,Heart failure,Mild,23,False,Trastuzumab,HER2
+NCT00000292,Chills,Life-threatening,63,True,Rituximab,CD20
+NCT00000292,Rash,Life-threatening,85,False,Rituximab,CD20
+NCT00000292,Pruritus,Life-threatening,72,True,Rituximab,CD20
+NCT00000292,Infusion reaction,Mild,51,False,Rituximab,CD20
+NCT00000292,Fever,Life-threatening,76,False,Rituximab,CD20
+NCT00000293,Hepatitis,Mild,17,False,Ipilimumab,CTLA-4
+NCT00000293,Rash,Severe,95,True,Ipilimumab,CTLA-4
+NCT00000293,Pneumonitis,Severe,49,True,Ipilimumab,CTLA-4
+NCT00000293,Colitis,Life-threatening,45,False,Ipilimumab,CTLA-4
+NCT00000293,Thyroiditis,Life-threatening,45,True,Ipilimumab,CTLA-4
+NCT00000294,Pneumonitis,Mild,40,True,Ipilimumab,CTLA-4
+NCT00000294,Rash,Severe,22,True,Ipilimumab,CTLA-4
+NCT00000294,Colitis,Severe,5,False,Ipilimumab,CTLA-4
+NCT00000294,Thyroiditis,Life-threatening,73,False,Ipilimumab,CTLA-4
+NCT00000294,Hepatitis,Severe,3,False,Ipilimumab,CTLA-4
+NCT00000295,Infection,Severe,74,True,Tocilizumab,IL-6
+NCT00000295,Pneumonia,Life-threatening,13,True,Tocilizumab,IL-6
+NCT00000295,Sepsis,Severe,64,False,Tocilizumab,IL-6
+NCT00000295,Tuberculosis,Moderate,79,False,Tocilizumab,IL-6
+NCT00000296,Tuberculosis,Moderate,37,False,Adalimumab,TNF-alpha
+NCT00000296,Infection,Mild,39,False,Adalimumab,TNF-alpha
+NCT00000296,Pneumonia,Moderate,80,True,Adalimumab,TNF-alpha
+NCT00000296,Sepsis,Mild,76,False,Adalimumab,TNF-alpha
+NCT00000297,Colitis,Mild,84,False,Pembrolizumab,PD-1
+NCT00000297,Thyroiditis,Severe,56,False,Pembrolizumab,PD-1
+NCT00000297,Pneumonitis,Moderate,54,False,Pembrolizumab,PD-1
+NCT00000297,Rash,Severe,80,False,Pembrolizumab,PD-1
+NCT00000297,Hepatitis,Moderate,3,True,Pembrolizumab,PD-1
+NCT00000298,Thyroiditis,Life-threatening,73,True,Pembrolizumab,PD-1
+NCT00000298,Pneumonitis,Moderate,47,False,Pembrolizumab,PD-1
+NCT00000298,Hepatitis,Moderate,31,True,Pembrolizumab,PD-1
+NCT00000298,Rash,Severe,56,False,Pembrolizumab,PD-1
+NCT00000298,Colitis,Severe,9,True,Pembrolizumab,PD-1
+NCT00000299,Hepatitis,Moderate,52,True,Ipilimumab,CTLA-4
+NCT00000299,Rash,Mild,20,True,Ipilimumab,CTLA-4
+NCT00000299,Thyroiditis,Mild,32,False,Ipilimumab,CTLA-4
+NCT00000299,Colitis,Life-threatening,63,False,Ipilimumab,CTLA-4
+NCT00000299,Pneumonitis,Life-threatening,83,True,Ipilimumab,CTLA-4
+NCT00000300,Pneumonia,Severe,36,True,Adalimumab,TNF-alpha
+NCT00000300,Tuberculosis,Mild,93,False,Adalimumab,TNF-alpha
+NCT00000300,Infection,Mild,8,True,Adalimumab,TNF-alpha
+NCT00000300,Sepsis,Severe,78,False,Adalimumab,TNF-alpha
+NCT00000301,Rash,Mild,51,True,Daratumumab,CD38
+NCT00000301,Fever,Moderate,15,True,Daratumumab,CD38
+NCT00000301,Pruritus,Severe,64,True,Daratumumab,CD38
+NCT00000302,Dizziness,Life-threatening,96,True,Blinatumomab,CD19/CD3
+NCT00000302,Confusion,Life-threatening,28,True,Blinatumomab,CD19/CD3
+NCT00000302,Seizure,Mild,23,True,Blinatumomab,CD19/CD3
+NCT00000302,Tremor,Severe,57,False,Blinatumomab,CD19/CD3
+NCT00000303,Dizziness,Severe,70,False,Blinatumomab,CD19/CD3
+NCT00000303,Confusion,Life-threatening,88,True,Blinatumomab,CD19/CD3
+NCT00000303,Seizure,Severe,19,False,Blinatumomab,CD19/CD3
+NCT00000303,Tremor,Life-threatening,92,False,Blinatumomab,CD19/CD3
+NCT00000303,Headache,Severe,3,True,Blinatumomab,CD19/CD3
+NCT00000304,Infusion reaction,Severe,88,True,Daratumumab,CD38
+NCT00000304,Chills,Moderate,57,False,Daratumumab,CD38
+NCT00000304,Rash,Mild,51,False,Daratumumab,CD38
+NCT00000304,Fever,Severe,12,True,Daratumumab,CD38
+NCT00000304,Pruritus,Severe,27,True,Daratumumab,CD38
+NCT00000305,Fever,Life-threatening,61,False,Rituximab,CD20
+NCT00000305,Rash,Severe,92,False,Rituximab,CD20
+NCT00000305,Infusion reaction,Mild,21,False,Rituximab,CD20
+NCT00000305,Chills,Mild,46,False,Rituximab,CD20
+NCT00000305,Pruritus,Severe,59,True,Rituximab,CD20
+NCT00000306,Heart failure,Moderate,1,False,Trastuzumab,HER2
+NCT00000306,Arrhythmia,Moderate,81,False,Trastuzumab,HER2
+NCT00000306,Hypertension,Severe,74,True,Trastuzumab,HER2
+NCT00000307,Heart failure,Life-threatening,41,False,Trastuzumab,HER2
+NCT00000307,Cardiac dysfunction,Life-threatening,95,True,Trastuzumab,HER2
+NCT00000307,Arrhythmia,Severe,23,False,Trastuzumab,HER2
+NCT00000308,Pneumonitis,Life-threatening,49,True,Pembrolizumab,PD-1
+NCT00000308,Colitis,Mild,3,True,Pembrolizumab,PD-1
+NCT00000308,Rash,Mild,60,True,Pembrolizumab,PD-1
+NCT00000308,Hepatitis,Severe,90,True,Pembrolizumab,PD-1
+NCT00000308,Thyroiditis,Mild,52,False,Pembrolizumab,PD-1
+NCT00000309,Pruritus,Moderate,73,True,Cetuximab,EGFR
+NCT00000309,Rash,Mild,92,False,Cetuximab,EGFR
+NCT00000309,Dry skin,Life-threatening,87,False,Cetuximab,EGFR
+NCT00000309,Acneiform rash,Mild,29,True,Cetuximab,EGFR
+NCT00000310,Arrhythmia,Moderate,56,True,Trastuzumab,HER2
+NCT00000310,Heart failure,Moderate,37,True,Trastuzumab,HER2
+NCT00000310,Hypertension,Life-threatening,24,False,Trastuzumab,HER2
+NCT00000310,Cardiac dysfunction,Moderate,4,False,Trastuzumab,HER2
+NCT00000311,Acneiform rash,Severe,75,False,Cetuximab,EGFR
+NCT00000311,Pruritus,Mild,2,False,Cetuximab,EGFR
+NCT00000311,Dry skin,Moderate,42,False,Cetuximab,EGFR
+NCT00000311,Rash,Moderate,92,False,Cetuximab,EGFR
+NCT00000312,Tuberculosis,Mild,72,True,Tocilizumab,IL-6
+NCT00000312,Sepsis,Mild,43,True,Tocilizumab,IL-6
+NCT00000312,Pneumonia,Life-threatening,46,True,Tocilizumab,IL-6
+NCT00000312,Infection,Mild,33,False,Tocilizumab,IL-6
+NCT00000313,Hypertension,Mild,75,True,Trastuzumab,HER2
+NCT00000313,Arrhythmia,Severe,22,False,Trastuzumab,HER2
+NCT00000313,Heart failure,Severe,60,True,Trastuzumab,HER2
+NCT00000313,Cardiac dysfunction,Mild,41,False,Trastuzumab,HER2
+NCT00000314,Sepsis,Moderate,64,False,Adalimumab,TNF-alpha
+NCT00000314,Infection,Severe,56,False,Adalimumab,TNF-alpha
+NCT00000314,Pneumonia,Severe,79,False,Adalimumab,TNF-alpha
+NCT00000314,Tuberculosis,Severe,56,True,Adalimumab,TNF-alpha
+NCT00000315,Hypertension,Moderate,20,True,Trastuzumab,HER2
+NCT00000315,Cardiac dysfunction,Moderate,24,True,Trastuzumab,HER2
+NCT00000315,Heart failure,Life-threatening,34,True,Trastuzumab,HER2
+NCT00000315,Arrhythmia,Life-threatening,56,True,Trastuzumab,HER2
+NCT00000316,Cardiac dysfunction,Life-threatening,64,True,Trastuzumab,HER2
+NCT00000316,Heart failure,Moderate,16,False,Trastuzumab,HER2
+NCT00000316,Arrhythmia,Mild,27,False,Trastuzumab,HER2
+NCT00000316,Hypertension,Moderate,22,False,Trastuzumab,HER2
+NCT00000317,Rash,Life-threatening,10,True,Pembrolizumab,PD-1
+NCT00000317,Pneumonitis,Life-threatening,87,True,Pembrolizumab,PD-1
+NCT00000317,Hepatitis,Severe,4,False,Pembrolizumab,PD-1
+NCT00000317,Colitis,Mild,51,False,Pembrolizumab,PD-1
+NCT00000317,Thyroiditis,Mild,42,True,Pembrolizumab,PD-1
+NCT00000318,Cardiac dysfunction,Life-threatening,81,False,Trastuzumab,HER2
+NCT00000318,Heart failure,Mild,43,True,Trastuzumab,HER2
+NCT00000318,Arrhythmia,Life-threatening,42,True,Trastuzumab,HER2
+NCT00000319,Infusion reaction,Mild,71,False,Rituximab,CD20
+NCT00000319,Fever,Mild,52,False,Rituximab,CD20
+NCT00000319,Chills,Moderate,31,False,Rituximab,CD20
+NCT00000319,Pruritus,Mild,3,True,Rituximab,CD20
+NCT00000320,Hypertension,Mild,39,False,Trastuzumab,HER2
+NCT00000320,Heart failure,Life-threatening,95,False,Trastuzumab,HER2
+NCT00000320,Arrhythmia,Moderate,46,True,Trastuzumab,HER2
+NCT00000320,Cardiac dysfunction,Severe,66,True,Trastuzumab,HER2
+NCT00000321,Proteinuria,Life-threatening,12,False,Bevacizumab,VEGF
+NCT00000321,Thromboembolism,Severe,79,True,Bevacizumab,VEGF
+NCT00000321,Bleeding,Life-threatening,81,False,Bevacizumab,VEGF
+NCT00000321,Hypertension,Mild,6,False,Bevacizumab,VEGF
+NCT00000322,Heart failure,Mild,38,False,Trastuzumab,HER2
+NCT00000322,Arrhythmia,Life-threatening,11,False,Trastuzumab,HER2
+NCT00000322,Cardiac dysfunction,Severe,20,True,Trastuzumab,HER2
+NCT00000322,Hypertension,Severe,32,False,Trastuzumab,HER2
+NCT00000323,Rash,Mild,66,False,Cetuximab,EGFR
+NCT00000323,Pruritus,Life-threatening,13,False,Cetuximab,EGFR
+NCT00000323,Dry skin,Severe,46,False,Cetuximab,EGFR
+NCT00000323,Acneiform rash,Mild,99,True,Cetuximab,EGFR
+NCT00000324,Rash,Life-threatening,6,True,Rituximab,CD20
+NCT00000324,Chills,Life-threatening,91,False,Rituximab,CD20
+NCT00000324,Infusion reaction,Severe,76,False,Rituximab,CD20
+NCT00000325,Tuberculosis,Moderate,28,True,Tocilizumab,IL-6
+NCT00000325,Sepsis,Mild,96,False,Tocilizumab,IL-6
+NCT00000325,Pneumonia,Mild,56,True,Tocilizumab,IL-6
+NCT00000325,Infection,Mild,51,True,Tocilizumab,IL-6
+NCT00000326,Pneumonitis,Life-threatening,85,False,Pembrolizumab,PD-1
+NCT00000326,Thyroiditis,Severe,80,False,Pembrolizumab,PD-1
+NCT00000326,Rash,Life-threatening,39,True,Pembrolizumab,PD-1
+NCT00000327,Chills,Mild,90,True,Rituximab,CD20
+NCT00000327,Infusion reaction,Mild,27,False,Rituximab,CD20
+NCT00000327,Rash,Moderate,84,True,Rituximab,CD20
+NCT00000327,Fever,Life-threatening,81,True,Rituximab,CD20
+NCT00000328,Pruritus,Life-threatening,55,True,Cetuximab,EGFR
+NCT00000328,Acneiform rash,Mild,22,True,Cetuximab,EGFR
+NCT00000328,Rash,Life-threatening,63,False,Cetuximab,EGFR
+NCT00000329,Thyroiditis,Severe,73,False,Pembrolizumab,PD-1
+NCT00000329,Pneumonitis,Mild,43,True,Pembrolizumab,PD-1
+NCT00000329,Colitis,Mild,81,False,Pembrolizumab,PD-1
+NCT00000330,Thyroiditis,Life-threatening,66,False,Ipilimumab,CTLA-4
+NCT00000330,Hepatitis,Moderate,92,True,Ipilimumab,CTLA-4
+NCT00000330,Colitis,Mild,55,False,Ipilimumab,CTLA-4
+NCT00000330,Pneumonitis,Mild,35,False,Ipilimumab,CTLA-4
+NCT00000330,Rash,Life-threatening,15,False,Ipilimumab,CTLA-4
+NCT00000331,Hepatitis,Moderate,37,True,Pembrolizumab,PD-1
+NCT00000331,Thyroiditis,Life-threatening,45,False,Pembrolizumab,PD-1
+NCT00000331,Rash,Moderate,65,True,Pembrolizumab,PD-1
+NCT00000331,Pneumonitis,Severe,78,False,Pembrolizumab,PD-1
+NCT00000331,Colitis,Moderate,38,False,Pembrolizumab,PD-1
+NCT00000332,Arrhythmia,Severe,89,True,Trastuzumab,HER2
+NCT00000332,Heart failure,Life-threatening,17,True,Trastuzumab,HER2
+NCT00000332,Cardiac dysfunction,Moderate,21,False,Trastuzumab,HER2
+NCT00000332,Hypertension,Mild,54,False,Trastuzumab,HER2
+NCT00000333,Seizure,Severe,34,False,Blinatumomab,CD19/CD3
+NCT00000333,Dizziness,Moderate,23,True,Blinatumomab,CD19/CD3
+NCT00000333,Tremor,Mild,44,False,Blinatumomab,CD19/CD3
+NCT00000333,Confusion,Mild,80,True,Blinatumomab,CD19/CD3
+NCT00000333,Headache,Mild,72,True,Blinatumomab,CD19/CD3
+NCT00000334,Bleeding,Severe,20,True,Bevacizumab,VEGF
+NCT00000334,Thromboembolism,Mild,57,False,Bevacizumab,VEGF
+NCT00000334,Proteinuria,Mild,14,True,Bevacizumab,VEGF
+NCT00000334,Hypertension,Mild,65,True,Bevacizumab,VEGF
+NCT00000335,Cardiac dysfunction,Severe,91,False,Trastuzumab,HER2
+NCT00000335,Hypertension,Life-threatening,94,True,Trastuzumab,HER2
+NCT00000335,Heart failure,Moderate,83,False,Trastuzumab,HER2
+NCT00000335,Arrhythmia,Severe,18,True,Trastuzumab,HER2
+NCT00000336,Rash,Life-threatening,44,False,Daratumumab,CD38
+NCT00000336,Pruritus,Moderate,11,False,Daratumumab,CD38
+NCT00000336,Infusion reaction,Severe,92,False,Daratumumab,CD38
+NCT00000336,Fever,Severe,81,True,Daratumumab,CD38
+NCT00000337,Dry skin,Life-threatening,53,False,Cetuximab,EGFR
+NCT00000337,Rash,Severe,4,False,Cetuximab,EGFR
+NCT00000337,Pruritus,Moderate,99,True,Cetuximab,EGFR
+NCT00000337,Acneiform rash,Mild,11,False,Cetuximab,EGFR
+NCT00000338,Tuberculosis,Life-threatening,98,True,Adalimumab,TNF-alpha
+NCT00000338,Infection,Moderate,74,True,Adalimumab,TNF-alpha
+NCT00000338,Pneumonia,Severe,54,False,Adalimumab,TNF-alpha
+NCT00000338,Sepsis,Severe,93,False,Adalimumab,TNF-alpha
+NCT00000339,Infection,Life-threatening,83,True,Adalimumab,TNF-alpha
+NCT00000339,Pneumonia,Life-threatening,90,False,Adalimumab,TNF-alpha
+NCT00000339,Tuberculosis,Life-threatening,100,True,Adalimumab,TNF-alpha
+NCT00000339,Sepsis,Severe,11,True,Adalimumab,TNF-alpha
+NCT00000340,Fever,Moderate,12,False,Rituximab,CD20
+NCT00000340,Rash,Severe,97,True,Rituximab,CD20
+NCT00000340,Pruritus,Mild,4,False,Rituximab,CD20
+NCT00000340,Infusion reaction,Moderate,100,False,Rituximab,CD20
+NCT00000340,Chills,Life-threatening,65,True,Rituximab,CD20
+NCT00000341,Colitis,Mild,97,True,Pembrolizumab,PD-1
+NCT00000341,Hepatitis,Life-threatening,39,True,Pembrolizumab,PD-1
+NCT00000341,Pneumonitis,Life-threatening,44,True,Pembrolizumab,PD-1
+NCT00000341,Thyroiditis,Moderate,45,False,Pembrolizumab,PD-1
+NCT00000341,Rash,Severe,86,True,Pembrolizumab,PD-1
+NCT00000342,Rash,Severe,59,True,Daratumumab,CD38
+NCT00000342,Chills,Moderate,92,False,Daratumumab,CD38
+NCT00000342,Infusion reaction,Life-threatening,11,True,Daratumumab,CD38
+NCT00000342,Pruritus,Mild,55,True,Daratumumab,CD38
+NCT00000342,Fever,Life-threatening,28,False,Daratumumab,CD38
+NCT00000343,Fever,Life-threatening,34,False,Rituximab,CD20
+NCT00000343,Rash,Life-threatening,57,False,Rituximab,CD20
+NCT00000343,Pruritus,Life-threatening,21,True,Rituximab,CD20
+NCT00000344,Heart failure,Mild,89,True,Trastuzumab,HER2
+NCT00000344,Hypertension,Life-threatening,61,True,Trastuzumab,HER2
+NCT00000344,Arrhythmia,Moderate,72,False,Trastuzumab,HER2
+NCT00000344,Cardiac dysfunction,Mild,78,False,Trastuzumab,HER2
+NCT00000345,Colitis,Severe,6,True,Ipilimumab,CTLA-4
+NCT00000345,Hepatitis,Mild,48,False,Ipilimumab,CTLA-4
+NCT00000345,Thyroiditis,Severe,39,False,Ipilimumab,CTLA-4
+NCT00000346,Cardiac dysfunction,Mild,40,False,Trastuzumab,HER2
+NCT00000346,Hypertension,Moderate,24,False,Trastuzumab,HER2
+NCT00000346,Arrhythmia,Mild,16,False,Trastuzumab,HER2
+NCT00000346,Heart failure,Mild,6,False,Trastuzumab,HER2
+NCT00000347,Rash,Life-threatening,61,True,Pembrolizumab,PD-1
+NCT00000347,Hepatitis,Moderate,65,False,Pembrolizumab,PD-1
+NCT00000347,Thyroiditis,Life-threatening,86,False,Pembrolizumab,PD-1
+NCT00000347,Pneumonitis,Moderate,94,False,Pembrolizumab,PD-1
+NCT00000347,Colitis,Mild,80,False,Pembrolizumab,PD-1
+NCT00000348,Acneiform rash,Life-threatening,95,False,Cetuximab,EGFR
+NCT00000348,Dry skin,Mild,22,True,Cetuximab,EGFR
+NCT00000348,Pruritus,Severe,72,True,Cetuximab,EGFR
+NCT00000348,Rash,Mild,25,True,Cetuximab,EGFR
+NCT00000349,Rash,Moderate,3,False,Ipilimumab,CTLA-4
+NCT00000349,Pneumonitis,Moderate,32,False,Ipilimumab,CTLA-4
+NCT00000349,Thyroiditis,Mild,69,False,Ipilimumab,CTLA-4
+NCT00000349,Colitis,Life-threatening,76,True,Ipilimumab,CTLA-4
+NCT00000349,Hepatitis,Life-threatening,3,False,Ipilimumab,CTLA-4
+NCT00000350,Acneiform rash,Life-threatening,33,True,Cetuximab,EGFR
+NCT00000350,Dry skin,Mild,13,True,Cetuximab,EGFR
+NCT00000350,Rash,Severe,19,True,Cetuximab,EGFR
+NCT00000350,Pruritus,Severe,99,True,Cetuximab,EGFR
+NCT00000351,Sepsis,Severe,24,True,Tocilizumab,IL-6
+NCT00000351,Pneumonia,Mild,39,False,Tocilizumab,IL-6
+NCT00000351,Infection,Mild,41,True,Tocilizumab,IL-6
+NCT00000351,Tuberculosis,Life-threatening,42,False,Tocilizumab,IL-6
+NCT00000352,Infusion reaction,Life-threatening,66,False,Daratumumab,CD38
+NCT00000352,Pruritus,Mild,35,True,Daratumumab,CD38
+NCT00000352,Rash,Severe,60,False,Daratumumab,CD38
+NCT00000352,Fever,Mild,62,True,Daratumumab,CD38
+NCT00000352,Chills,Life-threatening,82,True,Daratumumab,CD38
+NCT00000353,Sepsis,Moderate,98,True,Tocilizumab,IL-6
+NCT00000353,Tuberculosis,Severe,73,False,Tocilizumab,IL-6
+NCT00000353,Infection,Life-threatening,11,True,Tocilizumab,IL-6
+NCT00000354,Hepatitis,Life-threatening,6,True,Pembrolizumab,PD-1
+NCT00000354,Pneumonitis,Life-threatening,80,False,Pembrolizumab,PD-1
+NCT00000354,Colitis,Moderate,1,True,Pembrolizumab,PD-1
+NCT00000354,Thyroiditis,Life-threatening,35,False,Pembrolizumab,PD-1
+NCT00000355,Thyroiditis,Mild,21,True,Ipilimumab,CTLA-4
+NCT00000355,Hepatitis,Severe,12,False,Ipilimumab,CTLA-4
+NCT00000355,Rash,Mild,18,False,Ipilimumab,CTLA-4
+NCT00000355,Colitis,Life-threatening,27,False,Ipilimumab,CTLA-4
+NCT00000355,Pneumonitis,Severe,82,False,Ipilimumab,CTLA-4
+NCT00000356,Thyroiditis,Moderate,59,False,Pembrolizumab,PD-1
+NCT00000356,Hepatitis,Mild,89,True,Pembrolizumab,PD-1
+NCT00000356,Colitis,Mild,78,False,Pembrolizumab,PD-1
+NCT00000356,Pneumonitis,Mild,2,True,Pembrolizumab,PD-1
+NCT00000356,Rash,Life-threatening,72,False,Pembrolizumab,PD-1
+NCT00000357,Rash,Life-threatening,87,True,Ipilimumab,CTLA-4
+NCT00000357,Colitis,Severe,49,False,Ipilimumab,CTLA-4
+NCT00000357,Hepatitis,Life-threatening,23,True,Ipilimumab,CTLA-4
+NCT00000357,Thyroiditis,Mild,60,False,Ipilimumab,CTLA-4
+NCT00000357,Pneumonitis,Moderate,57,True,Ipilimumab,CTLA-4
+NCT00000358,Confusion,Moderate,12,False,Blinatumomab,CD19/CD3
+NCT00000358,Tremor,Moderate,30,False,Blinatumomab,CD19/CD3
+NCT00000358,Headache,Severe,5,False,Blinatumomab,CD19/CD3
+NCT00000358,Seizure,Life-threatening,91,True,Blinatumomab,CD19/CD3
+NCT00000359,Pneumonia,Mild,36,False,Adalimumab,TNF-alpha
+NCT00000359,Sepsis,Moderate,71,True,Adalimumab,TNF-alpha
+NCT00000359,Tuberculosis,Moderate,9,True,Adalimumab,TNF-alpha
+NCT00000360,Infection,Severe,25,True,Tocilizumab,IL-6
+NCT00000360,Tuberculosis,Severe,88,False,Tocilizumab,IL-6
+NCT00000360,Pneumonia,Mild,55,True,Tocilizumab,IL-6
+NCT00000360,Sepsis,Severe,56,False,Tocilizumab,IL-6
+NCT00000361,Confusion,Moderate,7,False,Blinatumomab,CD19/CD3
+NCT00000361,Headache,Life-threatening,69,False,Blinatumomab,CD19/CD3
+NCT00000361,Seizure,Severe,1,False,Blinatumomab,CD19/CD3
+NCT00000361,Tremor,Moderate,43,True,Blinatumomab,CD19/CD3
+NCT00000361,Dizziness,Mild,95,True,Blinatumomab,CD19/CD3
+NCT00000362,Tuberculosis,Moderate,43,False,Adalimumab,TNF-alpha
+NCT00000362,Infection,Mild,81,True,Adalimumab,TNF-alpha
+NCT00000362,Sepsis,Mild,62,False,Adalimumab,TNF-alpha
+NCT00000362,Pneumonia,Mild,76,False,Adalimumab,TNF-alpha
+NCT00000363,Pneumonitis,Mild,43,True,Ipilimumab,CTLA-4
+NCT00000363,Colitis,Mild,100,False,Ipilimumab,CTLA-4
+NCT00000363,Rash,Mild,81,False,Ipilimumab,CTLA-4
+NCT00000363,Thyroiditis,Mild,11,True,Ipilimumab,CTLA-4
+NCT00000363,Hepatitis,Mild,49,False,Ipilimumab,CTLA-4
+NCT00000364,Confusion,Severe,79,False,Blinatumomab,CD19/CD3
+NCT00000364,Seizure,Mild,14,True,Blinatumomab,CD19/CD3
+NCT00000364,Dizziness,Mild,38,False,Blinatumomab,CD19/CD3
+NCT00000364,Headache,Life-threatening,13,False,Blinatumomab,CD19/CD3
+NCT00000364,Tremor,Moderate,77,True,Blinatumomab,CD19/CD3
+NCT00000365,Rash,Mild,59,False,Daratumumab,CD38
+NCT00000365,Pruritus,Moderate,14,True,Daratumumab,CD38
+NCT00000365,Chills,Mild,77,True,Daratumumab,CD38
+NCT00000365,Infusion reaction,Moderate,74,True,Daratumumab,CD38
+NCT00000365,Fever,Severe,46,False,Daratumumab,CD38
+NCT00000366,Dizziness,Mild,8,True,Blinatumomab,CD19/CD3
+NCT00000366,Headache,Severe,75,False,Blinatumomab,CD19/CD3
+NCT00000366,Confusion,Severe,40,True,Blinatumomab,CD19/CD3
+NCT00000366,Tremor,Moderate,61,False,Blinatumomab,CD19/CD3
+NCT00000366,Seizure,Severe,38,False,Blinatumomab,CD19/CD3
+NCT00000367,Heart failure,Mild,55,False,Trastuzumab,HER2
+NCT00000367,Cardiac dysfunction,Moderate,26,True,Trastuzumab,HER2
+NCT00000367,Arrhythmia,Mild,44,True,Trastuzumab,HER2
+NCT00000368,Headache,Severe,54,False,Blinatumomab,CD19/CD3
+NCT00000368,Dizziness,Moderate,14,False,Blinatumomab,CD19/CD3
+NCT00000368,Tremor,Mild,64,True,Blinatumomab,CD19/CD3
+NCT00000368,Seizure,Mild,82,True,Blinatumomab,CD19/CD3
+NCT00000368,Confusion,Moderate,60,True,Blinatumomab,CD19/CD3
+NCT00000369,Tuberculosis,Moderate,52,True,Tocilizumab,IL-6
+NCT00000369,Sepsis,Mild,47,True,Tocilizumab,IL-6
+NCT00000369,Pneumonia,Mild,46,True,Tocilizumab,IL-6
+NCT00000369,Infection,Mild,19,False,Tocilizumab,IL-6
+NCT00000370,Acneiform rash,Mild,26,True,Cetuximab,EGFR
+NCT00000370,Pruritus,Severe,23,True,Cetuximab,EGFR
+NCT00000370,Dry skin,Severe,93,True,Cetuximab,EGFR
+NCT00000370,Rash,Severe,71,True,Cetuximab,EGFR
+NCT00000371,Pneumonia,Mild,3,True,Tocilizumab,IL-6
+NCT00000371,Infection,Life-threatening,84,True,Tocilizumab,IL-6
+NCT00000371,Sepsis,Severe,27,False,Tocilizumab,IL-6
+NCT00000371,Tuberculosis,Life-threatening,31,False,Tocilizumab,IL-6
+NCT00000372,Chills,Moderate,17,True,Daratumumab,CD38
+NCT00000372,Rash,Moderate,69,False,Daratumumab,CD38
+NCT00000372,Fever,Severe,41,False,Daratumumab,CD38
+NCT00000372,Infusion reaction,Moderate,6,True,Daratumumab,CD38
+NCT00000372,Pruritus,Severe,20,False,Daratumumab,CD38
+NCT00000373,Colitis,Moderate,94,True,Ipilimumab,CTLA-4
+NCT00000373,Hepatitis,Life-threatening,85,True,Ipilimumab,CTLA-4
+NCT00000373,Rash,Moderate,66,False,Ipilimumab,CTLA-4
+NCT00000373,Pneumonitis,Severe,64,False,Ipilimumab,CTLA-4
+NCT00000374,Hepatitis,Life-threatening,61,False,Ipilimumab,CTLA-4
+NCT00000374,Rash,Life-threatening,82,True,Ipilimumab,CTLA-4
+NCT00000374,Thyroiditis,Moderate,29,True,Ipilimumab,CTLA-4
+NCT00000374,Pneumonitis,Life-threatening,31,False,Ipilimumab,CTLA-4
+NCT00000375,Sepsis,Severe,33,True,Adalimumab,TNF-alpha
+NCT00000375,Pneumonia,Moderate,97,True,Adalimumab,TNF-alpha
+NCT00000375,Tuberculosis,Severe,57,False,Adalimumab,TNF-alpha
+NCT00000375,Infection,Moderate,75,True,Adalimumab,TNF-alpha
+NCT00000376,Sepsis,Life-threatening,53,False,Adalimumab,TNF-alpha
+NCT00000376,Pneumonia,Life-threatening,41,False,Adalimumab,TNF-alpha
+NCT00000376,Tuberculosis,Life-threatening,4,True,Adalimumab,TNF-alpha
+NCT00000376,Infection,Life-threatening,30,False,Adalimumab,TNF-alpha
+NCT00000377,Infusion reaction,Severe,30,True,Daratumumab,CD38
+NCT00000377,Fever,Mild,10,False,Daratumumab,CD38
+NCT00000377,Pruritus,Mild,70,True,Daratumumab,CD38
+NCT00000377,Chills,Severe,26,False,Daratumumab,CD38
+NCT00000377,Rash,Severe,39,False,Daratumumab,CD38
+NCT00000378,Pruritus,Mild,99,False,Daratumumab,CD38
+NCT00000378,Chills,Severe,45,False,Daratumumab,CD38
+NCT00000378,Fever,Life-threatening,75,True,Daratumumab,CD38
+NCT00000378,Rash,Life-threatening,84,True,Daratumumab,CD38
+NCT00000379,Pneumonia,Moderate,67,False,Adalimumab,TNF-alpha
+NCT00000379,Infection,Life-threatening,44,True,Adalimumab,TNF-alpha
+NCT00000379,Sepsis,Severe,25,False,Adalimumab,TNF-alpha
+NCT00000379,Tuberculosis,Life-threatening,27,False,Adalimumab,TNF-alpha
+NCT00000380,Infection,Severe,95,True,Tocilizumab,IL-6
+NCT00000380,Pneumonia,Life-threatening,85,False,Tocilizumab,IL-6
+NCT00000380,Tuberculosis,Severe,29,False,Tocilizumab,IL-6
+NCT00000380,Sepsis,Life-threatening,88,False,Tocilizumab,IL-6
+NCT00000381,Rash,Moderate,20,False,Pembrolizumab,PD-1
+NCT00000381,Hepatitis,Life-threatening,49,True,Pembrolizumab,PD-1
+NCT00000381,Pneumonitis,Life-threatening,9,False,Pembrolizumab,PD-1
+NCT00000381,Colitis,Moderate,61,True,Pembrolizumab,PD-1
+NCT00000381,Thyroiditis,Severe,73,False,Pembrolizumab,PD-1
+NCT00000382,Arrhythmia,Moderate,5,False,Trastuzumab,HER2
+NCT00000382,Cardiac dysfunction,Mild,24,True,Trastuzumab,HER2
+NCT00000382,Hypertension,Mild,50,False,Trastuzumab,HER2
+NCT00000382,Heart failure,Moderate,30,False,Trastuzumab,HER2
+NCT00000383,Rash,Mild,22,False,Ipilimumab,CTLA-4
+NCT00000383,Colitis,Life-threatening,51,True,Ipilimumab,CTLA-4
+NCT00000383,Pneumonitis,Mild,17,False,Ipilimumab,CTLA-4
+NCT00000383,Thyroiditis,Life-threatening,96,True,Ipilimumab,CTLA-4
+NCT00000383,Hepatitis,Life-threatening,27,True,Ipilimumab,CTLA-4
+NCT00000384,Hepatitis,Moderate,78,False,Pembrolizumab,PD-1
+NCT00000384,Thyroiditis,Moderate,65,False,Pembrolizumab,PD-1
+NCT00000384,Rash,Severe,26,True,Pembrolizumab,PD-1
+NCT00000384,Pneumonitis,Moderate,58,True,Pembrolizumab,PD-1
+NCT00000385,Dizziness,Life-threatening,60,True,Blinatumomab,CD19/CD3
+NCT00000385,Seizure,Mild,37,False,Blinatumomab,CD19/CD3
+NCT00000385,Tremor,Severe,90,False,Blinatumomab,CD19/CD3
+NCT00000385,Headache,Life-threatening,79,True,Blinatumomab,CD19/CD3
+NCT00000385,Confusion,Life-threatening,32,True,Blinatumomab,CD19/CD3
+NCT00000386,Proteinuria,Mild,51,True,Bevacizumab,VEGF
+NCT00000386,Thromboembolism,Moderate,21,False,Bevacizumab,VEGF
+NCT00000386,Bleeding,Severe,86,True,Bevacizumab,VEGF
+NCT00000386,Hypertension,Moderate,64,False,Bevacizumab,VEGF
+NCT00000387,Hypertension,Severe,53,False,Bevacizumab,VEGF
+NCT00000387,Thromboembolism,Moderate,33,True,Bevacizumab,VEGF
+NCT00000387,Proteinuria,Mild,60,True,Bevacizumab,VEGF
+NCT00000387,Bleeding,Mild,82,False,Bevacizumab,VEGF
+NCT00000388,Bleeding,Life-threatening,5,True,Bevacizumab,VEGF
+NCT00000388,Proteinuria,Severe,15,True,Bevacizumab,VEGF
+NCT00000388,Thromboembolism,Severe,86,False,Bevacizumab,VEGF
+NCT00000388,Hypertension,Life-threatening,60,True,Bevacizumab,VEGF
+NCT00000389,Dizziness,Life-threatening,18,False,Blinatumomab,CD19/CD3
+NCT00000389,Seizure,Severe,21,True,Blinatumomab,CD19/CD3
+NCT00000389,Tremor,Mild,78,True,Blinatumomab,CD19/CD3
+NCT00000390,Hepatitis,Moderate,10,True,Pembrolizumab,PD-1
+NCT00000390,Colitis,Severe,20,False,Pembrolizumab,PD-1
+NCT00000390,Rash,Severe,23,True,Pembrolizumab,PD-1
+NCT00000390,Pneumonitis,Mild,87,True,Pembrolizumab,PD-1
+NCT00000391,Infection,Severe,57,True,Adalimumab,TNF-alpha
+NCT00000391,Sepsis,Mild,7,False,Adalimumab,TNF-alpha
+NCT00000391,Tuberculosis,Moderate,32,False,Adalimumab,TNF-alpha
+NCT00000391,Pneumonia,Moderate,26,True,Adalimumab,TNF-alpha
+NCT00000392,Tuberculosis,Severe,25,True,Tocilizumab,IL-6
+NCT00000392,Infection,Moderate,13,True,Tocilizumab,IL-6
+NCT00000392,Sepsis,Moderate,6,False,Tocilizumab,IL-6
+NCT00000393,Infection,Moderate,70,False,Adalimumab,TNF-alpha
+NCT00000393,Pneumonia,Life-threatening,16,True,Adalimumab,TNF-alpha
+NCT00000393,Sepsis,Moderate,14,False,Adalimumab,TNF-alpha
+NCT00000393,Tuberculosis,Severe,23,True,Adalimumab,TNF-alpha
+NCT00000394,Sepsis,Life-threatening,29,True,Adalimumab,TNF-alpha
+NCT00000394,Infection,Severe,84,False,Adalimumab,TNF-alpha
+NCT00000394,Pneumonia,Mild,9,True,Adalimumab,TNF-alpha
+NCT00000394,Tuberculosis,Life-threatening,39,False,Adalimumab,TNF-alpha
+NCT00000395,Acneiform rash,Severe,81,False,Cetuximab,EGFR
+NCT00000395,Dry skin,Moderate,43,True,Cetuximab,EGFR
+NCT00000395,Rash,Severe,86,False,Cetuximab,EGFR
+NCT00000396,Tremor,Life-threatening,49,True,Blinatumomab,CD19/CD3
+NCT00000396,Confusion,Mild,30,True,Blinatumomab,CD19/CD3
+NCT00000396,Dizziness,Mild,40,True,Blinatumomab,CD19/CD3
+NCT00000397,Rash,Moderate,48,False,Rituximab,CD20
+NCT00000397,Chills,Severe,26,True,Rituximab,CD20
+NCT00000397,Fever,Life-threatening,27,True,Rituximab,CD20
+NCT00000397,Infusion reaction,Moderate,93,False,Rituximab,CD20
+NCT00000397,Pruritus,Severe,18,False,Rituximab,CD20
+NCT00000398,Hypertension,Mild,30,False,Bevacizumab,VEGF
+NCT00000398,Bleeding,Severe,32,True,Bevacizumab,VEGF
+NCT00000398,Thromboembolism,Mild,86,True,Bevacizumab,VEGF
+NCT00000398,Proteinuria,Moderate,78,False,Bevacizumab,VEGF
+NCT00000399,Bleeding,Mild,63,True,Bevacizumab,VEGF
+NCT00000399,Hypertension,Moderate,7,True,Bevacizumab,VEGF
+NCT00000399,Thromboembolism,Moderate,17,True,Bevacizumab,VEGF
+NCT00000399,Proteinuria,Moderate,76,True,Bevacizumab,VEGF
+NCT00000400,Infection,Moderate,93,True,Tocilizumab,IL-6
+NCT00000400,Pneumonia,Moderate,55,True,Tocilizumab,IL-6
+NCT00000400,Sepsis,Moderate,39,False,Tocilizumab,IL-6
+NCT00000400,Tuberculosis,Life-threatening,82,True,Tocilizumab,IL-6
+NCT00000401,Tuberculosis,Life-threatening,22,False,Adalimumab,TNF-alpha
+NCT00000401,Infection,Life-threatening,55,False,Adalimumab,TNF-alpha
+NCT00000401,Pneumonia,Moderate,62,True,Adalimumab,TNF-alpha
+NCT00000401,Sepsis,Life-threatening,55,True,Adalimumab,TNF-alpha
+NCT00000402,Dizziness,Life-threatening,60,False,Blinatumomab,CD19/CD3
+NCT00000402,Seizure,Life-threatening,37,False,Blinatumomab,CD19/CD3
+NCT00000402,Tremor,Life-threatening,10,False,Blinatumomab,CD19/CD3
+NCT00000402,Confusion,Moderate,92,False,Blinatumomab,CD19/CD3
+NCT00000402,Headache,Moderate,20,True,Blinatumomab,CD19/CD3
+NCT00000403,Infusion reaction,Life-threatening,54,False,Rituximab,CD20
+NCT00000403,Fever,Severe,50,False,Rituximab,CD20
+NCT00000403,Chills,Severe,83,True,Rituximab,CD20
+NCT00000404,Infusion reaction,Life-threatening,33,False,Daratumumab,CD38
+NCT00000404,Pruritus,Life-threatening,82,False,Daratumumab,CD38
+NCT00000404,Chills,Mild,84,False,Daratumumab,CD38
+NCT00000404,Rash,Life-threatening,95,True,Daratumumab,CD38
+NCT00000404,Fever,Moderate,62,True,Daratumumab,CD38
+NCT00000405,Hypertension,Life-threatening,88,True,Bevacizumab,VEGF
+NCT00000405,Bleeding,Severe,32,True,Bevacizumab,VEGF
+NCT00000405,Proteinuria,Mild,15,True,Bevacizumab,VEGF
+NCT00000405,Thromboembolism,Life-threatening,51,True,Bevacizumab,VEGF
+NCT00000406,Thromboembolism,Severe,89,False,Bevacizumab,VEGF
+NCT00000406,Proteinuria,Life-threatening,76,False,Bevacizumab,VEGF
+NCT00000406,Hypertension,Life-threatening,97,True,Bevacizumab,VEGF
+NCT00000406,Bleeding,Mild,82,False,Bevacizumab,VEGF
+NCT00000407,Arrhythmia,Severe,1,True,Trastuzumab,HER2
+NCT00000407,Hypertension,Life-threatening,1,True,Trastuzumab,HER2
+NCT00000407,Cardiac dysfunction,Mild,100,False,Trastuzumab,HER2
+NCT00000407,Heart failure,Life-threatening,84,False,Trastuzumab,HER2
+NCT00000408,Rash,Moderate,26,False,Daratumumab,CD38
+NCT00000408,Chills,Moderate,65,True,Daratumumab,CD38
+NCT00000408,Infusion reaction,Life-threatening,73,True,Daratumumab,CD38
+NCT00000408,Pruritus,Moderate,26,True,Daratumumab,CD38
+NCT00000408,Fever,Moderate,98,True,Daratumumab,CD38
+NCT00000409,Tuberculosis,Mild,38,True,Adalimumab,TNF-alpha
+NCT00000409,Pneumonia,Life-threatening,16,False,Adalimumab,TNF-alpha
+NCT00000409,Infection,Mild,44,True,Adalimumab,TNF-alpha
+NCT00000409,Sepsis,Moderate,62,False,Adalimumab,TNF-alpha
+NCT00000410,Hypertension,Mild,86,True,Bevacizumab,VEGF
+NCT00000410,Proteinuria,Mild,28,True,Bevacizumab,VEGF
+NCT00000410,Bleeding,Life-threatening,78,False,Bevacizumab,VEGF
+NCT00000410,Thromboembolism,Life-threatening,61,False,Bevacizumab,VEGF
+NCT00000411,Rash,Moderate,47,False,Daratumumab,CD38
+NCT00000411,Fever,Life-threatening,79,True,Daratumumab,CD38
+NCT00000411,Chills,Severe,43,True,Daratumumab,CD38
+NCT00000411,Pruritus,Mild,59,False,Daratumumab,CD38
+NCT00000411,Infusion reaction,Moderate,4,True,Daratumumab,CD38
+NCT00000412,Pruritus,Life-threatening,80,False,Cetuximab,EGFR
+NCT00000412,Dry skin,Life-threatening,85,True,Cetuximab,EGFR
+NCT00000412,Rash,Mild,82,False,Cetuximab,EGFR
+NCT00000412,Acneiform rash,Mild,82,False,Cetuximab,EGFR
+NCT00000413,Sepsis,Moderate,78,False,Tocilizumab,IL-6
+NCT00000413,Tuberculosis,Life-threatening,95,True,Tocilizumab,IL-6
+NCT00000413,Pneumonia,Severe,55,False,Tocilizumab,IL-6
+NCT00000414,Cardiac dysfunction,Moderate,92,True,Trastuzumab,HER2
+NCT00000414,Arrhythmia,Mild,17,False,Trastuzumab,HER2
+NCT00000414,Heart failure,Mild,39,False,Trastuzumab,HER2
+NCT00000414,Hypertension,Moderate,58,True,Trastuzumab,HER2
+NCT00000415,Rash,Mild,14,False,Ipilimumab,CTLA-4
+NCT00000415,Pneumonitis,Mild,21,False,Ipilimumab,CTLA-4
+NCT00000415,Colitis,Life-threatening,99,False,Ipilimumab,CTLA-4
+NCT00000415,Hepatitis,Moderate,93,False,Ipilimumab,CTLA-4
+NCT00000415,Thyroiditis,Life-threatening,86,True,Ipilimumab,CTLA-4
+NCT00000416,Pneumonia,Severe,29,True,Tocilizumab,IL-6
+NCT00000416,Sepsis,Severe,49,False,Tocilizumab,IL-6
+NCT00000416,Tuberculosis,Life-threatening,30,True,Tocilizumab,IL-6
+NCT00000416,Infection,Severe,15,False,Tocilizumab,IL-6
+NCT00000417,Confusion,Moderate,96,True,Blinatumomab,CD19/CD3
+NCT00000417,Dizziness,Severe,17,False,Blinatumomab,CD19/CD3
+NCT00000417,Seizure,Life-threatening,74,True,Blinatumomab,CD19/CD3
+NCT00000418,Cardiac dysfunction,Life-threatening,41,False,Trastuzumab,HER2
+NCT00000418,Arrhythmia,Moderate,67,True,Trastuzumab,HER2
+NCT00000418,Hypertension,Mild,51,True,Trastuzumab,HER2
+NCT00000418,Heart failure,Life-threatening,41,True,Trastuzumab,HER2
+NCT00000419,Thromboembolism,Severe,19,True,Bevacizumab,VEGF
+NCT00000419,Proteinuria,Severe,40,True,Bevacizumab,VEGF
+NCT00000419,Bleeding,Severe,91,False,Bevacizumab,VEGF
+NCT00000419,Hypertension,Moderate,64,False,Bevacizumab,VEGF
+NCT00000420,Rash,Moderate,90,True,Rituximab,CD20
+NCT00000420,Infusion reaction,Moderate,63,False,Rituximab,CD20
+NCT00000420,Chills,Severe,85,True,Rituximab,CD20
+NCT00000420,Pruritus,Mild,71,False,Rituximab,CD20
+NCT00000420,Fever,Severe,55,False,Rituximab,CD20
+NCT00000421,Rash,Moderate,90,False,Daratumumab,CD38
+NCT00000421,Pruritus,Mild,17,False,Daratumumab,CD38
+NCT00000421,Infusion reaction,Mild,91,False,Daratumumab,CD38
+NCT00000421,Chills,Life-threatening,84,True,Daratumumab,CD38
+NCT00000421,Fever,Moderate,57,False,Daratumumab,CD38
+NCT00000422,Thromboembolism,Mild,47,True,Bevacizumab,VEGF
+NCT00000422,Hypertension,Moderate,49,False,Bevacizumab,VEGF
+NCT00000422,Bleeding,Moderate,8,True,Bevacizumab,VEGF
+NCT00000422,Proteinuria,Severe,61,True,Bevacizumab,VEGF
+NCT00000423,Infection,Life-threatening,20,False,Tocilizumab,IL-6
+NCT00000423,Sepsis,Moderate,5,True,Tocilizumab,IL-6
+NCT00000423,Pneumonia,Moderate,51,False,Tocilizumab,IL-6
+NCT00000424,Acneiform rash,Life-threatening,84,False,Cetuximab,EGFR
+NCT00000424,Pruritus,Severe,81,False,Cetuximab,EGFR
+NCT00000424,Dry skin,Severe,2,True,Cetuximab,EGFR
+NCT00000424,Rash,Mild,11,True,Cetuximab,EGFR
+NCT00000425,Pneumonia,Mild,76,True,Tocilizumab,IL-6
+NCT00000425,Infection,Life-threatening,62,False,Tocilizumab,IL-6
+NCT00000425,Tuberculosis,Severe,74,True,Tocilizumab,IL-6
+NCT00000425,Sepsis,Mild,42,True,Tocilizumab,IL-6
+NCT00000426,Pneumonia,Life-threatening,9,True,Tocilizumab,IL-6
+NCT00000426,Tuberculosis,Moderate,85,True,Tocilizumab,IL-6
+NCT00000426,Infection,Moderate,77,True,Tocilizumab,IL-6
+NCT00000426,Sepsis,Mild,72,False,Tocilizumab,IL-6
+NCT00000427,Cardiac dysfunction,Moderate,12,False,Trastuzumab,HER2
+NCT00000427,Hypertension,Mild,11,True,Trastuzumab,HER2
+NCT00000427,Arrhythmia,Severe,47,True,Trastuzumab,HER2
+NCT00000427,Heart failure,Life-threatening,85,True,Trastuzumab,HER2
+NCT00000428,Sepsis,Moderate,74,False,Tocilizumab,IL-6
+NCT00000428,Infection,Severe,67,False,Tocilizumab,IL-6
+NCT00000428,Pneumonia,Moderate,89,True,Tocilizumab,IL-6
+NCT00000428,Tuberculosis,Mild,31,True,Tocilizumab,IL-6
+NCT00000429,Pneumonia,Moderate,76,False,Adalimumab,TNF-alpha
+NCT00000429,Tuberculosis,Severe,17,False,Adalimumab,TNF-alpha
+NCT00000429,Infection,Mild,71,False,Adalimumab,TNF-alpha
+NCT00000429,Sepsis,Severe,49,True,Adalimumab,TNF-alpha
+NCT00000430,Thyroiditis,Moderate,10,False,Pembrolizumab,PD-1
+NCT00000430,Colitis,Moderate,92,False,Pembrolizumab,PD-1
+NCT00000430,Pneumonitis,Moderate,54,True,Pembrolizumab,PD-1
+NCT00000430,Hepatitis,Severe,56,False,Pembrolizumab,PD-1
+NCT00000430,Rash,Mild,78,True,Pembrolizumab,PD-1
+NCT00000431,Fever,Mild,88,False,Rituximab,CD20
+NCT00000431,Infusion reaction,Mild,43,True,Rituximab,CD20
+NCT00000431,Pruritus,Severe,43,False,Rituximab,CD20
+NCT00000432,Chills,Life-threatening,29,False,Rituximab,CD20
+NCT00000432,Fever,Mild,16,True,Rituximab,CD20
+NCT00000432,Infusion reaction,Severe,76,False,Rituximab,CD20
+NCT00000432,Rash,Mild,68,False,Rituximab,CD20
+NCT00000433,Sepsis,Mild,22,False,Tocilizumab,IL-6
+NCT00000433,Tuberculosis,Life-threatening,24,False,Tocilizumab,IL-6
+NCT00000433,Pneumonia,Life-threatening,62,True,Tocilizumab,IL-6
+NCT00000433,Infection,Severe,2,True,Tocilizumab,IL-6
+NCT00000434,Pneumonitis,Severe,91,True,Pembrolizumab,PD-1
+NCT00000434,Rash,Life-threatening,91,False,Pembrolizumab,PD-1
+NCT00000434,Thyroiditis,Moderate,57,False,Pembrolizumab,PD-1
+NCT00000434,Hepatitis,Life-threatening,65,False,Pembrolizumab,PD-1
+NCT00000434,Colitis,Severe,55,True,Pembrolizumab,PD-1
+NCT00000435,Cardiac dysfunction,Mild,82,True,Trastuzumab,HER2
+NCT00000435,Heart failure,Mild,94,True,Trastuzumab,HER2
+NCT00000435,Arrhythmia,Mild,22,True,Trastuzumab,HER2
+NCT00000435,Hypertension,Mild,96,False,Trastuzumab,HER2
+NCT00000436,Tuberculosis,Life-threatening,64,True,Tocilizumab,IL-6
+NCT00000436,Infection,Life-threatening,2,True,Tocilizumab,IL-6
+NCT00000436,Pneumonia,Mild,92,False,Tocilizumab,IL-6
+NCT00000436,Sepsis,Severe,32,True,Tocilizumab,IL-6
+NCT00000437,Thyroiditis,Mild,47,True,Ipilimumab,CTLA-4
+NCT00000437,Pneumonitis,Severe,7,False,Ipilimumab,CTLA-4
+NCT00000437,Hepatitis,Life-threatening,49,True,Ipilimumab,CTLA-4
+NCT00000437,Colitis,Severe,15,False,Ipilimumab,CTLA-4
+NCT00000437,Rash,Moderate,70,True,Ipilimumab,CTLA-4
+NCT00000438,Sepsis,Moderate,1,False,Tocilizumab,IL-6
+NCT00000438,Pneumonia,Moderate,40,True,Tocilizumab,IL-6
+NCT00000438,Tuberculosis,Life-threatening,80,False,Tocilizumab,IL-6
+NCT00000438,Infection,Mild,46,True,Tocilizumab,IL-6
+NCT00000439,Thyroiditis,Mild,45,True,Ipilimumab,CTLA-4
+NCT00000439,Hepatitis,Life-threatening,46,True,Ipilimumab,CTLA-4
+NCT00000439,Pneumonitis,Mild,56,False,Ipilimumab,CTLA-4
+NCT00000439,Rash,Moderate,11,True,Ipilimumab,CTLA-4
+NCT00000439,Colitis,Life-threatening,16,False,Ipilimumab,CTLA-4
+NCT00000440,Acneiform rash,Moderate,61,False,Cetuximab,EGFR
+NCT00000440,Pruritus,Severe,39,False,Cetuximab,EGFR
+NCT00000440,Dry skin,Life-threatening,24,False,Cetuximab,EGFR
+NCT00000441,Hypertension,Moderate,18,False,Trastuzumab,HER2
+NCT00000441,Arrhythmia,Life-threatening,1,False,Trastuzumab,HER2
+NCT00000441,Heart failure,Moderate,15,True,Trastuzumab,HER2
+NCT00000442,Confusion,Mild,21,True,Blinatumomab,CD19/CD3
+NCT00000442,Seizure,Life-threatening,86,False,Blinatumomab,CD19/CD3
+NCT00000442,Headache,Mild,54,False,Blinatumomab,CD19/CD3
+NCT00000442,Tremor,Life-threatening,88,True,Blinatumomab,CD19/CD3
+NCT00000442,Dizziness,Severe,97,False,Blinatumomab,CD19/CD3
+NCT00000443,Tuberculosis,Mild,17,True,Adalimumab,TNF-alpha
+NCT00000443,Infection,Severe,65,True,Adalimumab,TNF-alpha
+NCT00000443,Sepsis,Moderate,7,False,Adalimumab,TNF-alpha
+NCT00000443,Pneumonia,Life-threatening,77,True,Adalimumab,TNF-alpha
+NCT00000444,Thyroiditis,Life-threatening,32,True,Ipilimumab,CTLA-4
+NCT00000444,Hepatitis,Moderate,32,False,Ipilimumab,CTLA-4
+NCT00000444,Pneumonitis,Mild,34,True,Ipilimumab,CTLA-4
+NCT00000444,Rash,Life-threatening,26,False,Ipilimumab,CTLA-4
+NCT00000444,Colitis,Mild,90,True,Ipilimumab,CTLA-4
+NCT00000445,Heart failure,Life-threatening,5,False,Trastuzumab,HER2
+NCT00000445,Cardiac dysfunction,Moderate,19,False,Trastuzumab,HER2
+NCT00000445,Arrhythmia,Mild,79,True,Trastuzumab,HER2
+NCT00000445,Hypertension,Mild,7,False,Trastuzumab,HER2
+NCT00000446,Dizziness,Severe,55,False,Blinatumomab,CD19/CD3
+NCT00000446,Tremor,Mild,66,False,Blinatumomab,CD19/CD3
+NCT00000446,Headache,Mild,39,True,Blinatumomab,CD19/CD3
+NCT00000446,Confusion,Severe,47,False,Blinatumomab,CD19/CD3
+NCT00000446,Seizure,Severe,92,False,Blinatumomab,CD19/CD3
+NCT00000447,Arrhythmia,Mild,7,False,Trastuzumab,HER2
+NCT00000447,Cardiac dysfunction,Moderate,37,False,Trastuzumab,HER2
+NCT00000447,Hypertension,Severe,78,True,Trastuzumab,HER2
+NCT00000447,Heart failure,Life-threatening,24,False,Trastuzumab,HER2
+NCT00000448,Fever,Mild,88,True,Daratumumab,CD38
+NCT00000448,Pruritus,Severe,47,False,Daratumumab,CD38
+NCT00000448,Chills,Severe,31,False,Daratumumab,CD38
+NCT00000448,Infusion reaction,Moderate,75,False,Daratumumab,CD38
+NCT00000448,Rash,Mild,14,True,Daratumumab,CD38
+NCT00000449,Rash,Life-threatening,13,True,Pembrolizumab,PD-1
+NCT00000449,Colitis,Severe,39,False,Pembrolizumab,PD-1
+NCT00000449,Thyroiditis,Moderate,69,True,Pembrolizumab,PD-1
+NCT00000449,Hepatitis,Mild,17,True,Pembrolizumab,PD-1
+NCT00000449,Pneumonitis,Life-threatening,71,False,Pembrolizumab,PD-1
+NCT00000450,Arrhythmia,Life-threatening,9,False,Trastuzumab,HER2
+NCT00000450,Heart failure,Life-threatening,68,True,Trastuzumab,HER2
+NCT00000450,Hypertension,Moderate,77,False,Trastuzumab,HER2
+NCT00000450,Cardiac dysfunction,Moderate,38,True,Trastuzumab,HER2
+NCT00000451,Hypertension,Life-threatening,88,True,Bevacizumab,VEGF
+NCT00000451,Bleeding,Moderate,57,False,Bevacizumab,VEGF
+NCT00000451,Proteinuria,Life-threatening,52,False,Bevacizumab,VEGF
+NCT00000451,Thromboembolism,Moderate,24,True,Bevacizumab,VEGF
+NCT00000452,Pruritus,Life-threatening,65,False,Daratumumab,CD38
+NCT00000452,Chills,Severe,29,False,Daratumumab,CD38
+NCT00000452,Fever,Severe,71,True,Daratumumab,CD38
+NCT00000452,Infusion reaction,Moderate,29,True,Daratumumab,CD38
+NCT00000453,Pneumonitis,Moderate,35,True,Ipilimumab,CTLA-4
+NCT00000453,Hepatitis,Moderate,27,True,Ipilimumab,CTLA-4
+NCT00000453,Colitis,Mild,84,False,Ipilimumab,CTLA-4
+NCT00000453,Thyroiditis,Severe,42,True,Ipilimumab,CTLA-4
+NCT00000453,Rash,Severe,93,True,Ipilimumab,CTLA-4
+NCT00000454,Pruritus,Severe,29,False,Cetuximab,EGFR
+NCT00000454,Acneiform rash,Moderate,33,True,Cetuximab,EGFR
+NCT00000454,Rash,Mild,93,False,Cetuximab,EGFR
+NCT00000454,Dry skin,Severe,81,True,Cetuximab,EGFR
+NCT00000455,Acneiform rash,Life-threatening,20,False,Cetuximab,EGFR
+NCT00000455,Dry skin,Moderate,94,False,Cetuximab,EGFR
+NCT00000455,Pruritus,Severe,19,False,Cetuximab,EGFR
+NCT00000455,Rash,Mild,64,True,Cetuximab,EGFR
+NCT00000456,Heart failure,Moderate,83,False,Trastuzumab,HER2
+NCT00000456,Cardiac dysfunction,Mild,40,True,Trastuzumab,HER2
+NCT00000456,Arrhythmia,Moderate,51,True,Trastuzumab,HER2
+NCT00000456,Hypertension,Mild,19,True,Trastuzumab,HER2
+NCT00000457,Pneumonitis,Moderate,94,True,Pembrolizumab,PD-1
+NCT00000457,Thyroiditis,Mild,49,False,Pembrolizumab,PD-1
+NCT00000457,Hepatitis,Mild,15,True,Pembrolizumab,PD-1
+NCT00000457,Rash,Mild,17,True,Pembrolizumab,PD-1
+NCT00000457,Colitis,Mild,35,True,Pembrolizumab,PD-1
+NCT00000458,Rash,Mild,26,True,Cetuximab,EGFR
+NCT00000458,Dry skin,Life-threatening,98,False,Cetuximab,EGFR
+NCT00000458,Pruritus,Moderate,40,False,Cetuximab,EGFR
+NCT00000458,Acneiform rash,Life-threatening,20,True,Cetuximab,EGFR
+NCT00000459,Pruritus,Mild,3,True,Daratumumab,CD38
+NCT00000459,Fever,Mild,70,False,Daratumumab,CD38
+NCT00000459,Rash,Mild,66,False,Daratumumab,CD38
+NCT00000460,Colitis,Life-threatening,50,True,Pembrolizumab,PD-1
+NCT00000460,Pneumonitis,Severe,84,False,Pembrolizumab,PD-1
+NCT00000460,Rash,Moderate,88,False,Pembrolizumab,PD-1
+NCT00000460,Hepatitis,Mild,63,True,Pembrolizumab,PD-1
+NCT00000461,Chills,Severe,10,False,Daratumumab,CD38
+NCT00000461,Infusion reaction,Mild,47,True,Daratumumab,CD38
+NCT00000461,Pruritus,Mild,78,True,Daratumumab,CD38
+NCT00000462,Proteinuria,Life-threatening,20,False,Bevacizumab,VEGF
+NCT00000462,Bleeding,Severe,45,True,Bevacizumab,VEGF
+NCT00000462,Thromboembolism,Severe,64,False,Bevacizumab,VEGF
+NCT00000462,Hypertension,Severe,92,True,Bevacizumab,VEGF
+NCT00000463,Pneumonitis,Moderate,50,False,Ipilimumab,CTLA-4
+NCT00000463,Rash,Life-threatening,9,True,Ipilimumab,CTLA-4
+NCT00000463,Thyroiditis,Life-threatening,94,False,Ipilimumab,CTLA-4
+NCT00000464,Colitis,Life-threatening,46,False,Ipilimumab,CTLA-4
+NCT00000464,Hepatitis,Life-threatening,55,False,Ipilimumab,CTLA-4
+NCT00000464,Rash,Life-threatening,78,False,Ipilimumab,CTLA-4
+NCT00000464,Thyroiditis,Moderate,84,True,Ipilimumab,CTLA-4
+NCT00000465,Thyroiditis,Life-threatening,11,False,Ipilimumab,CTLA-4
+NCT00000465,Rash,Moderate,90,True,Ipilimumab,CTLA-4
+NCT00000465,Hepatitis,Moderate,47,True,Ipilimumab,CTLA-4
+NCT00000465,Pneumonitis,Moderate,3,False,Ipilimumab,CTLA-4
+NCT00000465,Colitis,Life-threatening,18,True,Ipilimumab,CTLA-4
+NCT00000466,Arrhythmia,Severe,59,True,Trastuzumab,HER2
+NCT00000466,Heart failure,Life-threatening,32,True,Trastuzumab,HER2
+NCT00000466,Cardiac dysfunction,Moderate,8,True,Trastuzumab,HER2
+NCT00000467,Thromboembolism,Life-threatening,48,True,Bevacizumab,VEGF
+NCT00000467,Proteinuria,Mild,85,True,Bevacizumab,VEGF
+NCT00000467,Hypertension,Life-threatening,77,True,Bevacizumab,VEGF
+NCT00000468,Chills,Mild,32,True,Daratumumab,CD38
+NCT00000468,Fever,Mild,73,False,Daratumumab,CD38
+NCT00000468,Infusion reaction,Moderate,98,True,Daratumumab,CD38
+NCT00000469,Thromboembolism,Life-threatening,93,False,Bevacizumab,VEGF
+NCT00000469,Bleeding,Life-threatening,83,True,Bevacizumab,VEGF
+NCT00000469,Proteinuria,Severe,15,True,Bevacizumab,VEGF
+NCT00000469,Hypertension,Mild,83,True,Bevacizumab,VEGF
+NCT00000470,Heart failure,Life-threatening,55,False,Trastuzumab,HER2
+NCT00000470,Arrhythmia,Severe,74,False,Trastuzumab,HER2
+NCT00000470,Cardiac dysfunction,Moderate,55,True,Trastuzumab,HER2
+NCT00000470,Hypertension,Severe,12,False,Trastuzumab,HER2
+NCT00000471,Acneiform rash,Life-threatening,24,True,Cetuximab,EGFR
+NCT00000471,Dry skin,Life-threatening,62,False,Cetuximab,EGFR
+NCT00000471,Rash,Life-threatening,49,True,Cetuximab,EGFR
+NCT00000471,Pruritus,Mild,48,False,Cetuximab,EGFR
+NCT00000472,Sepsis,Severe,78,False,Tocilizumab,IL-6
+NCT00000472,Infection,Mild,31,False,Tocilizumab,IL-6
+NCT00000472,Tuberculosis,Moderate,70,True,Tocilizumab,IL-6
+NCT00000472,Pneumonia,Mild,28,True,Tocilizumab,IL-6
+NCT00000473,Pneumonia,Moderate,35,True,Tocilizumab,IL-6
+NCT00000473,Sepsis,Mild,73,False,Tocilizumab,IL-6
+NCT00000473,Infection,Mild,7,False,Tocilizumab,IL-6
+NCT00000473,Tuberculosis,Mild,40,True,Tocilizumab,IL-6
+NCT00000474,Fever,Life-threatening,93,False,Daratumumab,CD38
+NCT00000474,Rash,Moderate,90,True,Daratumumab,CD38
+NCT00000474,Pruritus,Severe,53,True,Daratumumab,CD38
+NCT00000474,Infusion reaction,Moderate,4,False,Daratumumab,CD38
+NCT00000474,Chills,Life-threatening,76,True,Daratumumab,CD38
+NCT00000475,Seizure,Mild,92,True,Blinatumomab,CD19/CD3
+NCT00000475,Dizziness,Moderate,88,True,Blinatumomab,CD19/CD3
+NCT00000475,Tremor,Moderate,65,False,Blinatumomab,CD19/CD3
+NCT00000475,Headache,Life-threatening,17,False,Blinatumomab,CD19/CD3
+NCT00000475,Confusion,Severe,47,False,Blinatumomab,CD19/CD3
+NCT00000476,Proteinuria,Mild,20,False,Bevacizumab,VEGF
+NCT00000476,Hypertension,Mild,2,True,Bevacizumab,VEGF
+NCT00000476,Bleeding,Severe,71,True,Bevacizumab,VEGF
+NCT00000477,Infection,Severe,21,True,Adalimumab,TNF-alpha
+NCT00000477,Pneumonia,Severe,74,False,Adalimumab,TNF-alpha
+NCT00000477,Sepsis,Severe,12,True,Adalimumab,TNF-alpha
+NCT00000477,Tuberculosis,Moderate,91,False,Adalimumab,TNF-alpha
+NCT00000478,Thyroiditis,Life-threatening,6,False,Pembrolizumab,PD-1
+NCT00000478,Hepatitis,Severe,52,False,Pembrolizumab,PD-1
+NCT00000478,Pneumonitis,Moderate,57,False,Pembrolizumab,PD-1
+NCT00000478,Colitis,Severe,48,True,Pembrolizumab,PD-1
+NCT00000478,Rash,Life-threatening,65,False,Pembrolizumab,PD-1
+NCT00000479,Hypertension,Mild,20,True,Bevacizumab,VEGF
+NCT00000479,Bleeding,Severe,49,True,Bevacizumab,VEGF
+NCT00000479,Proteinuria,Life-threatening,10,True,Bevacizumab,VEGF
+NCT00000479,Thromboembolism,Life-threatening,60,True,Bevacizumab,VEGF
+NCT00000480,Headache,Mild,24,True,Blinatumomab,CD19/CD3
+NCT00000480,Dizziness,Life-threatening,99,False,Blinatumomab,CD19/CD3
+NCT00000480,Tremor,Moderate,52,False,Blinatumomab,CD19/CD3
+NCT00000480,Seizure,Mild,41,False,Blinatumomab,CD19/CD3
+NCT00000480,Confusion,Life-threatening,28,False,Blinatumomab,CD19/CD3
+NCT00000481,Arrhythmia,Moderate,61,True,Trastuzumab,HER2
+NCT00000481,Heart failure,Moderate,41,True,Trastuzumab,HER2
+NCT00000481,Cardiac dysfunction,Life-threatening,8,False,Trastuzumab,HER2
+NCT00000482,Proteinuria,Mild,98,False,Bevacizumab,VEGF
+NCT00000482,Hypertension,Severe,33,True,Bevacizumab,VEGF
+NCT00000482,Bleeding,Mild,19,True,Bevacizumab,VEGF
+NCT00000482,Thromboembolism,Severe,52,True,Bevacizumab,VEGF
+NCT00000483,Rash,Moderate,7,True,Rituximab,CD20
+NCT00000483,Pruritus,Life-threatening,44,False,Rituximab,CD20
+NCT00000483,Fever,Moderate,26,False,Rituximab,CD20
+NCT00000483,Infusion reaction,Life-threatening,62,False,Rituximab,CD20
+NCT00000483,Chills,Moderate,90,False,Rituximab,CD20
+NCT00000484,Rash,Moderate,42,False,Ipilimumab,CTLA-4
+NCT00000484,Thyroiditis,Mild,20,False,Ipilimumab,CTLA-4
+NCT00000484,Colitis,Moderate,64,False,Ipilimumab,CTLA-4
+NCT00000484,Hepatitis,Mild,87,False,Ipilimumab,CTLA-4
+NCT00000484,Pneumonitis,Severe,67,True,Ipilimumab,CTLA-4
+NCT00000485,Heart failure,Mild,28,True,Trastuzumab,HER2
+NCT00000485,Arrhythmia,Life-threatening,90,True,Trastuzumab,HER2
+NCT00000485,Hypertension,Life-threatening,28,False,Trastuzumab,HER2
+NCT00000485,Cardiac dysfunction,Moderate,25,True,Trastuzumab,HER2
+NCT00000486,Sepsis,Mild,90,False,Tocilizumab,IL-6
+NCT00000486,Infection,Life-threatening,53,False,Tocilizumab,IL-6
+NCT00000486,Pneumonia,Severe,46,False,Tocilizumab,IL-6
+NCT00000486,Tuberculosis,Severe,15,True,Tocilizumab,IL-6
+NCT00000487,Dry skin,Life-threatening,49,False,Cetuximab,EGFR
+NCT00000487,Acneiform rash,Life-threatening,82,False,Cetuximab,EGFR
+NCT00000487,Rash,Mild,12,True,Cetuximab,EGFR
+NCT00000487,Pruritus,Mild,84,True,Cetuximab,EGFR
+NCT00000488,Tuberculosis,Life-threatening,65,True,Tocilizumab,IL-6
+NCT00000488,Infection,Severe,54,True,Tocilizumab,IL-6
+NCT00000488,Pneumonia,Moderate,100,False,Tocilizumab,IL-6
+NCT00000488,Sepsis,Life-threatening,15,True,Tocilizumab,IL-6
+NCT00000489,Infusion reaction,Mild,48,True,Daratumumab,CD38
+NCT00000489,Fever,Severe,35,False,Daratumumab,CD38
+NCT00000489,Chills,Severe,54,True,Daratumumab,CD38
+NCT00000489,Rash,Mild,54,True,Daratumumab,CD38
+NCT00000489,Pruritus,Mild,4,True,Daratumumab,CD38
+NCT00000490,Rash,Moderate,72,False,Ipilimumab,CTLA-4
+NCT00000490,Hepatitis,Moderate,79,False,Ipilimumab,CTLA-4
+NCT00000490,Pneumonitis,Mild,74,False,Ipilimumab,CTLA-4
+NCT00000490,Colitis,Moderate,82,False,Ipilimumab,CTLA-4
+NCT00000490,Thyroiditis,Moderate,52,False,Ipilimumab,CTLA-4
+NCT00000491,Acneiform rash,Moderate,65,True,Cetuximab,EGFR
+NCT00000491,Dry skin,Life-threatening,98,False,Cetuximab,EGFR
+NCT00000491,Rash,Moderate,42,True,Cetuximab,EGFR
+NCT00000491,Pruritus,Mild,12,True,Cetuximab,EGFR
+NCT00000492,Colitis,Mild,96,True,Pembrolizumab,PD-1
+NCT00000492,Pneumonitis,Life-threatening,82,False,Pembrolizumab,PD-1
+NCT00000492,Rash,Moderate,31,True,Pembrolizumab,PD-1
+NCT00000492,Hepatitis,Severe,25,True,Pembrolizumab,PD-1
+NCT00000492,Thyroiditis,Life-threatening,99,False,Pembrolizumab,PD-1
+NCT00000493,Infusion reaction,Mild,15,False,Daratumumab,CD38
+NCT00000493,Fever,Mild,14,True,Daratumumab,CD38
+NCT00000493,Pruritus,Severe,34,True,Daratumumab,CD38
+NCT00000493,Rash,Mild,10,False,Daratumumab,CD38
+NCT00000493,Chills,Severe,27,False,Daratumumab,CD38
+NCT00000494,Thyroiditis,Mild,63,True,Pembrolizumab,PD-1
+NCT00000494,Colitis,Moderate,88,False,Pembrolizumab,PD-1
+NCT00000494,Pneumonitis,Life-threatening,41,False,Pembrolizumab,PD-1
+NCT00000495,Pneumonitis,Mild,16,False,Pembrolizumab,PD-1
+NCT00000495,Hepatitis,Severe,62,True,Pembrolizumab,PD-1
+NCT00000495,Colitis,Moderate,67,False,Pembrolizumab,PD-1
+NCT00000495,Thyroiditis,Mild,25,True,Pembrolizumab,PD-1
+NCT00000496,Colitis,Moderate,4,False,Pembrolizumab,PD-1
+NCT00000496,Pneumonitis,Moderate,29,True,Pembrolizumab,PD-1
+NCT00000496,Rash,Moderate,35,False,Pembrolizumab,PD-1
+NCT00000496,Thyroiditis,Life-threatening,26,True,Pembrolizumab,PD-1
+NCT00000496,Hepatitis,Severe,91,False,Pembrolizumab,PD-1
+NCT00000497,Rash,Severe,23,True,Daratumumab,CD38
+NCT00000497,Pruritus,Severe,51,True,Daratumumab,CD38
+NCT00000497,Fever,Severe,22,True,Daratumumab,CD38
+NCT00000497,Chills,Life-threatening,56,False,Daratumumab,CD38
+NCT00000497,Infusion reaction,Life-threatening,77,False,Daratumumab,CD38
+NCT00000498,Dizziness,Moderate,73,False,Blinatumomab,CD19/CD3
+NCT00000498,Confusion,Severe,81,True,Blinatumomab,CD19/CD3
+NCT00000498,Tremor,Life-threatening,22,True,Blinatumomab,CD19/CD3
+NCT00000498,Seizure,Severe,76,False,Blinatumomab,CD19/CD3
+NCT00000498,Headache,Severe,78,False,Blinatumomab,CD19/CD3
+NCT00000499,Cardiac dysfunction,Life-threatening,24,False,Trastuzumab,HER2
+NCT00000499,Hypertension,Moderate,10,True,Trastuzumab,HER2
+NCT00000499,Arrhythmia,Severe,48,True,Trastuzumab,HER2
+NCT00000499,Heart failure,Severe,16,True,Trastuzumab,HER2

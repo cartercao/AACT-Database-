@@ -1,0 +1,501 @@
+nct_id,official_title,intervention_name,target,indication,toxicity_profile,phase,enrollment,status
+NCT00000000,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 1,1538,Terminated
+NCT00000001,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,305,Completed
+NCT00000002,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 1,1229,Suspended
+NCT00000003,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 1,211,Recruiting
+NCT00000004,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 1,1169,Recruiting
+NCT00000005,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 4,1905,Suspended
+NCT00000006,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 3,153,Recruiting
+NCT00000007,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,2376,Recruiting
+NCT00000008,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,937,Completed
+NCT00000009,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,755,Terminated
+NCT00000010,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 3,455,Suspended
+NCT00000011,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 1,1908,Suspended
+NCT00000012,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 3,3062,Recruiting
+NCT00000013,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 1,1374,Recruiting
+NCT00000014,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,1771,Recruiting
+NCT00000015,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,2377,Suspended
+NCT00000016,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,778,Terminated
+NCT00000017,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,684,Recruiting
+NCT00000018,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 2,354,Suspended
+NCT00000019,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,4662,Recruiting
+NCT00000020,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 1,489,Completed
+NCT00000021,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 4,2293,Completed
+NCT00000022,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,1841,Suspended
+NCT00000023,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 4,1270,Terminated
+NCT00000024,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 2,1545,Terminated
+NCT00000025,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,4880,Suspended
+NCT00000026,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,303,Suspended
+NCT00000027,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 1,1783,Completed
+NCT00000028,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 2,1642,Suspended
+NCT00000029,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 1,808,Suspended
+NCT00000030,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,4434,Terminated
+NCT00000031,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 1,1413,Completed
+NCT00000032,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,2886,Completed
+NCT00000033,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,1395,Suspended
+NCT00000034,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 3,4200,Recruiting
+NCT00000035,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 1,1802,Terminated
+NCT00000036,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 2,333,Terminated
+NCT00000037,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 1,1246,Terminated
+NCT00000038,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,249,Terminated
+NCT00000039,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 2,138,Recruiting
+NCT00000040,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 1,195,Suspended
+NCT00000041,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,282,Suspended
+NCT00000042,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 2,562,Suspended
+NCT00000043,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,1480,Terminated
+NCT00000044,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,3688,Suspended
+NCT00000045,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,480,Completed
+NCT00000046,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 1,1224,Recruiting
+NCT00000047,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,34,Completed
+NCT00000048,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 2,158,Completed
+NCT00000049,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 1,1072,Recruiting
+NCT00000050,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,1855,Recruiting
+NCT00000051,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,2090,Suspended
+NCT00000052,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 2,213,Completed
+NCT00000053,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,3569,Suspended
+NCT00000054,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,1399,Completed
+NCT00000055,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 4,2879,Completed
+NCT00000056,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,409,Suspended
+NCT00000057,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 4,1603,Terminated
+NCT00000058,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 2,1810,Completed
+NCT00000059,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,123,Completed
+NCT00000060,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,360,Suspended
+NCT00000061,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 4,1851,Suspended
+NCT00000062,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 2,796,Completed
+NCT00000063,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,3827,Terminated
+NCT00000064,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 4,1368,Recruiting
+NCT00000065,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 2,139,Completed
+NCT00000066,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 1,122,Suspended
+NCT00000067,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 2,136,Completed
+NCT00000068,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 1,1238,Completed
+NCT00000069,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 4,1082,Recruiting
+NCT00000070,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 1,1288,Completed
+NCT00000071,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,2236,Recruiting
+NCT00000072,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,563,Suspended
+NCT00000073,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,3845,Terminated
+NCT00000074,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 1,958,Completed
+NCT00000075,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,1056,Terminated
+NCT00000076,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,663,Recruiting
+NCT00000077,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 3,1392,Suspended
+NCT00000078,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,4433,Completed
+NCT00000079,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,948,Recruiting
+NCT00000080,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,1842,Completed
+NCT00000081,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 2,577,Terminated
+NCT00000082,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,1489,Terminated
+NCT00000083,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,4240,Suspended
+NCT00000084,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,209,Suspended
+NCT00000085,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,27,Terminated
+NCT00000086,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,1423,Suspended
+NCT00000087,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 4,4694,Completed
+NCT00000088,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 1,1955,Recruiting
+NCT00000089,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 1,1729,Terminated
+NCT00000090,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,900,Recruiting
+NCT00000091,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 3,3087,Completed
+NCT00000092,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,1416,Recruiting
+NCT00000093,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 3,4686,Suspended
+NCT00000094,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,1915,Recruiting
+NCT00000095,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 2,1825,Suspended
+NCT00000096,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 2,1528,Terminated
+NCT00000097,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 2,566,Recruiting
+NCT00000098,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,417,Suspended
+NCT00000099,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,1692,Suspended
+NCT00000100,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 3,1964,Recruiting
+NCT00000101,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 2,836,Terminated
+NCT00000102,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,2000,Terminated
+NCT00000103,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 4,4492,Terminated
+NCT00000104,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 1,1816,Terminated
+NCT00000105,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,413,Completed
+NCT00000106,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,2931,Terminated
+NCT00000107,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,808,Recruiting
+NCT00000108,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,1471,Suspended
+NCT00000109,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 2,765,Suspended
+NCT00000110,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 3,2671,Completed
+NCT00000111,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 3,3445,Terminated
+NCT00000112,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,4641,Recruiting
+NCT00000113,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 4,3205,Recruiting
+NCT00000114,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 3,3426,Completed
+NCT00000115,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 3,1821,Suspended
+NCT00000116,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 3,3909,Suspended
+NCT00000117,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 2,1066,Suspended
+NCT00000118,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 1,601,Terminated
+NCT00000119,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,1397,Terminated
+NCT00000120,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,321,Completed
+NCT00000121,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 2,993,Completed
+NCT00000122,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 4,4815,Recruiting
+NCT00000123,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 4,3373,Recruiting
+NCT00000124,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 1,1848,Completed
+NCT00000125,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 2,380,Suspended
+NCT00000126,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 2,1898,Completed
+NCT00000127,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 2,1661,Suspended
+NCT00000128,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,3725,Suspended
+NCT00000129,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 4,1403,Suspended
+NCT00000130,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,2125,Terminated
+NCT00000131,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 4,2059,Terminated
+NCT00000132,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,1481,Terminated
+NCT00000133,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,2851,Terminated
+NCT00000134,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 1,303,Recruiting
+NCT00000135,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 4,1351,Recruiting
+NCT00000136,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,3439,Terminated
+NCT00000137,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 4,3506,Completed
+NCT00000138,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 4,3290,Completed
+NCT00000139,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,4007,Completed
+NCT00000140,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 3,3294,Suspended
+NCT00000141,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 2,1019,Recruiting
+NCT00000142,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,4078,Completed
+NCT00000143,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,3412,Recruiting
+NCT00000144,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 2,1294,Completed
+NCT00000145,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,191,Suspended
+NCT00000146,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 4,1588,Completed
+NCT00000147,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,2781,Recruiting
+NCT00000148,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,2864,Suspended
+NCT00000149,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,2166,Completed
+NCT00000150,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,1554,Completed
+NCT00000151,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,1351,Completed
+NCT00000152,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 1,1964,Recruiting
+NCT00000153,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 1,1292,Recruiting
+NCT00000154,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,989,Completed
+NCT00000155,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,972,Terminated
+NCT00000156,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,1260,Completed
+NCT00000157,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,985,Completed
+NCT00000158,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,3349,Recruiting
+NCT00000159,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,228,Terminated
+NCT00000160,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 1,1650,Completed
+NCT00000161,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 4,3135,Completed
+NCT00000162,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,203,Suspended
+NCT00000163,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,907,Terminated
+NCT00000164,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 2,911,Recruiting
+NCT00000165,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,4508,Suspended
+NCT00000166,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 4,4953,Terminated
+NCT00000167,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,1721,Completed
+NCT00000168,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,2097,Suspended
+NCT00000169,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,2855,Completed
+NCT00000170,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,1589,Suspended
+NCT00000171,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,2216,Terminated
+NCT00000172,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 3,4653,Completed
+NCT00000173,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 2,195,Recruiting
+NCT00000174,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 4,4648,Recruiting
+NCT00000175,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 4,3771,Completed
+NCT00000176,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 3,1915,Suspended
+NCT00000177,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,4864,Terminated
+NCT00000178,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,3585,Terminated
+NCT00000179,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 4,2319,Terminated
+NCT00000180,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 2,267,Recruiting
+NCT00000181,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 1,1541,Recruiting
+NCT00000182,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,1532,Suspended
+NCT00000183,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 3,923,Recruiting
+NCT00000184,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 2,759,Recruiting
+NCT00000185,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,1470,Recruiting
+NCT00000186,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,131,Terminated
+NCT00000187,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 4,940,Completed
+NCT00000188,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 3,3945,Suspended
+NCT00000189,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,1610,Completed
+NCT00000190,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,1034,Completed
+NCT00000191,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 4,706,Completed
+NCT00000192,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 2,1681,Terminated
+NCT00000193,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,262,Suspended
+NCT00000194,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,1608,Suspended
+NCT00000195,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 4,2535,Suspended
+NCT00000196,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,1268,Completed
+NCT00000197,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,561,Completed
+NCT00000198,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 2,375,Completed
+NCT00000199,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 1,856,Suspended
+NCT00000200,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,2485,Completed
+NCT00000201,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,2416,Suspended
+NCT00000202,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,1912,Terminated
+NCT00000203,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,890,Completed
+NCT00000204,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 2,1346,Recruiting
+NCT00000205,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 2,166,Completed
+NCT00000206,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,4974,Terminated
+NCT00000207,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,979,Terminated
+NCT00000208,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,4199,Suspended
+NCT00000209,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,1244,Completed
+NCT00000210,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,2151,Completed
+NCT00000211,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,1989,Completed
+NCT00000212,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,1582,Recruiting
+NCT00000213,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 4,2378,Recruiting
+NCT00000214,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,4128,Completed
+NCT00000215,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,3445,Terminated
+NCT00000216,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 1,1776,Recruiting
+NCT00000217,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 4,4158,Terminated
+NCT00000218,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,951,Completed
+NCT00000219,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 3,2748,Completed
+NCT00000220,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,1366,Suspended
+NCT00000221,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,404,Terminated
+NCT00000222,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,3721,Completed
+NCT00000223,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,4599,Recruiting
+NCT00000224,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,4070,Completed
+NCT00000225,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 2,1473,Recruiting
+NCT00000226,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,1151,Suspended
+NCT00000227,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,1743,Completed
+NCT00000228,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,1346,Recruiting
+NCT00000229,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,4268,Terminated
+NCT00000230,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 4,3968,Recruiting
+NCT00000231,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 2,805,Recruiting
+NCT00000232,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,1789,Completed
+NCT00000233,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,2884,Terminated
+NCT00000234,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 3,2545,Suspended
+NCT00000235,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 4,4512,Suspended
+NCT00000236,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 3,4621,Suspended
+NCT00000237,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,1645,Recruiting
+NCT00000238,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,2013,Suspended
+NCT00000239,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 3,3974,Suspended
+NCT00000240,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 2,1034,Completed
+NCT00000241,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,922,Suspended
+NCT00000242,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,225,Recruiting
+NCT00000243,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 2,173,Suspended
+NCT00000244,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 3,3356,Completed
+NCT00000245,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 4,2694,Suspended
+NCT00000246,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 1,1284,Completed
+NCT00000247,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,1963,Completed
+NCT00000248,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,1577,Completed
+NCT00000249,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 2,1441,Terminated
+NCT00000250,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 1,684,Completed
+NCT00000251,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 3,3170,Suspended
+NCT00000252,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 2,1107,Suspended
+NCT00000253,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,368,Recruiting
+NCT00000254,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,2072,Suspended
+NCT00000255,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,495,Suspended
+NCT00000256,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,2191,Completed
+NCT00000257,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,4577,Recruiting
+NCT00000258,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,2930,Terminated
+NCT00000259,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,3842,Terminated
+NCT00000260,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 4,4058,Completed
+NCT00000261,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 4,4785,Terminated
+NCT00000262,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 3,2518,Completed
+NCT00000263,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,166,Completed
+NCT00000264,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,2444,Recruiting
+NCT00000265,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 3,1894,Recruiting
+NCT00000266,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 3,1220,Completed
+NCT00000267,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 3,3711,Completed
+NCT00000268,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 3,1176,Completed
+NCT00000269,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 3,3503,Recruiting
+NCT00000270,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,1630,Terminated
+NCT00000271,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,1447,Terminated
+NCT00000272,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,2874,Completed
+NCT00000273,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,308,Recruiting
+NCT00000274,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,839,Suspended
+NCT00000275,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 3,4495,Completed
+NCT00000276,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,2247,Suspended
+NCT00000277,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 1,1402,Recruiting
+NCT00000278,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,1288,Terminated
+NCT00000279,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,1346,Completed
+NCT00000280,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,3444,Completed
+NCT00000281,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 1,1957,Completed
+NCT00000282,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,1051,Completed
+NCT00000283,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,815,Suspended
+NCT00000284,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 4,4911,Recruiting
+NCT00000285,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,1727,Suspended
+NCT00000286,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,2391,Completed
+NCT00000287,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,928,Suspended
+NCT00000288,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,913,Terminated
+NCT00000289,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,596,Suspended
+NCT00000290,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 2,270,Suspended
+NCT00000291,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,1334,Completed
+NCT00000292,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 3,2095,Recruiting
+NCT00000293,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,160,Recruiting
+NCT00000294,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,1685,Recruiting
+NCT00000295,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,1635,Completed
+NCT00000296,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 2,286,Terminated
+NCT00000297,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 1,1373,Completed
+NCT00000298,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 1,753,Recruiting
+NCT00000299,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 3,229,Recruiting
+NCT00000300,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,279,Suspended
+NCT00000301,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 1,1547,Completed
+NCT00000302,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 4,3065,Completed
+NCT00000303,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 2,1956,Completed
+NCT00000304,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,3852,Completed
+NCT00000305,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 4,3390,Suspended
+NCT00000306,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,3733,Completed
+NCT00000307,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 3,1315,Completed
+NCT00000308,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,4895,Terminated
+NCT00000309,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,3816,Suspended
+NCT00000310,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 1,1766,Recruiting
+NCT00000311,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 4,1971,Suspended
+NCT00000312,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 4,3366,Suspended
+NCT00000313,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 3,3596,Terminated
+NCT00000314,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 3,1350,Suspended
+NCT00000315,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 1,1723,Completed
+NCT00000316,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,891,Terminated
+NCT00000317,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 1,1221,Terminated
+NCT00000318,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,2996,Suspended
+NCT00000319,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 3,2659,Terminated
+NCT00000320,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,336,Suspended
+NCT00000321,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 1,737,Terminated
+NCT00000322,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 3,4803,Recruiting
+NCT00000323,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,1267,Terminated
+NCT00000324,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 2,579,Terminated
+NCT00000325,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 3,150,Recruiting
+NCT00000326,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 4,670,Recruiting
+NCT00000327,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 1,1548,Recruiting
+NCT00000328,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 4,3816,Terminated
+NCT00000329,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,2652,Terminated
+NCT00000330,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 1,1829,Completed
+NCT00000331,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 2,1565,Completed
+NCT00000332,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 3,3729,Suspended
+NCT00000333,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 4,3492,Terminated
+NCT00000334,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 1,726,Suspended
+NCT00000335,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 3,4958,Suspended
+NCT00000336,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,472,Recruiting
+NCT00000337,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,35,Recruiting
+NCT00000338,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 2,1591,Recruiting
+NCT00000339,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 3,2787,Completed
+NCT00000340,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 4,3627,Recruiting
+NCT00000341,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 4,4462,Recruiting
+NCT00000342,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,690,Suspended
+NCT00000343,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 4,253,Suspended
+NCT00000344,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 3,4816,Suspended
+NCT00000345,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,3521,Terminated
+NCT00000346,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,270,Terminated
+NCT00000347,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 4,3064,Completed
+NCT00000348,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,518,Suspended
+NCT00000349,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,4392,Completed
+NCT00000350,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,2881,Recruiting
+NCT00000351,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,176,Completed
+NCT00000352,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 2,1875,Terminated
+NCT00000353,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,503,Completed
+NCT00000354,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,1716,Recruiting
+NCT00000355,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,1576,Completed
+NCT00000356,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 4,3900,Suspended
+NCT00000357,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 3,2689,Recruiting
+NCT00000358,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,980,Suspended
+NCT00000359,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 3,4944,Completed
+NCT00000360,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 1,655,Suspended
+NCT00000361,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,136,Terminated
+NCT00000362,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,1340,Completed
+NCT00000363,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,3890,Completed
+NCT00000364,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 2,678,Suspended
+NCT00000365,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 2,1981,Completed
+NCT00000366,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,1680,Terminated
+NCT00000367,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,100,Recruiting
+NCT00000368,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 4,4393,Recruiting
+NCT00000369,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 3,2417,Suspended
+NCT00000370,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,4997,Completed
+NCT00000371,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 1,695,Completed
+NCT00000372,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 4,2427,Terminated
+NCT00000373,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,702,Completed
+NCT00000374,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,1897,Terminated
+NCT00000375,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,1156,Completed
+NCT00000376,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,2790,Recruiting
+NCT00000377,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 1,1343,Suspended
+NCT00000378,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,249,Terminated
+NCT00000379,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 2,1967,Recruiting
+NCT00000380,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 4,1672,Recruiting
+NCT00000381,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 2,178,Terminated
+NCT00000382,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 1,1375,Terminated
+NCT00000383,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,1243,Suspended
+NCT00000384,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 2,390,Recruiting
+NCT00000385,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,861,Terminated
+NCT00000386,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 4,2434,Suspended
+NCT00000387,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,653,Suspended
+NCT00000388,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,4772,Suspended
+NCT00000389,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,3228,Suspended
+NCT00000390,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 2,1660,Recruiting
+NCT00000391,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,1333,Suspended
+NCT00000392,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 1,1476,Completed
+NCT00000393,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 1,1582,Recruiting
+NCT00000394,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,4305,Recruiting
+NCT00000395,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,1958,Recruiting
+NCT00000396,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,318,Suspended
+NCT00000397,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 4,4212,Terminated
+NCT00000398,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 4,768,Terminated
+NCT00000399,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 1,672,Completed
+NCT00000400,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,301,Completed
+NCT00000401,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,1236,Suspended
+NCT00000402,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,1875,Completed
+NCT00000403,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 3,1866,Recruiting
+NCT00000404,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 4,1010,Terminated
+NCT00000405,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,1098,Completed
+NCT00000406,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 4,3844,Completed
+NCT00000407,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,4988,Completed
+NCT00000408,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 2,1491,Recruiting
+NCT00000409,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,112,Terminated
+NCT00000410,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 4,1634,Completed
+NCT00000411,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,654,Completed
+NCT00000412,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 4,456,Suspended
+NCT00000413,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 3,233,Terminated
+NCT00000414,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 3,2075,Completed
+NCT00000415,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 3,1192,Completed
+NCT00000416,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 3,1534,Suspended
+NCT00000417,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 2,1681,Recruiting
+NCT00000418,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,402,Terminated
+NCT00000419,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 1,1640,Recruiting
+NCT00000420,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 3,2640,Suspended
+NCT00000421,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 4,2175,Completed
+NCT00000422,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,3024,Completed
+NCT00000423,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 3,1119,Terminated
+NCT00000424,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 4,3702,Suspended
+NCT00000425,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,1036,Suspended
+NCT00000426,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 3,776,Suspended
+NCT00000427,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,1578,Terminated
+NCT00000428,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 1,183,Terminated
+NCT00000429,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 3,3752,Suspended
+NCT00000430,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 4,2979,Suspended
+NCT00000431,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 3,3663,Terminated
+NCT00000432,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 1,1394,Suspended
+NCT00000433,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,1971,Completed
+NCT00000434,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 4,385,Recruiting
+NCT00000435,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,1614,Terminated
+NCT00000436,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 4,4746,Completed
+NCT00000437,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,1410,Suspended
+NCT00000438,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 3,3736,Completed
+NCT00000439,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,1104,Terminated
+NCT00000440,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,2383,Recruiting
+NCT00000441,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 1,1526,Recruiting
+NCT00000442,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 4,4701,Completed
+NCT00000443,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 3,3755,Recruiting
+NCT00000444,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 3,4123,Recruiting
+NCT00000445,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,1766,Completed
+NCT00000446,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 2,1860,Suspended
+NCT00000447,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 3,2946,Completed
+NCT00000448,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,2557,Recruiting
+NCT00000449,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,4267,Recruiting
+NCT00000450,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 2,1642,Recruiting
+NCT00000451,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 4,315,Terminated
+NCT00000452,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,3928,Recruiting
+NCT00000453,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 1,154,Terminated
+NCT00000454,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 4,4406,Suspended
+NCT00000455,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,276,Terminated
+NCT00000456,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,3916,Terminated
+NCT00000457,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 2,1592,Recruiting
+NCT00000458,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,1722,Completed
+NCT00000459,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 2,642,Recruiting
+NCT00000460,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,1947,Terminated
+NCT00000461,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,746,Terminated
+NCT00000462,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 3,1125,Terminated
+NCT00000463,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 1,1049,Recruiting
+NCT00000464,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 2,370,Terminated
+NCT00000465,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 1,1710,Completed
+NCT00000466,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 1,1962,Terminated
+NCT00000467,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 4,348,Suspended
+NCT00000468,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 3,2574,Suspended
+NCT00000469,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 4,2536,Suspended
+NCT00000470,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 1,343,Suspended
+NCT00000471,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 4,3904,Recruiting
+NCT00000472,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 2,660,Terminated
+NCT00000473,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 4,1171,Terminated
+NCT00000474,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 1,673,Recruiting
+NCT00000475,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,567,Suspended
+NCT00000476,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,218,Completed
+NCT00000477,Study of Adalimumab in Autoimmune,Adalimumab,TNF-alpha,Autoimmune,infection,Phase 4,3525,Recruiting
+NCT00000478,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,4832,Terminated
+NCT00000479,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,1040,Suspended
+NCT00000480,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 3,4174,Completed
+NCT00000481,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,4240,Suspended
+NCT00000482,Study of Bevacizumab in Multiple cancers,Bevacizumab,VEGF,Multiple cancers,vascular,Phase 2,1214,Terminated
+NCT00000483,Study of Rituximab in B-cell lymphoma,Rituximab,CD20,B-cell lymphoma,infusion_reactions,Phase 1,596,Suspended
+NCT00000484,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 4,2440,Completed
+NCT00000485,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,1197,Terminated
+NCT00000486,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 4,3097,Completed
+NCT00000487,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 1,1187,Recruiting
+NCT00000488,Study of Tocilizumab in Rheumatoid arthritis,Tocilizumab,IL-6,Rheumatoid arthritis,infection,Phase 3,702,Suspended
+NCT00000489,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 4,4604,Terminated
+NCT00000490,Study of Ipilimumab in Melanoma,Ipilimumab,CTLA-4,Melanoma,immune_related,Phase 1,283,Completed
+NCT00000491,Study of Cetuximab in Colorectal cancer,Cetuximab,EGFR,Colorectal cancer,skin_toxicity,Phase 3,2877,Terminated
+NCT00000492,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 2,1253,Suspended
+NCT00000493,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 1,112,Completed
+NCT00000494,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 3,3980,Suspended
+NCT00000495,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 2,691,Terminated
+NCT00000496,Study of Pembrolizumab in Multiple cancers,Pembrolizumab,PD-1,Multiple cancers,immune_related,Phase 4,2551,Terminated
+NCT00000497,Study of Daratumumab in Multiple myeloma,Daratumumab,CD38,Multiple myeloma,infusion_reactions,Phase 4,4711,Terminated
+NCT00000498,Study of Blinatumomab in ALL,Blinatumomab,CD19/CD3,ALL,neurotoxicity,Phase 1,774,Terminated
+NCT00000499,Study of Trastuzumab in Breast cancer,Trastuzumab,HER2,Breast cancer,cardiotoxicity,Phase 4,4881,Terminated
