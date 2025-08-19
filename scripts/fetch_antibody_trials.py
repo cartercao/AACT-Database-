@@ -106,6 +106,8 @@ def build_antibody_trials_dataset(query_term: str = "monoclonal antibody", max_r
         intervention_names = "; ".join([i.get("name", "") for i in interventions])
 
         phase = detail["protocolSection"].get("designModule", {}).get("phaseList", {}).get("phase", [])
+        if not phase:
+            phase = detail["protocolSection"].get("designModule", {}).get("phases", [])
         phase_str = ", ".join(phase) if isinstance(phase, list) else phase
 
         record = {

@@ -1,0 +1,10 @@
+NCTId,Antibody,Design,Target,Phase,Enrollment,TotalSAE,TopOrganSAE,TopSAE_Terms
+NCT01392326,Secukinumab (75 mg); Secukinumab (150 mg),mAb,,PHASE3,606,0,Blood and lymphatic system disorders (0); Cardiac disorders (0); Ear and labyrinth disorders (0),Leukocytosis (0); Normochromic normocytic anaemia (0); Acute myocardial infarction (0)
+NCT02690948,Pembrolizumab,mAb,PD-1,"PHASE1, PHASE2",16,10,Vascular disorders (3); Infections and infestations (2); Surgical and medical procedures (2),Hypertension (3); Diarrhea (1); Urinary tract infection (1)
+NCT00582166,Ibritumomab Tiuxetan (Zevalin) + Rituximab,mAb,,PHASE2,18,7,Blood and lymphatic system disorders (6); Infections and infestations (1),Neutrophils/granulocytes (2); Platelets (2); Infection (1)
+NCT00091026,cetuximab; bevacizumab,mAb,EGFR/VEGF-A,PHASE2,143,0,Gastrointestinal disorders (0); Metabolism and nutrition disorders (0); Hepatobiliary disorders (0),Abdominal pain (0); Abdominal cramping (0); Abdominal distension (0)
+NCT00939003,Adalimumab; Open-label Adalimumab,mAb,TNF-α,PHASE3,192,0,Cardiac disorders (0); Ear and labyrinth disorders (0); Endocrine disorders (0),CARDIOPULMONARY FAILURE (0); VERTIGO (0); GOITRE (0)
+NCT02447003,Pembrolizumab,mAb,PD-1,PHASE2,254,106,"Respiratory, thoracic and mediastinal disorders (27); Infections and infestations (22); Gastrointestinal disorders (7)",Pleural effusion (13); Pneumonia (8); Dyspnoea (4)
+NCT02272803,Elotuzumab (BMS-901608),mAb,,PHASE2,82,0,Blood and lymphatic system disorders (0); Cardiac disorders (0); Eye disorders (0),Agranulocytosis (0); Disseminated intravascular coagulation (0); Cardiac failure (0)
+NCT03518203,Eculizumab,mAb,C5,PHASE2,23,81,"Respiratory, thoracic and mediastinal disorders (21); Infections and infestations (13); Nervous system disorders (11)",Respiratory failure (10); Acute kidney injury (8); Sepsis (5)
+NCT03710603,Daratumumab,mAb,CD38,PHASE3,709,0,"Blood and lymphatic system disorders (0); Cardiac disorders (0); Congenital, familial and genetic disorders (0)",Anaemia (0); Febrile Bone Marrow Aplasia (0); Febrile Neutropenia (0)
