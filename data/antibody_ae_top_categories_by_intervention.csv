@@ -1,0 +1,105 @@
+intervention,category,affected
+Unmapped,Gastrointestinal disorders,1049
+Unmapped,Infections and infestations,900
+Unmapped,General disorders,782
+Unmapped,Investigations,619
+Unmapped,Metabolism and nutrition disorders,565
+Pembrolizumab,Gastrointestinal disorders,164
+Pembrolizumab,General disorders,115
+Pembrolizumab,"Respiratory, thoracic and mediastinal disorders",96
+Pembrolizumab,Musculoskeletal and connective tissue disorders,87
+Pembrolizumab,Skin and subcutaneous tissue disorders,70
+gemcitabine hydrochloride,Investigations,82
+gemcitabine hydrochloride,Metabolism and nutrition disorders,38
+gemcitabine hydrochloride,Gastrointestinal disorders,36
+gemcitabine hydrochloride,Vascular disorders,23
+gemcitabine hydrochloride,General disorders,23
+cisplatin,Gastrointestinal disorders,986
+cisplatin,"Respiratory, thoracic and mediastinal disorders",311
+cisplatin,Nervous system disorders,260
+cisplatin,General disorders,218
+cisplatin,Ear and labyrinth disorders,199
+panitumumab,Gastrointestinal disorders,1009
+panitumumab,Skin and subcutaneous tissue disorders,443
+panitumumab,"Respiratory, thoracic and mediastinal disorders",307
+panitumumab,General disorders,288
+panitumumab,Nervous system disorders,220
+Naxitamab and GM-CSF in combination with irinotecan and temozolomide,Investigations,10
+Naxitamab and GM-CSF in combination with irinotecan and temozolomide,General disorders,6
+Naxitamab and GM-CSF in combination with irinotecan and temozolomide,Gastrointestinal disorders,5
+Naxitamab and GM-CSF in combination with irinotecan and temozolomide,Infections and infestations,5
+Naxitamab and GM-CSF in combination with irinotecan and temozolomide,Skin and subcutaneous tissue disorders,4
+Placebo,Infections and infestations,364
+Placebo,"Respiratory, thoracic and mediastinal disorders",115
+Placebo,Nervous system disorders,68
+Placebo,Vascular disorders,46
+Placebo,"Injury, poisoning and procedural complications",38
+Crenezumab,Infections and infestations,31
+Crenezumab,Vascular disorders,29
+Crenezumab,"Injury, poisoning and procedural complications",28
+Crenezumab,Nervous system disorders,28
+Crenezumab,Cardiac disorders,3
+GSK3174998,Gastrointestinal disorders,47
+GSK3174998,General disorders,45
+GSK3174998,"Respiratory, thoracic and mediastinal disorders",34
+GSK3174998,Musculoskeletal and connective tissue disorders,32
+GSK3174998,Nervous system disorders,21
+Fremanezumab,General disorders,26
+Fremanezumab,Infections and infestations,25
+Fremanezumab,Nervous system disorders,8
+Fremanezumab,Blood and lymphatic system disorders,0
+Ixekizumab,Infections and infestations,147
+Ixekizumab,Nervous system disorders,27
+Ixekizumab,Musculoskeletal and connective tissue disorders,26
+Ixekizumab,Gastrointestinal disorders,21
+Ixekizumab,"Injury, poisoning and procedural complications",20
+belimumab,Musculoskeletal and connective tissue disorders,273
+belimumab,Infections and infestations,245
+belimumab,Gastrointestinal disorders,101
+belimumab,"Respiratory, thoracic and mediastinal disorders",52
+belimumab,General disorders,51
+Panitumumab,Skin and subcutaneous tissue disorders,300
+Panitumumab,Gastrointestinal disorders,169
+Panitumumab,Metabolism and nutrition disorders,117
+Panitumumab,General disorders,113
+Panitumumab,Infections and infestations,59
+Rilotumumab,Gastrointestinal disorders,11
+Rilotumumab,General disorders,6
+Rilotumumab,Investigations,5
+Rilotumumab,Metabolism and nutrition disorders,5
+Rilotumumab,Psychiatric disorders,5
+Ganitumab,General disorders,12
+Ganitumab,Metabolism and nutrition disorders,10
+Ganitumab,Gastrointestinal disorders,8
+Ganitumab,Musculoskeletal and connective tissue disorders,7
+Ganitumab,Skin and subcutaneous tissue disorders,6
+Bevacizumab,Investigations,1359
+Bevacizumab,General disorders,1068
+Bevacizumab,Gastrointestinal disorders,1056
+Bevacizumab,Skin and subcutaneous tissue disorders,1037
+Bevacizumab,Metabolism and nutrition disorders,831
+Carboplatin,Blood and lymphatic system disorders,738
+Carboplatin,Investigations,517
+Carboplatin,Skin and subcutaneous tissue disorders,313
+Carboplatin,Nervous system disorders,311
+Carboplatin,Gastrointestinal disorders,270
+placebo,Infections and infestations,9
+placebo,Nervous system disorders,6
+placebo,Gastrointestinal disorders,6
+placebo,General disorders,6
+placebo,Musculoskeletal and connective tissue disorders,6
+bapineuzumab,Nervous system disorders,18
+bapineuzumab,Gastrointestinal disorders,15
+bapineuzumab,Infections and infestations,12
+bapineuzumab,"Injury, poisoning and procedural complications",10
+bapineuzumab,Psychiatric disorders,10
+Emicizumab,Infections and infestations,130
+Emicizumab,General disorders,42
+Emicizumab,"Injury, poisoning and procedural complications",38
+Emicizumab,Gastrointestinal disorders,35
+Emicizumab,"Respiratory, thoracic and mediastinal disorders",24
+Benralizumab,Infections and infestations,489
+Benralizumab,"Respiratory, thoracic and mediastinal disorders",185
+Benralizumab,Nervous system disorders,70
+Benralizumab,Musculoskeletal and connective tissue disorders,59
+Benralizumab,General disorders,32
