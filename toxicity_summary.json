@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "generated_on": "2025-08-19T18:42:21.442415",
+    "total_trials": 1000,
+    "total_events": 5000,
+    "serious_events": 1007
+  },
+  "top_adverse_events": {
+    "Fatigue": 729,
+    "Nausea": 538,
+    "Headache": 490,
+    "Rash": 394,
+    "Fever": 374,
+    "Diarrhea": 288,
+    "Vomiting": 245,
+    "Thrombocytopenia": 190,
+    "Anemia": 187,
+    "Hypertension": 146
+  },
+  "organ_system_toxicity": {
+    "General": 1260,
+    "Gastrointestinal": 1169,
+    "Neurological": 622,
+    "Hematological": 519,
+    "Dermatological": 443,
+    "Respiratory": 268,
+    "Cardiovascular": 169,
+    "Immunological": 148,
+    "Hepatic": 119,
+    "Infectious": 29
+  },
+  "phase_analysis": {
+    "Phase 2": 1234,
+    "Phase 4": 1098,
+    "Phase 3": 1425,
+    "Phase 1": 1243
+  },
+  "severity_distribution": {
+    "Mild": 2521,
+    "Moderate": 1517,
+    "Severe": 962
+  },
+  "outcome_distribution": {
+    "Recovered": 3441,
+    "Recovering": 1050,
+    "Not recovered": 388,
+    "Fatal": 121
+  },
+  "study_completion": {
+    "Suspended": 256,
+    "Recruiting": 241,
+    "Completed": 270,
+    "Terminated": 233
+  },
+  "serious_events": {
+    "Fatigue": 136,
+    "Nausea": 118,
+    "Headache": 102,
+    "Fever": 80,
+    "Rash": 68,
+    "Diarrhea": 58,
+    "Vomiting": 47,
+    "Thrombocytopenia": 40,
+    "Anemia": 36,
+    "Hypertension": 30
+  }
+}
