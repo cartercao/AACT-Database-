@@ -1,0 +1,28 @@
+adverse_event,total_count,serious_count,serious_percentage,mild_count,moderate_count,severe_count,life_threatening_count,associated_drugs,associated_targets
+Cardiac dysfunction,52,22,42.30769230769231,12,18,10,12,Trastuzumab,HER2
+Arrhythmia,56,29,51.78571428571429,14,10,15,17,Trastuzumab,HER2
+Heart failure,55,31,56.36363636363636,15,15,7,18,Trastuzumab,HER2
+Hypertension,97,48,49.48453608247423,23,26,19,29,"Bevacizumab, Trastuzumab","HER2, VEGF"
+Thromboembolism,46,23,50.0,9,10,12,15,Bevacizumab,VEGF
+Bleeding,47,33,70.2127659574468,7,12,17,11,Bevacizumab,VEGF
+Proteinuria,48,28,58.333333333333336,16,7,12,13,Bevacizumab,VEGF
+Rash,215,112,52.093023255813954,66,40,57,52,"Cetuximab, Pembrolizumab, Daratumumab, Rituximab, Ipilimumab","PD-1, CD20, CTLA-4, EGFR, CD38"
+Pruritus,122,71,58.19672131147541,34,26,35,27,"Rituximab, Daratumumab, Cetuximab","CD20, EGFR, CD38"
+Chills,73,40,54.794520547945204,16,22,21,14,"Rituximab, Daratumumab","CD20, CD38"
+Infusion reaction,68,26,38.23529411764706,14,24,12,18,"Rituximab, Daratumumab","CD20, CD38"
+Fever,78,37,47.43589743589743,20,16,23,19,"Rituximab, Daratumumab","CD20, CD38"
+Colitis,93,42,45.16129032258064,25,26,18,24,"Pembrolizumab, Ipilimumab","PD-1, CTLA-4"
+Hepatitis,100,46,46.0,20,29,24,27,"Pembrolizumab, Ipilimumab","PD-1, CTLA-4"
+Thyroiditis,96,49,51.041666666666664,28,22,16,30,"Pembrolizumab, Ipilimumab","PD-1, CTLA-4"
+Pneumonitis,101,48,47.524752475247524,25,31,19,26,"Pembrolizumab, Ipilimumab","PD-1, CTLA-4"
+Dry skin,46,22,47.82608695652174,11,10,10,15,Cetuximab,EGFR
+Acneiform rash,48,28,58.333333333333336,13,8,10,17,Cetuximab,EGFR
+Pneumonia,102,51,50.0,29,29,18,26,"Adalimumab, Tocilizumab","IL-6, TNF-alpha"
+Sepsis,103,51,49.51456310679612,32,25,25,21,"Adalimumab, Tocilizumab","IL-6, TNF-alpha"
+Tuberculosis,100,56,56.00000000000001,18,31,22,29,"Adalimumab, Tocilizumab","IL-6, TNF-alpha"
+Infection,100,52,52.0,29,22,26,23,"Adalimumab, Tocilizumab","IL-6, TNF-alpha"
+Seizure,49,20,40.816326530612244,13,10,11,15,Blinatumomab,CD19/CD3
+Tremor,48,24,50.0,13,11,10,14,Blinatumomab,CD19/CD3
+Confusion,47,22,46.808510638297875,13,12,13,9,Blinatumomab,CD19/CD3
+Dizziness,49,27,55.10204081632652,10,10,16,13,Blinatumomab,CD19/CD3
+Headache,46,20,43.47826086956522,14,10,11,11,Blinatumomab,CD19/CD3
