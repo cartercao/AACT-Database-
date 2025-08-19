@@ -1,0 +1,25 @@
+Antibody therapeutic trials with posted results: 29
+Arms/groups with AE data: 88
+Serious adverse events (SAEs) per arm: median 0.372, IQR 0.104-0.714
+Top serious AE categories:
+- Serious Investigations: 1029 affected across studies
+- Serious Gastrointestinal disorders: 431 affected across studies
+- Serious Vascular disorders: 414 affected across studies
+- Serious Infections and infestations: 349 affected across studies
+- Serious General disorders: 332 affected across studies
+- Serious Metabolism and nutrition disorders: 320 affected across studies
+- Serious Blood and lymphatic system disorders: 294 affected across studies
+- Serious Respiratory, thoracic and mediastinal disorders: 284 affected across studies
+- Serious Nervous system disorders: 192 affected across studies
+- Serious Musculoskeletal and connective tissue disorders: 181 affected across studies
+Top other AE categories:
+- Other Gastrointestinal disorders: 4567 affected across studies
+- Other General disorders: 2810 affected across studies
+- Other Skin and subcutaneous tissue disorders: 2806 affected across studies
+- Other Infections and infestations: 2446 affected across studies
+- Other Nervous system disorders: 2044 affected across studies
+- Other Investigations: 2038 affected across studies
+- Other Musculoskeletal and connective tissue disorders: 1827 affected across studies
+- Other Metabolism and nutrition disorders: 1777 affected across studies
+- Other Respiratory, thoracic and mediastinal disorders: 1731 affected across studies
+- Other Blood and lymphatic system disorders: 1377 affected across studies
