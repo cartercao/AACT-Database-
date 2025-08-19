@@ -1,0 +1,1001 @@
+nct_id,title,phase,status,enrollment,start_year
+NCT00000000,Study of Antibody A in Cancer,Phase 3,Suspended,807,2017
+NCT00000001,Study of Antibody B in Autoimmune,Phase 1,Recruiting,567,2012
+NCT00000002,Study of Antibody C in Infectious Disease,Phase 3,Suspended,447,2023
+NCT00000003,Study of Antibody D in Cardiovascular,Phase 3,Completed,813,2016
+NCT00000004,Study of Antibody E in Neurological,Phase 4,Terminated,712,2023
+NCT00000005,Study of Antibody F in Cancer,Phase 3,Completed,200,2016
+NCT00000006,Study of Antibody G in Autoimmune,Phase 2,Terminated,413,2019
+NCT00000007,Study of Antibody H in Infectious Disease,Phase 3,Recruiting,448,2016
+NCT00000008,Study of Antibody I in Cardiovascular,Phase 2,Terminated,345,2020
+NCT00000009,Study of Antibody J in Neurological,Phase 1,Recruiting,739,2021
+NCT00000010,Study of Antibody K in Cancer,Phase 1,Completed,695,2020
+NCT00000011,Study of Antibody L in Autoimmune,Phase 2,Completed,448,2016
+NCT00000012,Study of Antibody M in Infectious Disease,Phase 1,Recruiting,676,2018
+NCT00000013,Study of Antibody N in Cardiovascular,Phase 4,Recruiting,609,2013
+NCT00000014,Study of Antibody O in Neurological,Phase 1,Completed,483,2018
+NCT00000015,Study of Antibody P in Cancer,Phase 2,Recruiting,130,2010
+NCT00000016,Study of Antibody Q in Autoimmune,Phase 1,Recruiting,818,2010
+NCT00000017,Study of Antibody R in Infectious Disease,Phase 1,Completed,303,2020
+NCT00000018,Study of Antibody S in Cardiovascular,Phase 4,Suspended,246,2018
+NCT00000019,Study of Antibody T in Neurological,Phase 2,Suspended,749,2022
+NCT00000020,Study of Antibody U in Cancer,Phase 2,Suspended,126,2015
+NCT00000021,Study of Antibody V in Autoimmune,Phase 2,Suspended,460,2018
+NCT00000022,Study of Antibody W in Infectious Disease,Phase 4,Completed,910,2023
+NCT00000023,Study of Antibody X in Cardiovascular,Phase 3,Completed,78,2023
+NCT00000024,Study of Antibody Y in Neurological,Phase 4,Recruiting,561,2013
+NCT00000025,Study of Antibody Z in Cancer,Phase 4,Terminated,575,2016
+NCT00000026,Study of Antibody A in Autoimmune,Phase 2,Terminated,517,2010
+NCT00000027,Study of Antibody B in Infectious Disease,Phase 1,Suspended,320,2019
+NCT00000028,Study of Antibody C in Cardiovascular,Phase 1,Completed,704,2011
+NCT00000029,Study of Antibody D in Neurological,Phase 3,Recruiting,605,2013
+NCT00000030,Study of Antibody E in Cancer,Phase 3,Suspended,462,2011
+NCT00000031,Study of Antibody F in Autoimmune,Phase 1,Completed,36,2020
+NCT00000032,Study of Antibody G in Infectious Disease,Phase 1,Completed,536,2015
+NCT00000033,Study of Antibody H in Cardiovascular,Phase 1,Suspended,162,2013
+NCT00000034,Study of Antibody I in Neurological,Phase 2,Recruiting,576,2011
+NCT00000035,Study of Antibody J in Cancer,Phase 1,Terminated,731,2015
+NCT00000036,Study of Antibody K in Autoimmune,Phase 3,Suspended,606,2020
+NCT00000037,Study of Antibody L in Infectious Disease,Phase 3,Completed,760,2013
+NCT00000038,Study of Antibody M in Cardiovascular,Phase 1,Terminated,700,2021
+NCT00000039,Study of Antibody N in Neurological,Phase 2,Completed,817,2010
+NCT00000040,Study of Antibody O in Cancer,Phase 3,Recruiting,559,2018
+NCT00000041,Study of Antibody P in Autoimmune,Phase 4,Recruiting,172,2023
+NCT00000042,Study of Antibody Q in Infectious Disease,Phase 2,Completed,651,2023
+NCT00000043,Study of Antibody R in Cardiovascular,Phase 2,Suspended,411,2023
+NCT00000044,Study of Antibody S in Neurological,Phase 3,Terminated,830,2016
+NCT00000045,Study of Antibody T in Cancer,Phase 3,Suspended,54,2022
+NCT00000046,Study of Antibody U in Autoimmune,Phase 1,Completed,862,2020
+NCT00000047,Study of Antibody V in Infectious Disease,Phase 4,Suspended,732,2018
+NCT00000048,Study of Antibody W in Cardiovascular,Phase 2,Recruiting,637,2014
+NCT00000049,Study of Antibody X in Neurological,Phase 1,Suspended,521,2018
+NCT00000050,Study of Antibody Y in Cancer,Phase 4,Completed,191,2017
+NCT00000051,Study of Antibody Z in Autoimmune,Phase 1,Completed,558,2011
+NCT00000052,Study of Antibody A in Infectious Disease,Phase 3,Recruiting,562,2020
+NCT00000053,Study of Antibody B in Cardiovascular,Phase 3,Recruiting,257,2020
+NCT00000054,Study of Antibody C in Neurological,Phase 4,Terminated,15,2014
+NCT00000055,Study of Antibody D in Cancer,Phase 3,Terminated,337,2018
+NCT00000056,Study of Antibody E in Autoimmune,Phase 2,Terminated,620,2022
+NCT00000057,Study of Antibody F in Infectious Disease,Phase 4,Completed,210,2018
+NCT00000058,Study of Antibody G in Cardiovascular,Phase 4,Recruiting,601,2021
+NCT00000059,Study of Antibody H in Neurological,Phase 2,Suspended,757,2012
+NCT00000060,Study of Antibody I in Cancer,Phase 3,Suspended,465,2010
+NCT00000061,Study of Antibody J in Autoimmune,Phase 1,Completed,218,2015
+NCT00000062,Study of Antibody K in Infectious Disease,Phase 3,Completed,361,2010
+NCT00000063,Study of Antibody L in Cardiovascular,Phase 4,Completed,90,2022
+NCT00000064,Study of Antibody M in Neurological,Phase 2,Terminated,742,2023
+NCT00000065,Study of Antibody N in Cancer,Phase 1,Suspended,51,2019
+NCT00000066,Study of Antibody O in Autoimmune,Phase 2,Completed,527,2014
+NCT00000067,Study of Antibody P in Infectious Disease,Phase 2,Suspended,118,2021
+NCT00000068,Study of Antibody Q in Cardiovascular,Phase 2,Suspended,758,2020
+NCT00000069,Study of Antibody R in Neurological,Phase 3,Completed,490,2010
+NCT00000070,Study of Antibody S in Cancer,Phase 1,Suspended,32,2015
+NCT00000071,Study of Antibody T in Autoimmune,Phase 1,Recruiting,160,2017
+NCT00000072,Study of Antibody U in Infectious Disease,Phase 4,Suspended,90,2014
+NCT00000073,Study of Antibody V in Cardiovascular,Phase 4,Terminated,339,2011
+NCT00000074,Study of Antibody W in Neurological,Phase 2,Completed,323,2010
+NCT00000075,Study of Antibody X in Cancer,Phase 1,Completed,398,2014
+NCT00000076,Study of Antibody Y in Autoimmune,Phase 1,Recruiting,137,2012
+NCT00000077,Study of Antibody Z in Infectious Disease,Phase 1,Completed,449,2011
+NCT00000078,Study of Antibody A in Cardiovascular,Phase 4,Recruiting,32,2017
+NCT00000079,Study of Antibody B in Neurological,Phase 4,Suspended,96,2013
+NCT00000080,Study of Antibody C in Cancer,Phase 1,Terminated,222,2011
+NCT00000081,Study of Antibody D in Autoimmune,Phase 1,Completed,653,2014
+NCT00000082,Study of Antibody E in Infectious Disease,Phase 3,Completed,747,2016
+NCT00000083,Study of Antibody F in Cardiovascular,Phase 4,Suspended,362,2020
+NCT00000084,Study of Antibody G in Neurological,Phase 4,Suspended,754,2017
+NCT00000085,Study of Antibody H in Cancer,Phase 3,Suspended,723,2017
+NCT00000086,Study of Antibody I in Autoimmune,Phase 1,Recruiting,679,2013
+NCT00000087,Study of Antibody J in Infectious Disease,Phase 4,Suspended,109,2016
+NCT00000088,Study of Antibody K in Cardiovascular,Phase 1,Suspended,968,2015
+NCT00000089,Study of Antibody L in Neurological,Phase 2,Recruiting,504,2021
+NCT00000090,Study of Antibody M in Cancer,Phase 3,Suspended,988,2014
+NCT00000091,Study of Antibody N in Autoimmune,Phase 4,Suspended,798,2023
+NCT00000092,Study of Antibody O in Infectious Disease,Phase 2,Completed,335,2017
+NCT00000093,Study of Antibody P in Cardiovascular,Phase 4,Completed,489,2011
+NCT00000094,Study of Antibody Q in Neurological,Phase 3,Recruiting,928,2015
+NCT00000095,Study of Antibody R in Cancer,Phase 4,Terminated,528,2015
+NCT00000096,Study of Antibody S in Autoimmune,Phase 1,Terminated,602,2022
+NCT00000097,Study of Antibody T in Infectious Disease,Phase 2,Recruiting,725,2020
+NCT00000098,Study of Antibody U in Cardiovascular,Phase 2,Terminated,133,2022
+NCT00000099,Study of Antibody V in Neurological,Phase 4,Completed,560,2019
+NCT00000100,Study of Antibody W in Cancer,Phase 2,Recruiting,165,2013
+NCT00000101,Study of Antibody X in Autoimmune,Phase 3,Recruiting,36,2016
+NCT00000102,Study of Antibody Y in Infectious Disease,Phase 1,Recruiting,725,2023
+NCT00000103,Study of Antibody Z in Cardiovascular,Phase 1,Terminated,356,2013
+NCT00000104,Study of Antibody A in Neurological,Phase 3,Suspended,623,2021
+NCT00000105,Study of Antibody B in Cancer,Phase 1,Suspended,93,2012
+NCT00000106,Study of Antibody C in Autoimmune,Phase 1,Completed,970,2013
+NCT00000107,Study of Antibody D in Infectious Disease,Phase 3,Recruiting,880,2016
+NCT00000108,Study of Antibody E in Cardiovascular,Phase 2,Terminated,388,2013
+NCT00000109,Study of Antibody F in Neurological,Phase 2,Suspended,961,2015
+NCT00000110,Study of Antibody G in Cancer,Phase 2,Completed,231,2018
+NCT00000111,Study of Antibody H in Autoimmune,Phase 1,Suspended,772,2023
+NCT00000112,Study of Antibody I in Infectious Disease,Phase 1,Completed,660,2020
+NCT00000113,Study of Antibody J in Cardiovascular,Phase 1,Terminated,406,2018
+NCT00000114,Study of Antibody K in Neurological,Phase 3,Recruiting,547,2015
+NCT00000115,Study of Antibody L in Cancer,Phase 4,Completed,249,2017
+NCT00000116,Study of Antibody M in Autoimmune,Phase 3,Terminated,356,2021
+NCT00000117,Study of Antibody N in Infectious Disease,Phase 3,Terminated,571,2019
+NCT00000118,Study of Antibody O in Cardiovascular,Phase 1,Terminated,804,2015
+NCT00000119,Study of Antibody P in Neurological,Phase 4,Suspended,487,2019
+NCT00000120,Study of Antibody Q in Cancer,Phase 2,Terminated,479,2013
+NCT00000121,Study of Antibody R in Autoimmune,Phase 4,Terminated,621,2018
+NCT00000122,Study of Antibody S in Infectious Disease,Phase 3,Suspended,786,2011
+NCT00000123,Study of Antibody T in Cardiovascular,Phase 1,Completed,280,2017
+NCT00000124,Study of Antibody U in Neurological,Phase 1,Suspended,704,2011
+NCT00000125,Study of Antibody V in Cancer,Phase 3,Terminated,696,2011
+NCT00000126,Study of Antibody W in Autoimmune,Phase 2,Completed,476,2011
+NCT00000127,Study of Antibody X in Infectious Disease,Phase 3,Terminated,15,2014
+NCT00000128,Study of Antibody Y in Cardiovascular,Phase 4,Terminated,164,2013
+NCT00000129,Study of Antibody Z in Neurological,Phase 3,Terminated,84,2011
+NCT00000130,Study of Antibody A in Cancer,Phase 2,Completed,93,2017
+NCT00000131,Study of Antibody B in Autoimmune,Phase 1,Suspended,66,2023
+NCT00000132,Study of Antibody C in Infectious Disease,Phase 3,Terminated,284,2013
+NCT00000133,Study of Antibody D in Cardiovascular,Phase 1,Suspended,798,2021
+NCT00000134,Study of Antibody E in Neurological,Phase 3,Suspended,175,2021
+NCT00000135,Study of Antibody F in Cancer,Phase 2,Recruiting,894,2015
+NCT00000136,Study of Antibody G in Autoimmune,Phase 1,Terminated,790,2016
+NCT00000137,Study of Antibody H in Infectious Disease,Phase 1,Recruiting,612,2020
+NCT00000138,Study of Antibody I in Cardiovascular,Phase 2,Completed,966,2012
+NCT00000139,Study of Antibody J in Neurological,Phase 2,Suspended,949,2012
+NCT00000140,Study of Antibody K in Cancer,Phase 4,Terminated,251,2011
+NCT00000141,Study of Antibody L in Autoimmune,Phase 3,Completed,497,2011
+NCT00000142,Study of Antibody M in Infectious Disease,Phase 4,Completed,156,2018
+NCT00000143,Study of Antibody N in Cardiovascular,Phase 3,Suspended,98,2019
+NCT00000144,Study of Antibody O in Neurological,Phase 2,Recruiting,819,2016
+NCT00000145,Study of Antibody P in Cancer,Phase 4,Recruiting,929,2010
+NCT00000146,Study of Antibody Q in Autoimmune,Phase 3,Completed,223,2010
+NCT00000147,Study of Antibody R in Infectious Disease,Phase 2,Recruiting,539,2014
+NCT00000148,Study of Antibody S in Cardiovascular,Phase 2,Terminated,385,2023
+NCT00000149,Study of Antibody T in Neurological,Phase 3,Terminated,459,2013
+NCT00000150,Study of Antibody U in Cancer,Phase 1,Recruiting,339,2022
+NCT00000151,Study of Antibody V in Autoimmune,Phase 3,Terminated,313,2015
+NCT00000152,Study of Antibody W in Infectious Disease,Phase 1,Recruiting,34,2017
+NCT00000153,Study of Antibody X in Cardiovascular,Phase 1,Terminated,137,2010
+NCT00000154,Study of Antibody Y in Neurological,Phase 4,Terminated,502,2015
+NCT00000155,Study of Antibody Z in Cancer,Phase 4,Terminated,84,2010
+NCT00000156,Study of Antibody A in Autoimmune,Phase 1,Suspended,994,2017
+NCT00000157,Study of Antibody B in Infectious Disease,Phase 3,Completed,430,2014
+NCT00000158,Study of Antibody C in Cardiovascular,Phase 2,Recruiting,447,2015
+NCT00000159,Study of Antibody D in Neurological,Phase 2,Terminated,570,2022
+NCT00000160,Study of Antibody E in Cancer,Phase 2,Terminated,659,2021
+NCT00000161,Study of Antibody F in Autoimmune,Phase 3,Recruiting,644,2015
+NCT00000162,Study of Antibody G in Infectious Disease,Phase 3,Recruiting,675,2020
+NCT00000163,Study of Antibody H in Cardiovascular,Phase 3,Suspended,964,2020
+NCT00000164,Study of Antibody I in Neurological,Phase 2,Completed,821,2011
+NCT00000165,Study of Antibody J in Cancer,Phase 1,Recruiting,131,2013
+NCT00000166,Study of Antibody K in Autoimmune,Phase 3,Terminated,865,2019
+NCT00000167,Study of Antibody L in Infectious Disease,Phase 4,Terminated,111,2013
+NCT00000168,Study of Antibody M in Cardiovascular,Phase 2,Suspended,503,2022
+NCT00000169,Study of Antibody N in Neurological,Phase 4,Completed,488,2015
+NCT00000170,Study of Antibody O in Cancer,Phase 3,Suspended,720,2016
+NCT00000171,Study of Antibody P in Autoimmune,Phase 4,Terminated,609,2014
+NCT00000172,Study of Antibody Q in Infectious Disease,Phase 2,Recruiting,236,2012
+NCT00000173,Study of Antibody R in Cardiovascular,Phase 4,Recruiting,430,2018
+NCT00000174,Study of Antibody S in Neurological,Phase 4,Completed,266,2022
+NCT00000175,Study of Antibody T in Cancer,Phase 1,Completed,758,2017
+NCT00000176,Study of Antibody U in Autoimmune,Phase 3,Suspended,176,2021
+NCT00000177,Study of Antibody V in Infectious Disease,Phase 1,Recruiting,161,2022
+NCT00000178,Study of Antibody W in Cardiovascular,Phase 3,Completed,166,2012
+NCT00000179,Study of Antibody X in Neurological,Phase 3,Suspended,188,2019
+NCT00000180,Study of Antibody Y in Cancer,Phase 3,Terminated,100,2023
+NCT00000181,Study of Antibody Z in Autoimmune,Phase 3,Recruiting,623,2011
+NCT00000182,Study of Antibody A in Infectious Disease,Phase 4,Suspended,658,2023
+NCT00000183,Study of Antibody B in Cardiovascular,Phase 4,Recruiting,214,2019
+NCT00000184,Study of Antibody C in Neurological,Phase 4,Completed,940,2022
+NCT00000185,Study of Antibody D in Cancer,Phase 3,Recruiting,569,2017
+NCT00000186,Study of Antibody E in Autoimmune,Phase 2,Recruiting,802,2014
+NCT00000187,Study of Antibody F in Infectious Disease,Phase 2,Recruiting,285,2011
+NCT00000188,Study of Antibody G in Cardiovascular,Phase 1,Suspended,823,2017
+NCT00000189,Study of Antibody H in Neurological,Phase 1,Suspended,676,2013
+NCT00000190,Study of Antibody I in Cancer,Phase 4,Recruiting,799,2011
+NCT00000191,Study of Antibody J in Autoimmune,Phase 3,Completed,60,2010
+NCT00000192,Study of Antibody K in Infectious Disease,Phase 3,Completed,505,2017
+NCT00000193,Study of Antibody L in Cardiovascular,Phase 2,Recruiting,531,2021
+NCT00000194,Study of Antibody M in Neurological,Phase 1,Completed,794,2019
+NCT00000195,Study of Antibody N in Cancer,Phase 2,Suspended,296,2010
+NCT00000196,Study of Antibody O in Autoimmune,Phase 3,Completed,907,2012
+NCT00000197,Study of Antibody P in Infectious Disease,Phase 3,Completed,468,2019
+NCT00000198,Study of Antibody Q in Cardiovascular,Phase 2,Terminated,167,2017
+NCT00000199,Study of Antibody R in Neurological,Phase 1,Terminated,780,2022
+NCT00000200,Study of Antibody S in Cancer,Phase 3,Completed,14,2011
+NCT00000201,Study of Antibody T in Autoimmune,Phase 1,Suspended,890,2012
+NCT00000202,Study of Antibody U in Infectious Disease,Phase 1,Suspended,250,2018
+NCT00000203,Study of Antibody V in Cardiovascular,Phase 4,Terminated,79,2011
+NCT00000204,Study of Antibody W in Neurological,Phase 2,Completed,62,2016
+NCT00000205,Study of Antibody X in Cancer,Phase 1,Recruiting,825,2011
+NCT00000206,Study of Antibody Y in Autoimmune,Phase 4,Suspended,307,2015
+NCT00000207,Study of Antibody Z in Infectious Disease,Phase 3,Recruiting,190,2011
+NCT00000208,Study of Antibody A in Cardiovascular,Phase 2,Completed,265,2021
+NCT00000209,Study of Antibody B in Neurological,Phase 3,Terminated,288,2014
+NCT00000210,Study of Antibody C in Cancer,Phase 4,Completed,704,2015
+NCT00000211,Study of Antibody D in Autoimmune,Phase 3,Completed,102,2014
+NCT00000212,Study of Antibody E in Infectious Disease,Phase 1,Completed,576,2015
+NCT00000213,Study of Antibody F in Cardiovascular,Phase 1,Completed,114,2017
+NCT00000214,Study of Antibody G in Neurological,Phase 4,Suspended,656,2023
+NCT00000215,Study of Antibody H in Cancer,Phase 3,Completed,27,2019
+NCT00000216,Study of Antibody I in Autoimmune,Phase 1,Terminated,435,2019
+NCT00000217,Study of Antibody J in Infectious Disease,Phase 3,Suspended,423,2017
+NCT00000218,Study of Antibody K in Cardiovascular,Phase 1,Suspended,864,2021
+NCT00000219,Study of Antibody L in Neurological,Phase 1,Recruiting,970,2014
+NCT00000220,Study of Antibody M in Cancer,Phase 2,Suspended,160,2015
+NCT00000221,Study of Antibody N in Autoimmune,Phase 1,Recruiting,672,2010
+NCT00000222,Study of Antibody O in Infectious Disease,Phase 1,Suspended,129,2019
+NCT00000223,Study of Antibody P in Cardiovascular,Phase 3,Recruiting,917,2023
+NCT00000224,Study of Antibody Q in Neurological,Phase 4,Suspended,887,2016
+NCT00000225,Study of Antibody R in Cancer,Phase 1,Recruiting,574,2012
+NCT00000226,Study of Antibody S in Autoimmune,Phase 4,Suspended,212,2016
+NCT00000227,Study of Antibody T in Infectious Disease,Phase 3,Completed,425,2022
+NCT00000228,Study of Antibody U in Cardiovascular,Phase 4,Recruiting,584,2012
+NCT00000229,Study of Antibody V in Neurological,Phase 3,Recruiting,24,2013
+NCT00000230,Study of Antibody W in Cancer,Phase 1,Completed,821,2010
+NCT00000231,Study of Antibody X in Autoimmune,Phase 1,Recruiting,640,2018
+NCT00000232,Study of Antibody Y in Infectious Disease,Phase 3,Recruiting,203,2020
+NCT00000233,Study of Antibody Z in Cardiovascular,Phase 4,Completed,681,2019
+NCT00000234,Study of Antibody A in Neurological,Phase 4,Completed,601,2019
+NCT00000235,Study of Antibody B in Cancer,Phase 4,Terminated,903,2019
+NCT00000236,Study of Antibody C in Autoimmune,Phase 1,Terminated,779,2011
+NCT00000237,Study of Antibody D in Infectious Disease,Phase 1,Recruiting,930,2010
+NCT00000238,Study of Antibody E in Cardiovascular,Phase 2,Terminated,128,2013
+NCT00000239,Study of Antibody F in Neurological,Phase 1,Suspended,359,2014
+NCT00000240,Study of Antibody G in Cancer,Phase 3,Suspended,656,2016
+NCT00000241,Study of Antibody H in Autoimmune,Phase 3,Suspended,938,2015
+NCT00000242,Study of Antibody I in Infectious Disease,Phase 4,Suspended,650,2015
+NCT00000243,Study of Antibody J in Cardiovascular,Phase 2,Completed,871,2013
+NCT00000244,Study of Antibody K in Neurological,Phase 4,Terminated,41,2018
+NCT00000245,Study of Antibody L in Cancer,Phase 2,Recruiting,612,2014
+NCT00000246,Study of Antibody M in Autoimmune,Phase 2,Terminated,605,2014
+NCT00000247,Study of Antibody N in Infectious Disease,Phase 3,Completed,386,2011
+NCT00000248,Study of Antibody O in Cardiovascular,Phase 2,Suspended,420,2017
+NCT00000249,Study of Antibody P in Neurological,Phase 4,Suspended,11,2022
+NCT00000250,Study of Antibody Q in Cancer,Phase 1,Completed,929,2010
+NCT00000251,Study of Antibody R in Autoimmune,Phase 3,Terminated,153,2019
+NCT00000252,Study of Antibody S in Infectious Disease,Phase 1,Terminated,760,2014
+NCT00000253,Study of Antibody T in Cardiovascular,Phase 3,Suspended,254,2021
+NCT00000254,Study of Antibody U in Neurological,Phase 2,Suspended,84,2019
+NCT00000255,Study of Antibody V in Cancer,Phase 2,Suspended,681,2014
+NCT00000256,Study of Antibody W in Autoimmune,Phase 3,Suspended,78,2013
+NCT00000257,Study of Antibody X in Infectious Disease,Phase 1,Terminated,963,2017
+NCT00000258,Study of Antibody Y in Cardiovascular,Phase 1,Terminated,1000,2017
+NCT00000259,Study of Antibody Z in Neurological,Phase 1,Terminated,851,2015
+NCT00000260,Study of Antibody A in Cancer,Phase 3,Recruiting,671,2020
+NCT00000261,Study of Antibody B in Autoimmune,Phase 2,Terminated,332,2015
+NCT00000262,Study of Antibody C in Infectious Disease,Phase 2,Recruiting,919,2021
+NCT00000263,Study of Antibody D in Cardiovascular,Phase 4,Recruiting,16,2023
+NCT00000264,Study of Antibody E in Neurological,Phase 3,Completed,825,2010
+NCT00000265,Study of Antibody F in Cancer,Phase 2,Terminated,400,2018
+NCT00000266,Study of Antibody G in Autoimmune,Phase 4,Completed,991,2016
+NCT00000267,Study of Antibody H in Infectious Disease,Phase 1,Suspended,582,2021
+NCT00000268,Study of Antibody I in Cardiovascular,Phase 2,Recruiting,945,2017
+NCT00000269,Study of Antibody J in Neurological,Phase 1,Recruiting,662,2017
+NCT00000270,Study of Antibody K in Cancer,Phase 4,Recruiting,623,2015
+NCT00000271,Study of Antibody L in Autoimmune,Phase 4,Completed,997,2015
+NCT00000272,Study of Antibody M in Infectious Disease,Phase 1,Suspended,392,2017
+NCT00000273,Study of Antibody N in Cardiovascular,Phase 2,Terminated,63,2012
+NCT00000274,Study of Antibody O in Neurological,Phase 2,Recruiting,744,2020
+NCT00000275,Study of Antibody P in Cancer,Phase 2,Recruiting,298,2019
+NCT00000276,Study of Antibody Q in Autoimmune,Phase 2,Suspended,728,2013
+NCT00000277,Study of Antibody R in Infectious Disease,Phase 1,Terminated,265,2020
+NCT00000278,Study of Antibody S in Cardiovascular,Phase 2,Completed,43,2019
+NCT00000279,Study of Antibody T in Neurological,Phase 4,Completed,386,2021
+NCT00000280,Study of Antibody U in Cancer,Phase 2,Recruiting,150,2020
+NCT00000281,Study of Antibody V in Autoimmune,Phase 2,Suspended,353,2019
+NCT00000282,Study of Antibody W in Infectious Disease,Phase 2,Terminated,511,2012
+NCT00000283,Study of Antibody X in Cardiovascular,Phase 3,Suspended,107,2017
+NCT00000284,Study of Antibody Y in Neurological,Phase 4,Completed,645,2017
+NCT00000285,Study of Antibody Z in Cancer,Phase 2,Recruiting,72,2015
+NCT00000286,Study of Antibody A in Autoimmune,Phase 2,Completed,189,2023
+NCT00000287,Study of Antibody B in Infectious Disease,Phase 4,Completed,961,2016
+NCT00000288,Study of Antibody C in Cardiovascular,Phase 1,Terminated,669,2012
+NCT00000289,Study of Antibody D in Neurological,Phase 1,Suspended,488,2010
+NCT00000290,Study of Antibody E in Cancer,Phase 3,Terminated,832,2022
+NCT00000291,Study of Antibody F in Autoimmune,Phase 3,Completed,800,2010
+NCT00000292,Study of Antibody G in Infectious Disease,Phase 4,Suspended,745,2019
+NCT00000293,Study of Antibody H in Cardiovascular,Phase 2,Terminated,512,2015
+NCT00000294,Study of Antibody I in Neurological,Phase 1,Recruiting,699,2023
+NCT00000295,Study of Antibody J in Cancer,Phase 3,Suspended,591,2010
+NCT00000296,Study of Antibody K in Autoimmune,Phase 4,Recruiting,196,2023
+NCT00000297,Study of Antibody L in Infectious Disease,Phase 3,Completed,473,2018
+NCT00000298,Study of Antibody M in Cardiovascular,Phase 1,Completed,129,2015
+NCT00000299,Study of Antibody N in Neurological,Phase 2,Terminated,756,2016
+NCT00000300,Study of Antibody O in Cancer,Phase 3,Terminated,240,2011
+NCT00000301,Study of Antibody P in Autoimmune,Phase 4,Completed,412,2011
+NCT00000302,Study of Antibody Q in Infectious Disease,Phase 3,Recruiting,84,2021
+NCT00000303,Study of Antibody R in Cardiovascular,Phase 1,Completed,589,2020
+NCT00000304,Study of Antibody S in Neurological,Phase 2,Terminated,754,2019
+NCT00000305,Study of Antibody T in Cancer,Phase 1,Recruiting,494,2022
+NCT00000306,Study of Antibody U in Autoimmune,Phase 1,Terminated,413,2015
+NCT00000307,Study of Antibody V in Infectious Disease,Phase 3,Recruiting,268,2014
+NCT00000308,Study of Antibody W in Cardiovascular,Phase 2,Recruiting,968,2013
+NCT00000309,Study of Antibody X in Neurological,Phase 4,Recruiting,703,2021
+NCT00000310,Study of Antibody Y in Cancer,Phase 3,Terminated,903,2010
+NCT00000311,Study of Antibody Z in Autoimmune,Phase 1,Suspended,501,2013
+NCT00000312,Study of Antibody A in Infectious Disease,Phase 1,Suspended,486,2010
+NCT00000313,Study of Antibody B in Cardiovascular,Phase 3,Terminated,939,2023
+NCT00000314,Study of Antibody C in Neurological,Phase 1,Recruiting,805,2010
+NCT00000315,Study of Antibody D in Cancer,Phase 4,Recruiting,611,2019
+NCT00000316,Study of Antibody E in Autoimmune,Phase 3,Terminated,881,2021
+NCT00000317,Study of Antibody F in Infectious Disease,Phase 1,Terminated,53,2010
+NCT00000318,Study of Antibody G in Cardiovascular,Phase 2,Suspended,392,2013
+NCT00000319,Study of Antibody H in Neurological,Phase 3,Recruiting,649,2011
+NCT00000320,Study of Antibody I in Cancer,Phase 2,Suspended,507,2023
+NCT00000321,Study of Antibody J in Autoimmune,Phase 4,Recruiting,891,2012
+NCT00000322,Study of Antibody K in Infectious Disease,Phase 4,Suspended,580,2015
+NCT00000323,Study of Antibody L in Cardiovascular,Phase 2,Completed,608,2013
+NCT00000324,Study of Antibody M in Neurological,Phase 4,Terminated,465,2020
+NCT00000325,Study of Antibody N in Cancer,Phase 1,Recruiting,579,2012
+NCT00000326,Study of Antibody O in Autoimmune,Phase 2,Completed,10,2013
+NCT00000327,Study of Antibody P in Infectious Disease,Phase 4,Terminated,174,2018
+NCT00000328,Study of Antibody Q in Cardiovascular,Phase 2,Suspended,196,2011
+NCT00000329,Study of Antibody R in Neurological,Phase 3,Suspended,365,2021
+NCT00000330,Study of Antibody S in Cancer,Phase 3,Completed,831,2019
+NCT00000331,Study of Antibody T in Autoimmune,Phase 4,Terminated,14,2015
+NCT00000332,Study of Antibody U in Infectious Disease,Phase 2,Completed,912,2013
+NCT00000333,Study of Antibody V in Cardiovascular,Phase 2,Terminated,10,2013
+NCT00000334,Study of Antibody W in Neurological,Phase 2,Suspended,60,2010
+NCT00000335,Study of Antibody X in Cancer,Phase 4,Completed,233,2014
+NCT00000336,Study of Antibody Y in Autoimmune,Phase 1,Terminated,854,2021
+NCT00000337,Study of Antibody Z in Infectious Disease,Phase 2,Completed,686,2018
+NCT00000338,Study of Antibody A in Cardiovascular,Phase 4,Completed,689,2019
+NCT00000339,Study of Antibody B in Neurological,Phase 2,Suspended,482,2018
+NCT00000340,Study of Antibody C in Cancer,Phase 3,Completed,484,2020
+NCT00000341,Study of Antibody D in Autoimmune,Phase 2,Suspended,773,2017
+NCT00000342,Study of Antibody E in Infectious Disease,Phase 1,Terminated,720,2017
+NCT00000343,Study of Antibody F in Cardiovascular,Phase 2,Terminated,382,2022
+NCT00000344,Study of Antibody G in Neurological,Phase 2,Terminated,717,2021
+NCT00000345,Study of Antibody H in Cancer,Phase 2,Suspended,655,2016
+NCT00000346,Study of Antibody I in Autoimmune,Phase 4,Suspended,174,2023
+NCT00000347,Study of Antibody J in Infectious Disease,Phase 3,Completed,585,2013
+NCT00000348,Study of Antibody K in Cardiovascular,Phase 1,Recruiting,827,2021
+NCT00000349,Study of Antibody L in Neurological,Phase 4,Completed,168,2019
+NCT00000350,Study of Antibody M in Cancer,Phase 2,Recruiting,453,2011
+NCT00000351,Study of Antibody N in Autoimmune,Phase 3,Recruiting,370,2018
+NCT00000352,Study of Antibody O in Infectious Disease,Phase 2,Completed,422,2022
+NCT00000353,Study of Antibody P in Cardiovascular,Phase 1,Recruiting,562,2013
+NCT00000354,Study of Antibody Q in Neurological,Phase 3,Suspended,980,2012
+NCT00000355,Study of Antibody R in Cancer,Phase 1,Recruiting,513,2013
+NCT00000356,Study of Antibody S in Autoimmune,Phase 1,Suspended,834,2020
+NCT00000357,Study of Antibody T in Infectious Disease,Phase 4,Terminated,897,2010
+NCT00000358,Study of Antibody U in Cardiovascular,Phase 4,Recruiting,14,2011
+NCT00000359,Study of Antibody V in Neurological,Phase 1,Completed,736,2013
+NCT00000360,Study of Antibody W in Cancer,Phase 4,Suspended,598,2021
+NCT00000361,Study of Antibody X in Autoimmune,Phase 4,Suspended,615,2019
+NCT00000362,Study of Antibody Y in Infectious Disease,Phase 4,Completed,873,2017
+NCT00000363,Study of Antibody Z in Cardiovascular,Phase 2,Recruiting,981,2016
+NCT00000364,Study of Antibody A in Neurological,Phase 2,Completed,918,2011
+NCT00000365,Study of Antibody B in Cancer,Phase 4,Suspended,989,2017
+NCT00000366,Study of Antibody C in Autoimmune,Phase 3,Completed,970,2022
+NCT00000367,Study of Antibody D in Infectious Disease,Phase 2,Terminated,119,2013
+NCT00000368,Study of Antibody E in Cardiovascular,Phase 2,Recruiting,664,2018
+NCT00000369,Study of Antibody F in Neurological,Phase 4,Completed,894,2020
+NCT00000370,Study of Antibody G in Cancer,Phase 1,Completed,342,2010
+NCT00000371,Study of Antibody H in Autoimmune,Phase 1,Completed,411,2018
+NCT00000372,Study of Antibody I in Infectious Disease,Phase 1,Completed,434,2015
+NCT00000373,Study of Antibody J in Cardiovascular,Phase 3,Suspended,721,2018
+NCT00000374,Study of Antibody K in Neurological,Phase 1,Completed,252,2018
+NCT00000375,Study of Antibody L in Cancer,Phase 1,Recruiting,600,2021
+NCT00000376,Study of Antibody M in Autoimmune,Phase 4,Completed,319,2013
+NCT00000377,Study of Antibody N in Infectious Disease,Phase 3,Suspended,328,2022
+NCT00000378,Study of Antibody O in Cardiovascular,Phase 4,Terminated,403,2012
+NCT00000379,Study of Antibody P in Neurological,Phase 1,Suspended,704,2022
+NCT00000380,Study of Antibody Q in Cancer,Phase 2,Completed,985,2020
+NCT00000381,Study of Antibody R in Autoimmune,Phase 1,Recruiting,164,2022
+NCT00000382,Study of Antibody S in Infectious Disease,Phase 1,Completed,187,2019
+NCT00000383,Study of Antibody T in Cardiovascular,Phase 4,Terminated,251,2014
+NCT00000384,Study of Antibody U in Neurological,Phase 2,Completed,694,2016
+NCT00000385,Study of Antibody V in Cancer,Phase 2,Recruiting,572,2013
+NCT00000386,Study of Antibody W in Autoimmune,Phase 2,Completed,13,2022
+NCT00000387,Study of Antibody X in Infectious Disease,Phase 1,Recruiting,545,2015
+NCT00000388,Study of Antibody Y in Cardiovascular,Phase 4,Completed,521,2011
+NCT00000389,Study of Antibody Z in Neurological,Phase 2,Suspended,21,2019
+NCT00000390,Study of Antibody A in Cancer,Phase 1,Terminated,564,2016
+NCT00000391,Study of Antibody B in Autoimmune,Phase 1,Completed,513,2011
+NCT00000392,Study of Antibody C in Infectious Disease,Phase 2,Terminated,795,2020
+NCT00000393,Study of Antibody D in Cardiovascular,Phase 2,Terminated,319,2010
+NCT00000394,Study of Antibody E in Neurological,Phase 1,Suspended,863,2022
+NCT00000395,Study of Antibody F in Cancer,Phase 2,Suspended,861,2012
+NCT00000396,Study of Antibody G in Autoimmune,Phase 1,Completed,425,2010
+NCT00000397,Study of Antibody H in Infectious Disease,Phase 1,Completed,381,2011
+NCT00000398,Study of Antibody I in Cardiovascular,Phase 4,Terminated,865,2023
+NCT00000399,Study of Antibody J in Neurological,Phase 3,Suspended,850,2016
+NCT00000400,Study of Antibody K in Cancer,Phase 1,Suspended,573,2017
+NCT00000401,Study of Antibody L in Autoimmune,Phase 4,Completed,187,2022
+NCT00000402,Study of Antibody M in Infectious Disease,Phase 3,Completed,709,2011
+NCT00000403,Study of Antibody N in Cardiovascular,Phase 4,Completed,473,2017
+NCT00000404,Study of Antibody O in Neurological,Phase 4,Recruiting,740,2018
+NCT00000405,Study of Antibody P in Cancer,Phase 3,Terminated,426,2023
+NCT00000406,Study of Antibody Q in Autoimmune,Phase 1,Terminated,582,2016
+NCT00000407,Study of Antibody R in Infectious Disease,Phase 1,Recruiting,266,2022
+NCT00000408,Study of Antibody S in Cardiovascular,Phase 3,Completed,213,2015
+NCT00000409,Study of Antibody T in Neurological,Phase 1,Suspended,453,2017
+NCT00000410,Study of Antibody U in Cancer,Phase 3,Completed,759,2013
+NCT00000411,Study of Antibody V in Autoimmune,Phase 1,Terminated,879,2021
+NCT00000412,Study of Antibody W in Infectious Disease,Phase 2,Recruiting,682,2017
+NCT00000413,Study of Antibody X in Cardiovascular,Phase 3,Recruiting,371,2013
+NCT00000414,Study of Antibody Y in Neurological,Phase 1,Completed,716,2023
+NCT00000415,Study of Antibody Z in Cancer,Phase 1,Terminated,746,2012
+NCT00000416,Study of Antibody A in Autoimmune,Phase 3,Terminated,308,2019
+NCT00000417,Study of Antibody B in Infectious Disease,Phase 1,Completed,730,2020
+NCT00000418,Study of Antibody C in Cardiovascular,Phase 2,Recruiting,368,2013
+NCT00000419,Study of Antibody D in Neurological,Phase 4,Terminated,745,2013
+NCT00000420,Study of Antibody E in Cancer,Phase 4,Completed,90,2019
+NCT00000421,Study of Antibody F in Autoimmune,Phase 2,Completed,271,2022
+NCT00000422,Study of Antibody G in Infectious Disease,Phase 2,Recruiting,722,2017
+NCT00000423,Study of Antibody H in Cardiovascular,Phase 4,Terminated,725,2012
+NCT00000424,Study of Antibody I in Neurological,Phase 2,Recruiting,178,2017
+NCT00000425,Study of Antibody J in Cancer,Phase 3,Completed,780,2012
+NCT00000426,Study of Antibody K in Autoimmune,Phase 4,Terminated,477,2018
+NCT00000427,Study of Antibody L in Infectious Disease,Phase 1,Suspended,969,2012
+NCT00000428,Study of Antibody M in Cardiovascular,Phase 2,Completed,935,2018
+NCT00000429,Study of Antibody N in Neurological,Phase 3,Recruiting,221,2017
+NCT00000430,Study of Antibody O in Cancer,Phase 4,Terminated,394,2021
+NCT00000431,Study of Antibody P in Autoimmune,Phase 4,Recruiting,110,2021
+NCT00000432,Study of Antibody Q in Infectious Disease,Phase 2,Recruiting,920,2018
+NCT00000433,Study of Antibody R in Cardiovascular,Phase 1,Recruiting,960,2017
+NCT00000434,Study of Antibody S in Neurological,Phase 2,Terminated,267,2023
+NCT00000435,Study of Antibody T in Cancer,Phase 1,Completed,736,2022
+NCT00000436,Study of Antibody U in Autoimmune,Phase 1,Terminated,332,2016
+NCT00000437,Study of Antibody V in Infectious Disease,Phase 3,Terminated,228,2022
+NCT00000438,Study of Antibody W in Cardiovascular,Phase 3,Completed,453,2016
+NCT00000439,Study of Antibody X in Neurological,Phase 3,Suspended,10,2021
+NCT00000440,Study of Antibody Y in Cancer,Phase 2,Terminated,794,2019
+NCT00000441,Study of Antibody Z in Autoimmune,Phase 4,Terminated,230,2018
+NCT00000442,Study of Antibody A in Infectious Disease,Phase 2,Suspended,348,2017
+NCT00000443,Study of Antibody B in Cardiovascular,Phase 2,Suspended,858,2019
+NCT00000444,Study of Antibody C in Neurological,Phase 1,Terminated,82,2013
+NCT00000445,Study of Antibody D in Cancer,Phase 1,Recruiting,515,2018
+NCT00000446,Study of Antibody E in Autoimmune,Phase 3,Completed,723,2022
+NCT00000447,Study of Antibody F in Infectious Disease,Phase 2,Terminated,453,2020
+NCT00000448,Study of Antibody G in Cardiovascular,Phase 4,Recruiting,666,2014
+NCT00000449,Study of Antibody H in Neurological,Phase 2,Suspended,803,2014
+NCT00000450,Study of Antibody I in Cancer,Phase 3,Terminated,961,2020
+NCT00000451,Study of Antibody J in Autoimmune,Phase 1,Completed,251,2014
+NCT00000452,Study of Antibody K in Infectious Disease,Phase 3,Terminated,445,2010
+NCT00000453,Study of Antibody L in Cardiovascular,Phase 2,Completed,933,2019
+NCT00000454,Study of Antibody M in Neurological,Phase 3,Terminated,354,2019
+NCT00000455,Study of Antibody N in Cancer,Phase 3,Terminated,633,2019
+NCT00000456,Study of Antibody O in Autoimmune,Phase 3,Terminated,992,2016
+NCT00000457,Study of Antibody P in Infectious Disease,Phase 2,Suspended,290,2022
+NCT00000458,Study of Antibody Q in Cardiovascular,Phase 3,Suspended,570,2018
+NCT00000459,Study of Antibody R in Neurological,Phase 4,Suspended,638,2023
+NCT00000460,Study of Antibody S in Cancer,Phase 3,Completed,879,2014
+NCT00000461,Study of Antibody T in Autoimmune,Phase 2,Completed,845,2016
+NCT00000462,Study of Antibody U in Infectious Disease,Phase 3,Completed,332,2012
+NCT00000463,Study of Antibody V in Cardiovascular,Phase 4,Suspended,738,2022
+NCT00000464,Study of Antibody W in Neurological,Phase 2,Completed,447,2012
+NCT00000465,Study of Antibody X in Cancer,Phase 4,Recruiting,913,2012
+NCT00000466,Study of Antibody Y in Autoimmune,Phase 4,Suspended,684,2018
+NCT00000467,Study of Antibody Z in Infectious Disease,Phase 1,Suspended,730,2022
+NCT00000468,Study of Antibody A in Cardiovascular,Phase 3,Recruiting,158,2019
+NCT00000469,Study of Antibody B in Neurological,Phase 1,Suspended,165,2023
+NCT00000470,Study of Antibody C in Cancer,Phase 3,Recruiting,428,2010
+NCT00000471,Study of Antibody D in Autoimmune,Phase 4,Recruiting,940,2011
+NCT00000472,Study of Antibody E in Infectious Disease,Phase 2,Suspended,993,2020
+NCT00000473,Study of Antibody F in Cardiovascular,Phase 3,Recruiting,105,2016
+NCT00000474,Study of Antibody G in Neurological,Phase 3,Completed,353,2023
+NCT00000475,Study of Antibody H in Cancer,Phase 2,Recruiting,452,2019
+NCT00000476,Study of Antibody I in Autoimmune,Phase 1,Terminated,930,2020
+NCT00000477,Study of Antibody J in Infectious Disease,Phase 2,Suspended,49,2015
+NCT00000478,Study of Antibody K in Cardiovascular,Phase 2,Suspended,689,2018
+NCT00000479,Study of Antibody L in Neurological,Phase 3,Recruiting,132,2011
+NCT00000480,Study of Antibody M in Cancer,Phase 3,Terminated,643,2016
+NCT00000481,Study of Antibody N in Autoimmune,Phase 4,Suspended,163,2018
+NCT00000482,Study of Antibody O in Infectious Disease,Phase 4,Completed,748,2015
+NCT00000483,Study of Antibody P in Cardiovascular,Phase 1,Terminated,499,2023
+NCT00000484,Study of Antibody Q in Neurological,Phase 2,Completed,818,2014
+NCT00000485,Study of Antibody R in Cancer,Phase 2,Completed,303,2015
+NCT00000486,Study of Antibody S in Autoimmune,Phase 2,Suspended,170,2012
+NCT00000487,Study of Antibody T in Infectious Disease,Phase 2,Completed,256,2014
+NCT00000488,Study of Antibody U in Cardiovascular,Phase 4,Completed,899,2011
+NCT00000489,Study of Antibody V in Neurological,Phase 3,Suspended,970,2023
+NCT00000490,Study of Antibody W in Cancer,Phase 4,Terminated,706,2020
+NCT00000491,Study of Antibody X in Autoimmune,Phase 1,Suspended,15,2023
+NCT00000492,Study of Antibody Y in Infectious Disease,Phase 3,Terminated,993,2020
+NCT00000493,Study of Antibody Z in Cardiovascular,Phase 3,Completed,34,2017
+NCT00000494,Study of Antibody A in Neurological,Phase 1,Terminated,443,2016
+NCT00000495,Study of Antibody B in Cancer,Phase 4,Completed,407,2019
+NCT00000496,Study of Antibody C in Autoimmune,Phase 4,Terminated,954,2022
+NCT00000497,Study of Antibody D in Infectious Disease,Phase 2,Terminated,895,2012
+NCT00000498,Study of Antibody E in Cardiovascular,Phase 1,Completed,257,2021
+NCT00000499,Study of Antibody F in Neurological,Phase 3,Terminated,18,2016
+NCT00000500,Study of Antibody G in Cancer,Phase 4,Recruiting,98,2016
+NCT00000501,Study of Antibody H in Autoimmune,Phase 2,Recruiting,115,2017
+NCT00000502,Study of Antibody I in Infectious Disease,Phase 2,Suspended,114,2014
+NCT00000503,Study of Antibody J in Cardiovascular,Phase 1,Completed,461,2016
+NCT00000504,Study of Antibody K in Neurological,Phase 3,Completed,739,2013
+NCT00000505,Study of Antibody L in Cancer,Phase 1,Suspended,747,2020
+NCT00000506,Study of Antibody M in Autoimmune,Phase 1,Recruiting,114,2010
+NCT00000507,Study of Antibody N in Infectious Disease,Phase 1,Completed,597,2022
+NCT00000508,Study of Antibody O in Cardiovascular,Phase 3,Suspended,127,2015
+NCT00000509,Study of Antibody P in Neurological,Phase 3,Terminated,439,2011
+NCT00000510,Study of Antibody Q in Cancer,Phase 4,Completed,485,2014
+NCT00000511,Study of Antibody R in Autoimmune,Phase 1,Suspended,458,2021
+NCT00000512,Study of Antibody S in Infectious Disease,Phase 3,Completed,251,2020
+NCT00000513,Study of Antibody T in Cardiovascular,Phase 4,Completed,384,2021
+NCT00000514,Study of Antibody U in Neurological,Phase 2,Terminated,249,2016
+NCT00000515,Study of Antibody V in Cancer,Phase 3,Suspended,453,2012
+NCT00000516,Study of Antibody W in Autoimmune,Phase 3,Terminated,724,2023
+NCT00000517,Study of Antibody X in Infectious Disease,Phase 4,Suspended,711,2022
+NCT00000518,Study of Antibody Y in Cardiovascular,Phase 4,Terminated,105,2014
+NCT00000519,Study of Antibody Z in Neurological,Phase 1,Recruiting,398,2016
+NCT00000520,Study of Antibody A in Cancer,Phase 3,Completed,31,2020
+NCT00000521,Study of Antibody B in Autoimmune,Phase 2,Recruiting,689,2013
+NCT00000522,Study of Antibody C in Infectious Disease,Phase 2,Terminated,699,2010
+NCT00000523,Study of Antibody D in Cardiovascular,Phase 2,Completed,478,2019
+NCT00000524,Study of Antibody E in Neurological,Phase 4,Completed,921,2012
+NCT00000525,Study of Antibody F in Cancer,Phase 4,Terminated,979,2022
+NCT00000526,Study of Antibody G in Autoimmune,Phase 1,Completed,784,2021
+NCT00000527,Study of Antibody H in Infectious Disease,Phase 3,Suspended,675,2018
+NCT00000528,Study of Antibody I in Cardiovascular,Phase 3,Suspended,994,2011
+NCT00000529,Study of Antibody J in Neurological,Phase 2,Recruiting,516,2012
+NCT00000530,Study of Antibody K in Cancer,Phase 4,Terminated,581,2015
+NCT00000531,Study of Antibody L in Autoimmune,Phase 1,Terminated,596,2020
+NCT00000532,Study of Antibody M in Infectious Disease,Phase 4,Completed,217,2021
+NCT00000533,Study of Antibody N in Cardiovascular,Phase 2,Completed,933,2016
+NCT00000534,Study of Antibody O in Neurological,Phase 3,Recruiting,967,2013
+NCT00000535,Study of Antibody P in Cancer,Phase 2,Completed,282,2016
+NCT00000536,Study of Antibody Q in Autoimmune,Phase 4,Suspended,947,2014
+NCT00000537,Study of Antibody R in Infectious Disease,Phase 2,Suspended,673,2022
+NCT00000538,Study of Antibody S in Cardiovascular,Phase 3,Suspended,330,2022
+NCT00000539,Study of Antibody T in Neurological,Phase 3,Terminated,124,2011
+NCT00000540,Study of Antibody U in Cancer,Phase 4,Terminated,151,2021
+NCT00000541,Study of Antibody V in Autoimmune,Phase 1,Suspended,236,2012
+NCT00000542,Study of Antibody W in Infectious Disease,Phase 4,Suspended,493,2010
+NCT00000543,Study of Antibody X in Cardiovascular,Phase 3,Suspended,152,2016
+NCT00000544,Study of Antibody Y in Neurological,Phase 3,Suspended,716,2018
+NCT00000545,Study of Antibody Z in Cancer,Phase 3,Terminated,701,2011
+NCT00000546,Study of Antibody A in Autoimmune,Phase 1,Recruiting,127,2020
+NCT00000547,Study of Antibody B in Infectious Disease,Phase 2,Completed,532,2012
+NCT00000548,Study of Antibody C in Cardiovascular,Phase 2,Recruiting,990,2022
+NCT00000549,Study of Antibody D in Neurological,Phase 2,Suspended,129,2013
+NCT00000550,Study of Antibody E in Cancer,Phase 2,Terminated,532,2011
+NCT00000551,Study of Antibody F in Autoimmune,Phase 3,Completed,502,2023
+NCT00000552,Study of Antibody G in Infectious Disease,Phase 2,Suspended,943,2018
+NCT00000553,Study of Antibody H in Cardiovascular,Phase 2,Terminated,92,2013
+NCT00000554,Study of Antibody I in Neurological,Phase 4,Suspended,92,2012
+NCT00000555,Study of Antibody J in Cancer,Phase 2,Recruiting,243,2017
+NCT00000556,Study of Antibody K in Autoimmune,Phase 2,Recruiting,533,2019
+NCT00000557,Study of Antibody L in Infectious Disease,Phase 4,Suspended,989,2021
+NCT00000558,Study of Antibody M in Cardiovascular,Phase 4,Terminated,993,2011
+NCT00000559,Study of Antibody N in Neurological,Phase 4,Recruiting,818,2023
+NCT00000560,Study of Antibody O in Cancer,Phase 2,Suspended,931,2013
+NCT00000561,Study of Antibody P in Autoimmune,Phase 4,Suspended,63,2011
+NCT00000562,Study of Antibody Q in Infectious Disease,Phase 3,Recruiting,71,2018
+NCT00000563,Study of Antibody R in Cardiovascular,Phase 4,Suspended,44,2021
+NCT00000564,Study of Antibody S in Neurological,Phase 2,Completed,527,2018
+NCT00000565,Study of Antibody T in Cancer,Phase 3,Recruiting,835,2016
+NCT00000566,Study of Antibody U in Autoimmune,Phase 2,Recruiting,590,2022
+NCT00000567,Study of Antibody V in Infectious Disease,Phase 4,Completed,993,2013
+NCT00000568,Study of Antibody W in Cardiovascular,Phase 2,Completed,588,2016
+NCT00000569,Study of Antibody X in Neurological,Phase 4,Recruiting,757,2013
+NCT00000570,Study of Antibody Y in Cancer,Phase 4,Terminated,690,2010
+NCT00000571,Study of Antibody Z in Autoimmune,Phase 4,Terminated,264,2017
+NCT00000572,Study of Antibody A in Infectious Disease,Phase 4,Suspended,997,2013
+NCT00000573,Study of Antibody B in Cardiovascular,Phase 3,Recruiting,243,2016
+NCT00000574,Study of Antibody C in Neurological,Phase 4,Completed,410,2021
+NCT00000575,Study of Antibody D in Cancer,Phase 3,Suspended,230,2019
+NCT00000576,Study of Antibody E in Autoimmune,Phase 1,Suspended,176,2022
+NCT00000577,Study of Antibody F in Infectious Disease,Phase 3,Suspended,502,2017
+NCT00000578,Study of Antibody G in Cardiovascular,Phase 4,Completed,190,2012
+NCT00000579,Study of Antibody H in Neurological,Phase 1,Completed,198,2023
+NCT00000580,Study of Antibody I in Cancer,Phase 3,Terminated,966,2020
+NCT00000581,Study of Antibody J in Autoimmune,Phase 3,Completed,663,2015
+NCT00000582,Study of Antibody K in Infectious Disease,Phase 1,Terminated,611,2023
+NCT00000583,Study of Antibody L in Cardiovascular,Phase 2,Suspended,53,2023
+NCT00000584,Study of Antibody M in Neurological,Phase 4,Terminated,986,2012
+NCT00000585,Study of Antibody N in Cancer,Phase 4,Suspended,650,2014
+NCT00000586,Study of Antibody O in Autoimmune,Phase 3,Suspended,999,2013
+NCT00000587,Study of Antibody P in Infectious Disease,Phase 4,Terminated,693,2014
+NCT00000588,Study of Antibody Q in Cardiovascular,Phase 3,Suspended,881,2019
+NCT00000589,Study of Antibody R in Neurological,Phase 1,Completed,758,2010
+NCT00000590,Study of Antibody S in Cancer,Phase 3,Terminated,853,2018
+NCT00000591,Study of Antibody T in Autoimmune,Phase 1,Recruiting,931,2014
+NCT00000592,Study of Antibody U in Infectious Disease,Phase 2,Terminated,507,2019
+NCT00000593,Study of Antibody V in Cardiovascular,Phase 3,Completed,461,2012
+NCT00000594,Study of Antibody W in Neurological,Phase 3,Recruiting,330,2020
+NCT00000595,Study of Antibody X in Cancer,Phase 3,Suspended,978,2023
+NCT00000596,Study of Antibody Y in Autoimmune,Phase 4,Terminated,80,2013
+NCT00000597,Study of Antibody Z in Infectious Disease,Phase 3,Terminated,211,2016
+NCT00000598,Study of Antibody A in Cardiovascular,Phase 4,Recruiting,673,2014
+NCT00000599,Study of Antibody B in Neurological,Phase 1,Recruiting,288,2010
+NCT00000600,Study of Antibody C in Cancer,Phase 1,Recruiting,952,2023
+NCT00000601,Study of Antibody D in Autoimmune,Phase 1,Completed,583,2017
+NCT00000602,Study of Antibody E in Infectious Disease,Phase 2,Suspended,952,2010
+NCT00000603,Study of Antibody F in Cardiovascular,Phase 4,Completed,87,2020
+NCT00000604,Study of Antibody G in Neurological,Phase 3,Terminated,682,2011
+NCT00000605,Study of Antibody H in Cancer,Phase 1,Terminated,306,2018
+NCT00000606,Study of Antibody I in Autoimmune,Phase 1,Suspended,768,2023
+NCT00000607,Study of Antibody J in Infectious Disease,Phase 2,Completed,435,2023
+NCT00000608,Study of Antibody K in Cardiovascular,Phase 2,Recruiting,312,2012
+NCT00000609,Study of Antibody L in Neurological,Phase 4,Recruiting,823,2022
+NCT00000610,Study of Antibody M in Cancer,Phase 2,Completed,767,2020
+NCT00000611,Study of Antibody N in Autoimmune,Phase 1,Suspended,59,2020
+NCT00000612,Study of Antibody O in Infectious Disease,Phase 1,Terminated,896,2023
+NCT00000613,Study of Antibody P in Cardiovascular,Phase 1,Recruiting,537,2011
+NCT00000614,Study of Antibody Q in Neurological,Phase 4,Completed,947,2011
+NCT00000615,Study of Antibody R in Cancer,Phase 1,Completed,735,2022
+NCT00000616,Study of Antibody S in Autoimmune,Phase 1,Terminated,269,2022
+NCT00000617,Study of Antibody T in Infectious Disease,Phase 3,Completed,126,2022
+NCT00000618,Study of Antibody U in Cardiovascular,Phase 4,Suspended,941,2010
+NCT00000619,Study of Antibody V in Neurological,Phase 2,Completed,497,2015
+NCT00000620,Study of Antibody W in Cancer,Phase 1,Terminated,318,2011
+NCT00000621,Study of Antibody X in Autoimmune,Phase 2,Completed,334,2013
+NCT00000622,Study of Antibody Y in Infectious Disease,Phase 1,Recruiting,317,2016
+NCT00000623,Study of Antibody Z in Cardiovascular,Phase 2,Terminated,499,2011
+NCT00000624,Study of Antibody A in Neurological,Phase 1,Completed,732,2012
+NCT00000625,Study of Antibody B in Cancer,Phase 3,Recruiting,820,2017
+NCT00000626,Study of Antibody C in Autoimmune,Phase 1,Suspended,915,2017
+NCT00000627,Study of Antibody D in Infectious Disease,Phase 3,Suspended,504,2019
+NCT00000628,Study of Antibody E in Cardiovascular,Phase 4,Suspended,520,2016
+NCT00000629,Study of Antibody F in Neurological,Phase 2,Terminated,845,2014
+NCT00000630,Study of Antibody G in Cancer,Phase 4,Recruiting,23,2013
+NCT00000631,Study of Antibody H in Autoimmune,Phase 3,Suspended,840,2022
+NCT00000632,Study of Antibody I in Infectious Disease,Phase 1,Terminated,223,2019
+NCT00000633,Study of Antibody J in Cardiovascular,Phase 4,Completed,800,2014
+NCT00000634,Study of Antibody K in Neurological,Phase 2,Recruiting,149,2017
+NCT00000635,Study of Antibody L in Cancer,Phase 3,Recruiting,147,2017
+NCT00000636,Study of Antibody M in Autoimmune,Phase 4,Terminated,772,2014
+NCT00000637,Study of Antibody N in Infectious Disease,Phase 4,Terminated,25,2019
+NCT00000638,Study of Antibody O in Cardiovascular,Phase 1,Terminated,974,2016
+NCT00000639,Study of Antibody P in Neurological,Phase 1,Completed,280,2018
+NCT00000640,Study of Antibody Q in Cancer,Phase 3,Recruiting,364,2017
+NCT00000641,Study of Antibody R in Autoimmune,Phase 3,Suspended,656,2023
+NCT00000642,Study of Antibody S in Infectious Disease,Phase 4,Completed,974,2016
+NCT00000643,Study of Antibody T in Cardiovascular,Phase 4,Recruiting,60,2023
+NCT00000644,Study of Antibody U in Neurological,Phase 1,Completed,748,2023
+NCT00000645,Study of Antibody V in Cancer,Phase 2,Completed,435,2010
+NCT00000646,Study of Antibody W in Autoimmune,Phase 3,Terminated,750,2015
+NCT00000647,Study of Antibody X in Infectious Disease,Phase 1,Recruiting,682,2016
+NCT00000648,Study of Antibody Y in Cardiovascular,Phase 3,Completed,174,2022
+NCT00000649,Study of Antibody Z in Neurological,Phase 4,Completed,851,2017
+NCT00000650,Study of Antibody A in Cancer,Phase 4,Recruiting,904,2020
+NCT00000651,Study of Antibody B in Autoimmune,Phase 4,Suspended,42,2015
+NCT00000652,Study of Antibody C in Infectious Disease,Phase 3,Recruiting,35,2016
+NCT00000653,Study of Antibody D in Cardiovascular,Phase 2,Completed,50,2023
+NCT00000654,Study of Antibody E in Neurological,Phase 3,Suspended,354,2014
+NCT00000655,Study of Antibody F in Cancer,Phase 1,Suspended,307,2010
+NCT00000656,Study of Antibody G in Autoimmune,Phase 2,Terminated,914,2013
+NCT00000657,Study of Antibody H in Infectious Disease,Phase 3,Completed,38,2015
+NCT00000658,Study of Antibody I in Cardiovascular,Phase 2,Completed,826,2016
+NCT00000659,Study of Antibody J in Neurological,Phase 2,Terminated,955,2014
+NCT00000660,Study of Antibody K in Cancer,Phase 2,Completed,330,2010
+NCT00000661,Study of Antibody L in Autoimmune,Phase 2,Completed,659,2019
+NCT00000662,Study of Antibody M in Infectious Disease,Phase 1,Suspended,241,2021
+NCT00000663,Study of Antibody N in Cardiovascular,Phase 3,Completed,211,2014
+NCT00000664,Study of Antibody O in Neurological,Phase 2,Suspended,543,2014
+NCT00000665,Study of Antibody P in Cancer,Phase 4,Recruiting,346,2013
+NCT00000666,Study of Antibody Q in Autoimmune,Phase 1,Terminated,334,2012
+NCT00000667,Study of Antibody R in Infectious Disease,Phase 3,Recruiting,798,2020
+NCT00000668,Study of Antibody S in Cardiovascular,Phase 1,Terminated,854,2011
+NCT00000669,Study of Antibody T in Neurological,Phase 3,Suspended,756,2011
+NCT00000670,Study of Antibody U in Cancer,Phase 4,Completed,361,2023
+NCT00000671,Study of Antibody V in Autoimmune,Phase 4,Completed,418,2019
+NCT00000672,Study of Antibody W in Infectious Disease,Phase 1,Suspended,94,2010
+NCT00000673,Study of Antibody X in Cardiovascular,Phase 2,Terminated,960,2017
+NCT00000674,Study of Antibody Y in Neurological,Phase 1,Suspended,198,2014
+NCT00000675,Study of Antibody Z in Cancer,Phase 1,Recruiting,910,2020
+NCT00000676,Study of Antibody A in Autoimmune,Phase 2,Completed,998,2014
+NCT00000677,Study of Antibody B in Infectious Disease,Phase 4,Terminated,979,2012
+NCT00000678,Study of Antibody C in Cardiovascular,Phase 2,Terminated,449,2014
+NCT00000679,Study of Antibody D in Neurological,Phase 1,Completed,272,2013
+NCT00000680,Study of Antibody E in Cancer,Phase 1,Suspended,34,2011
+NCT00000681,Study of Antibody F in Autoimmune,Phase 1,Recruiting,55,2015
+NCT00000682,Study of Antibody G in Infectious Disease,Phase 3,Suspended,820,2023
+NCT00000683,Study of Antibody H in Cardiovascular,Phase 3,Suspended,29,2016
+NCT00000684,Study of Antibody I in Neurological,Phase 3,Terminated,42,2010
+NCT00000685,Study of Antibody J in Cancer,Phase 3,Terminated,953,2021
+NCT00000686,Study of Antibody K in Autoimmune,Phase 2,Terminated,424,2011
+NCT00000687,Study of Antibody L in Infectious Disease,Phase 4,Completed,158,2019
+NCT00000688,Study of Antibody M in Cardiovascular,Phase 2,Completed,360,2023
+NCT00000689,Study of Antibody N in Neurological,Phase 3,Suspended,826,2014
+NCT00000690,Study of Antibody O in Cancer,Phase 1,Terminated,795,2010
+NCT00000691,Study of Antibody P in Autoimmune,Phase 4,Completed,997,2016
+NCT00000692,Study of Antibody Q in Infectious Disease,Phase 3,Suspended,568,2012
+NCT00000693,Study of Antibody R in Cardiovascular,Phase 1,Suspended,164,2010
+NCT00000694,Study of Antibody S in Neurological,Phase 2,Completed,941,2013
+NCT00000695,Study of Antibody T in Cancer,Phase 2,Completed,817,2016
+NCT00000696,Study of Antibody U in Autoimmune,Phase 1,Recruiting,637,2021
+NCT00000697,Study of Antibody V in Infectious Disease,Phase 2,Terminated,649,2019
+NCT00000698,Study of Antibody W in Cardiovascular,Phase 4,Completed,208,2021
+NCT00000699,Study of Antibody X in Neurological,Phase 2,Terminated,961,2011
+NCT00000700,Study of Antibody Y in Cancer,Phase 1,Recruiting,236,2017
+NCT00000701,Study of Antibody Z in Autoimmune,Phase 1,Suspended,190,2017
+NCT00000702,Study of Antibody A in Infectious Disease,Phase 3,Recruiting,699,2014
+NCT00000703,Study of Antibody B in Cardiovascular,Phase 4,Recruiting,480,2013
+NCT00000704,Study of Antibody C in Neurological,Phase 1,Suspended,987,2012
+NCT00000705,Study of Antibody D in Cancer,Phase 2,Suspended,503,2016
+NCT00000706,Study of Antibody E in Autoimmune,Phase 3,Terminated,17,2012
+NCT00000707,Study of Antibody F in Infectious Disease,Phase 3,Terminated,903,2013
+NCT00000708,Study of Antibody G in Cardiovascular,Phase 3,Suspended,174,2012
+NCT00000709,Study of Antibody H in Neurological,Phase 1,Recruiting,338,2013
+NCT00000710,Study of Antibody I in Cancer,Phase 3,Terminated,546,2017
+NCT00000711,Study of Antibody J in Autoimmune,Phase 4,Recruiting,927,2013
+NCT00000712,Study of Antibody K in Infectious Disease,Phase 4,Terminated,927,2022
+NCT00000713,Study of Antibody L in Cardiovascular,Phase 4,Terminated,334,2011
+NCT00000714,Study of Antibody M in Neurological,Phase 4,Terminated,546,2016
+NCT00000715,Study of Antibody N in Cancer,Phase 2,Completed,769,2019
+NCT00000716,Study of Antibody O in Autoimmune,Phase 2,Suspended,376,2011
+NCT00000717,Study of Antibody P in Infectious Disease,Phase 3,Terminated,553,2012
+NCT00000718,Study of Antibody Q in Cardiovascular,Phase 3,Terminated,555,2017
+NCT00000719,Study of Antibody R in Neurological,Phase 4,Suspended,151,2013
+NCT00000720,Study of Antibody S in Cancer,Phase 1,Completed,401,2016
+NCT00000721,Study of Antibody T in Autoimmune,Phase 3,Completed,645,2011
+NCT00000722,Study of Antibody U in Infectious Disease,Phase 2,Recruiting,433,2021
+NCT00000723,Study of Antibody V in Cardiovascular,Phase 3,Completed,120,2013
+NCT00000724,Study of Antibody W in Neurological,Phase 3,Completed,311,2014
+NCT00000725,Study of Antibody X in Cancer,Phase 2,Suspended,687,2018
+NCT00000726,Study of Antibody Y in Autoimmune,Phase 3,Suspended,232,2019
+NCT00000727,Study of Antibody Z in Infectious Disease,Phase 2,Completed,136,2020
+NCT00000728,Study of Antibody A in Cardiovascular,Phase 1,Recruiting,679,2016
+NCT00000729,Study of Antibody B in Neurological,Phase 3,Completed,526,2012
+NCT00000730,Study of Antibody C in Cancer,Phase 1,Recruiting,101,2019
+NCT00000731,Study of Antibody D in Autoimmune,Phase 4,Recruiting,826,2021
+NCT00000732,Study of Antibody E in Infectious Disease,Phase 1,Terminated,196,2022
+NCT00000733,Study of Antibody F in Cardiovascular,Phase 2,Recruiting,274,2023
+NCT00000734,Study of Antibody G in Neurological,Phase 3,Completed,288,2015
+NCT00000735,Study of Antibody H in Cancer,Phase 3,Terminated,64,2013
+NCT00000736,Study of Antibody I in Autoimmune,Phase 1,Completed,297,2017
+NCT00000737,Study of Antibody J in Infectious Disease,Phase 3,Suspended,893,2019
+NCT00000738,Study of Antibody K in Cardiovascular,Phase 3,Completed,805,2015
+NCT00000739,Study of Antibody L in Neurological,Phase 1,Recruiting,318,2015
+NCT00000740,Study of Antibody M in Cancer,Phase 2,Completed,118,2015
+NCT00000741,Study of Antibody N in Autoimmune,Phase 3,Recruiting,233,2015
+NCT00000742,Study of Antibody O in Infectious Disease,Phase 3,Completed,986,2011
+NCT00000743,Study of Antibody P in Cardiovascular,Phase 3,Terminated,433,2020
+NCT00000744,Study of Antibody Q in Neurological,Phase 4,Terminated,576,2019
+NCT00000745,Study of Antibody R in Cancer,Phase 1,Completed,841,2016
+NCT00000746,Study of Antibody S in Autoimmune,Phase 3,Completed,571,2013
+NCT00000747,Study of Antibody T in Infectious Disease,Phase 3,Recruiting,26,2012
+NCT00000748,Study of Antibody U in Cardiovascular,Phase 1,Terminated,261,2021
+NCT00000749,Study of Antibody V in Neurological,Phase 4,Terminated,364,2023
+NCT00000750,Study of Antibody W in Cancer,Phase 1,Recruiting,308,2011
+NCT00000751,Study of Antibody X in Autoimmune,Phase 2,Completed,341,2020
+NCT00000752,Study of Antibody Y in Infectious Disease,Phase 1,Suspended,593,2013
+NCT00000753,Study of Antibody Z in Cardiovascular,Phase 4,Suspended,89,2018
+NCT00000754,Study of Antibody A in Neurological,Phase 2,Recruiting,929,2018
+NCT00000755,Study of Antibody B in Cancer,Phase 1,Terminated,483,2012
+NCT00000756,Study of Antibody C in Autoimmune,Phase 1,Suspended,474,2023
+NCT00000757,Study of Antibody D in Infectious Disease,Phase 1,Suspended,803,2020
+NCT00000758,Study of Antibody E in Cardiovascular,Phase 2,Completed,111,2015
+NCT00000759,Study of Antibody F in Neurological,Phase 2,Completed,341,2018
+NCT00000760,Study of Antibody G in Cancer,Phase 1,Suspended,724,2018
+NCT00000761,Study of Antibody H in Autoimmune,Phase 2,Recruiting,146,2017
+NCT00000762,Study of Antibody I in Infectious Disease,Phase 2,Suspended,658,2019
+NCT00000763,Study of Antibody J in Cardiovascular,Phase 3,Recruiting,350,2012
+NCT00000764,Study of Antibody K in Neurological,Phase 1,Completed,297,2018
+NCT00000765,Study of Antibody L in Cancer,Phase 1,Suspended,943,2023
+NCT00000766,Study of Antibody M in Autoimmune,Phase 3,Suspended,770,2020
+NCT00000767,Study of Antibody N in Infectious Disease,Phase 4,Terminated,528,2019
+NCT00000768,Study of Antibody O in Cardiovascular,Phase 3,Terminated,477,2016
+NCT00000769,Study of Antibody P in Neurological,Phase 3,Recruiting,742,2022
+NCT00000770,Study of Antibody Q in Cancer,Phase 2,Completed,387,2016
+NCT00000771,Study of Antibody R in Autoimmune,Phase 4,Terminated,793,2022
+NCT00000772,Study of Antibody S in Infectious Disease,Phase 2,Suspended,680,2021
+NCT00000773,Study of Antibody T in Cardiovascular,Phase 2,Completed,247,2017
+NCT00000774,Study of Antibody U in Neurological,Phase 1,Recruiting,730,2019
+NCT00000775,Study of Antibody V in Cancer,Phase 1,Terminated,804,2015
+NCT00000776,Study of Antibody W in Autoimmune,Phase 1,Recruiting,668,2018
+NCT00000777,Study of Antibody X in Infectious Disease,Phase 4,Terminated,319,2022
+NCT00000778,Study of Antibody Y in Cardiovascular,Phase 1,Terminated,712,2022
+NCT00000779,Study of Antibody Z in Neurological,Phase 1,Recruiting,450,2011
+NCT00000780,Study of Antibody A in Cancer,Phase 1,Terminated,545,2011
+NCT00000781,Study of Antibody B in Autoimmune,Phase 1,Suspended,861,2014
+NCT00000782,Study of Antibody C in Infectious Disease,Phase 3,Completed,686,2016
+NCT00000783,Study of Antibody D in Cardiovascular,Phase 2,Suspended,36,2014
+NCT00000784,Study of Antibody E in Neurological,Phase 1,Suspended,399,2014
+NCT00000785,Study of Antibody F in Cancer,Phase 4,Completed,258,2016
+NCT00000786,Study of Antibody G in Autoimmune,Phase 4,Completed,315,2017
+NCT00000787,Study of Antibody H in Infectious Disease,Phase 1,Completed,433,2011
+NCT00000788,Study of Antibody I in Cardiovascular,Phase 3,Recruiting,182,2023
+NCT00000789,Study of Antibody J in Neurological,Phase 2,Completed,229,2019
+NCT00000790,Study of Antibody K in Cancer,Phase 3,Suspended,98,2012
+NCT00000791,Study of Antibody L in Autoimmune,Phase 3,Terminated,261,2014
+NCT00000792,Study of Antibody M in Infectious Disease,Phase 4,Terminated,757,2023
+NCT00000793,Study of Antibody N in Cardiovascular,Phase 2,Terminated,806,2013
+NCT00000794,Study of Antibody O in Neurological,Phase 3,Completed,191,2017
+NCT00000795,Study of Antibody P in Cancer,Phase 3,Terminated,969,2017
+NCT00000796,Study of Antibody Q in Autoimmune,Phase 3,Recruiting,884,2016
+NCT00000797,Study of Antibody R in Infectious Disease,Phase 1,Recruiting,839,2021
+NCT00000798,Study of Antibody S in Cardiovascular,Phase 3,Recruiting,199,2012
+NCT00000799,Study of Antibody T in Neurological,Phase 4,Recruiting,211,2015
+NCT00000800,Study of Antibody U in Cancer,Phase 4,Completed,381,2011
+NCT00000801,Study of Antibody V in Autoimmune,Phase 3,Recruiting,590,2023
+NCT00000802,Study of Antibody W in Infectious Disease,Phase 1,Terminated,287,2016
+NCT00000803,Study of Antibody X in Cardiovascular,Phase 2,Completed,968,2015
+NCT00000804,Study of Antibody Y in Neurological,Phase 3,Terminated,215,2019
+NCT00000805,Study of Antibody Z in Cancer,Phase 3,Recruiting,279,2015
+NCT00000806,Study of Antibody A in Autoimmune,Phase 3,Terminated,140,2018
+NCT00000807,Study of Antibody B in Infectious Disease,Phase 4,Recruiting,324,2014
+NCT00000808,Study of Antibody C in Cardiovascular,Phase 3,Completed,44,2022
+NCT00000809,Study of Antibody D in Neurological,Phase 1,Terminated,612,2014
+NCT00000810,Study of Antibody E in Cancer,Phase 3,Completed,967,2013
+NCT00000811,Study of Antibody F in Autoimmune,Phase 4,Suspended,391,2011
+NCT00000812,Study of Antibody G in Infectious Disease,Phase 3,Suspended,413,2020
+NCT00000813,Study of Antibody H in Cardiovascular,Phase 1,Completed,553,2014
+NCT00000814,Study of Antibody I in Neurological,Phase 2,Terminated,764,2016
+NCT00000815,Study of Antibody J in Cancer,Phase 3,Completed,985,2010
+NCT00000816,Study of Antibody K in Autoimmune,Phase 1,Suspended,919,2023
+NCT00000817,Study of Antibody L in Infectious Disease,Phase 3,Recruiting,499,2010
+NCT00000818,Study of Antibody M in Cardiovascular,Phase 2,Recruiting,194,2022
+NCT00000819,Study of Antibody N in Neurological,Phase 3,Recruiting,248,2015
+NCT00000820,Study of Antibody O in Cancer,Phase 3,Suspended,588,2023
+NCT00000821,Study of Antibody P in Autoimmune,Phase 1,Suspended,187,2019
+NCT00000822,Study of Antibody Q in Infectious Disease,Phase 2,Completed,37,2010
+NCT00000823,Study of Antibody R in Cardiovascular,Phase 1,Suspended,502,2013
+NCT00000824,Study of Antibody S in Neurological,Phase 3,Recruiting,692,2022
+NCT00000825,Study of Antibody T in Cancer,Phase 3,Terminated,82,2013
+NCT00000826,Study of Antibody U in Autoimmune,Phase 3,Recruiting,674,2020
+NCT00000827,Study of Antibody V in Infectious Disease,Phase 1,Completed,516,2017
+NCT00000828,Study of Antibody W in Cardiovascular,Phase 2,Completed,155,2016
+NCT00000829,Study of Antibody X in Neurological,Phase 4,Completed,822,2021
+NCT00000830,Study of Antibody Y in Cancer,Phase 1,Recruiting,55,2018
+NCT00000831,Study of Antibody Z in Autoimmune,Phase 3,Completed,874,2017
+NCT00000832,Study of Antibody A in Infectious Disease,Phase 3,Recruiting,603,2016
+NCT00000833,Study of Antibody B in Cardiovascular,Phase 1,Completed,924,2016
+NCT00000834,Study of Antibody C in Neurological,Phase 4,Completed,79,2015
+NCT00000835,Study of Antibody D in Cancer,Phase 2,Recruiting,525,2019
+NCT00000836,Study of Antibody E in Autoimmune,Phase 3,Recruiting,994,2017
+NCT00000837,Study of Antibody F in Infectious Disease,Phase 4,Suspended,150,2012
+NCT00000838,Study of Antibody G in Cardiovascular,Phase 3,Completed,991,2022
+NCT00000839,Study of Antibody H in Neurological,Phase 4,Completed,362,2012
+NCT00000840,Study of Antibody I in Cancer,Phase 1,Recruiting,423,2018
+NCT00000841,Study of Antibody J in Autoimmune,Phase 2,Suspended,506,2018
+NCT00000842,Study of Antibody K in Infectious Disease,Phase 4,Terminated,597,2011
+NCT00000843,Study of Antibody L in Cardiovascular,Phase 3,Suspended,670,2017
+NCT00000844,Study of Antibody M in Neurological,Phase 4,Completed,409,2020
+NCT00000845,Study of Antibody N in Cancer,Phase 4,Recruiting,919,2019
+NCT00000846,Study of Antibody O in Autoimmune,Phase 1,Completed,981,2013
+NCT00000847,Study of Antibody P in Infectious Disease,Phase 1,Terminated,942,2017
+NCT00000848,Study of Antibody Q in Cardiovascular,Phase 3,Suspended,261,2018
+NCT00000849,Study of Antibody R in Neurological,Phase 4,Suspended,935,2010
+NCT00000850,Study of Antibody S in Cancer,Phase 3,Terminated,595,2012
+NCT00000851,Study of Antibody T in Autoimmune,Phase 2,Completed,953,2022
+NCT00000852,Study of Antibody U in Infectious Disease,Phase 4,Recruiting,73,2013
+NCT00000853,Study of Antibody V in Cardiovascular,Phase 2,Recruiting,652,2015
+NCT00000854,Study of Antibody W in Neurological,Phase 1,Suspended,124,2021
+NCT00000855,Study of Antibody X in Cancer,Phase 1,Terminated,351,2019
+NCT00000856,Study of Antibody Y in Autoimmune,Phase 3,Recruiting,194,2016
+NCT00000857,Study of Antibody Z in Infectious Disease,Phase 3,Recruiting,273,2017
+NCT00000858,Study of Antibody A in Cardiovascular,Phase 2,Suspended,28,2016
+NCT00000859,Study of Antibody B in Neurological,Phase 3,Recruiting,361,2011
+NCT00000860,Study of Antibody C in Cancer,Phase 2,Terminated,859,2020
+NCT00000861,Study of Antibody D in Autoimmune,Phase 4,Recruiting,663,2018
+NCT00000862,Study of Antibody E in Infectious Disease,Phase 3,Completed,933,2019
+NCT00000863,Study of Antibody F in Cardiovascular,Phase 1,Suspended,908,2020
+NCT00000864,Study of Antibody G in Neurological,Phase 4,Recruiting,98,2012
+NCT00000865,Study of Antibody H in Cancer,Phase 4,Terminated,119,2014
+NCT00000866,Study of Antibody I in Autoimmune,Phase 1,Suspended,841,2022
+NCT00000867,Study of Antibody J in Infectious Disease,Phase 1,Suspended,937,2019
+NCT00000868,Study of Antibody K in Cardiovascular,Phase 4,Completed,261,2011
+NCT00000869,Study of Antibody L in Neurological,Phase 2,Recruiting,928,2015
+NCT00000870,Study of Antibody M in Cancer,Phase 3,Suspended,623,2019
+NCT00000871,Study of Antibody N in Autoimmune,Phase 3,Completed,337,2015
+NCT00000872,Study of Antibody O in Infectious Disease,Phase 1,Suspended,40,2010
+NCT00000873,Study of Antibody P in Cardiovascular,Phase 2,Completed,381,2013
+NCT00000874,Study of Antibody Q in Neurological,Phase 2,Terminated,361,2019
+NCT00000875,Study of Antibody R in Cancer,Phase 2,Recruiting,744,2020
+NCT00000876,Study of Antibody S in Autoimmune,Phase 3,Terminated,883,2023
+NCT00000877,Study of Antibody T in Infectious Disease,Phase 1,Completed,475,2020
+NCT00000878,Study of Antibody U in Cardiovascular,Phase 3,Terminated,311,2015
+NCT00000879,Study of Antibody V in Neurological,Phase 2,Recruiting,780,2017
+NCT00000880,Study of Antibody W in Cancer,Phase 1,Recruiting,167,2016
+NCT00000881,Study of Antibody X in Autoimmune,Phase 2,Terminated,147,2019
+NCT00000882,Study of Antibody Y in Infectious Disease,Phase 1,Completed,748,2015
+NCT00000883,Study of Antibody Z in Cardiovascular,Phase 4,Recruiting,238,2011
+NCT00000884,Study of Antibody A in Neurological,Phase 1,Suspended,629,2020
+NCT00000885,Study of Antibody B in Cancer,Phase 3,Recruiting,903,2019
+NCT00000886,Study of Antibody C in Autoimmune,Phase 2,Suspended,264,2012
+NCT00000887,Study of Antibody D in Infectious Disease,Phase 1,Recruiting,518,2013
+NCT00000888,Study of Antibody E in Cardiovascular,Phase 2,Terminated,897,2014
+NCT00000889,Study of Antibody F in Neurological,Phase 2,Terminated,126,2020
+NCT00000890,Study of Antibody G in Cancer,Phase 3,Completed,834,2011
+NCT00000891,Study of Antibody H in Autoimmune,Phase 3,Terminated,635,2018
+NCT00000892,Study of Antibody I in Infectious Disease,Phase 1,Suspended,775,2012
+NCT00000893,Study of Antibody J in Cardiovascular,Phase 2,Recruiting,899,2022
+NCT00000894,Study of Antibody K in Neurological,Phase 1,Suspended,643,2019
+NCT00000895,Study of Antibody L in Cancer,Phase 1,Suspended,175,2014
+NCT00000896,Study of Antibody M in Autoimmune,Phase 2,Suspended,342,2010
+NCT00000897,Study of Antibody N in Infectious Disease,Phase 4,Recruiting,394,2010
+NCT00000898,Study of Antibody O in Cardiovascular,Phase 3,Suspended,72,2018
+NCT00000899,Study of Antibody P in Neurological,Phase 3,Recruiting,570,2018
+NCT00000900,Study of Antibody Q in Cancer,Phase 1,Completed,775,2017
+NCT00000901,Study of Antibody R in Autoimmune,Phase 2,Suspended,530,2020
+NCT00000902,Study of Antibody S in Infectious Disease,Phase 3,Suspended,921,2017
+NCT00000903,Study of Antibody T in Cardiovascular,Phase 1,Completed,540,2021
+NCT00000904,Study of Antibody U in Neurological,Phase 3,Recruiting,985,2018
+NCT00000905,Study of Antibody V in Cancer,Phase 2,Recruiting,446,2010
+NCT00000906,Study of Antibody W in Autoimmune,Phase 1,Completed,617,2018
+NCT00000907,Study of Antibody X in Infectious Disease,Phase 3,Terminated,143,2016
+NCT00000908,Study of Antibody Y in Cardiovascular,Phase 4,Recruiting,905,2020
+NCT00000909,Study of Antibody Z in Neurological,Phase 1,Suspended,792,2017
+NCT00000910,Study of Antibody A in Cancer,Phase 1,Recruiting,911,2017
+NCT00000911,Study of Antibody B in Autoimmune,Phase 3,Suspended,447,2021
+NCT00000912,Study of Antibody C in Infectious Disease,Phase 3,Recruiting,634,2019
+NCT00000913,Study of Antibody D in Cardiovascular,Phase 4,Completed,58,2016
+NCT00000914,Study of Antibody E in Neurological,Phase 1,Suspended,218,2019
+NCT00000915,Study of Antibody F in Cancer,Phase 4,Recruiting,446,2013
+NCT00000916,Study of Antibody G in Autoimmune,Phase 3,Suspended,400,2013
+NCT00000917,Study of Antibody H in Infectious Disease,Phase 3,Terminated,972,2017
+NCT00000918,Study of Antibody I in Cardiovascular,Phase 3,Completed,798,2012
+NCT00000919,Study of Antibody J in Neurological,Phase 4,Terminated,101,2011
+NCT00000920,Study of Antibody K in Cancer,Phase 4,Suspended,868,2017
+NCT00000921,Study of Antibody L in Autoimmune,Phase 1,Completed,22,2015
+NCT00000922,Study of Antibody M in Infectious Disease,Phase 2,Recruiting,367,2010
+NCT00000923,Study of Antibody N in Cardiovascular,Phase 2,Suspended,756,2013
+NCT00000924,Study of Antibody O in Neurological,Phase 3,Recruiting,658,2014
+NCT00000925,Study of Antibody P in Cancer,Phase 4,Completed,377,2016
+NCT00000926,Study of Antibody Q in Autoimmune,Phase 3,Suspended,198,2013
+NCT00000927,Study of Antibody R in Infectious Disease,Phase 1,Recruiting,974,2023
+NCT00000928,Study of Antibody S in Cardiovascular,Phase 3,Recruiting,285,2021
+NCT00000929,Study of Antibody T in Neurological,Phase 3,Terminated,113,2017
+NCT00000930,Study of Antibody U in Cancer,Phase 1,Terminated,372,2014
+NCT00000931,Study of Antibody V in Autoimmune,Phase 3,Suspended,596,2018
+NCT00000932,Study of Antibody W in Infectious Disease,Phase 2,Terminated,584,2010
+NCT00000933,Study of Antibody X in Cardiovascular,Phase 2,Completed,312,2017
+NCT00000934,Study of Antibody Y in Neurological,Phase 1,Suspended,417,2016
+NCT00000935,Study of Antibody Z in Cancer,Phase 2,Suspended,432,2020
+NCT00000936,Study of Antibody A in Autoimmune,Phase 2,Suspended,899,2014
+NCT00000937,Study of Antibody B in Infectious Disease,Phase 1,Recruiting,753,2021
+NCT00000938,Study of Antibody C in Cardiovascular,Phase 2,Terminated,710,2022
+NCT00000939,Study of Antibody D in Neurological,Phase 2,Suspended,594,2011
+NCT00000940,Study of Antibody E in Cancer,Phase 2,Suspended,333,2017
+NCT00000941,Study of Antibody F in Autoimmune,Phase 1,Recruiting,131,2021
+NCT00000942,Study of Antibody G in Infectious Disease,Phase 4,Suspended,510,2010
+NCT00000943,Study of Antibody H in Cardiovascular,Phase 4,Suspended,557,2012
+NCT00000944,Study of Antibody I in Neurological,Phase 3,Completed,238,2015
+NCT00000945,Study of Antibody J in Cancer,Phase 3,Suspended,237,2010
+NCT00000946,Study of Antibody K in Autoimmune,Phase 4,Recruiting,815,2012
+NCT00000947,Study of Antibody L in Infectious Disease,Phase 1,Terminated,925,2015
+NCT00000948,Study of Antibody M in Cardiovascular,Phase 2,Completed,813,2014
+NCT00000949,Study of Antibody N in Neurological,Phase 3,Completed,10,2021
+NCT00000950,Study of Antibody O in Cancer,Phase 4,Recruiting,349,2020
+NCT00000951,Study of Antibody P in Autoimmune,Phase 4,Completed,197,2015
+NCT00000952,Study of Antibody Q in Infectious Disease,Phase 1,Recruiting,281,2020
+NCT00000953,Study of Antibody R in Cardiovascular,Phase 1,Recruiting,491,2014
+NCT00000954,Study of Antibody S in Neurological,Phase 4,Suspended,623,2020
+NCT00000955,Study of Antibody T in Cancer,Phase 1,Terminated,446,2018
+NCT00000956,Study of Antibody U in Autoimmune,Phase 3,Recruiting,628,2012
+NCT00000957,Study of Antibody V in Infectious Disease,Phase 2,Completed,30,2021
+NCT00000958,Study of Antibody W in Cardiovascular,Phase 4,Completed,693,2020
+NCT00000959,Study of Antibody X in Neurological,Phase 2,Suspended,598,2015
+NCT00000960,Study of Antibody Y in Cancer,Phase 1,Completed,968,2016
+NCT00000961,Study of Antibody Z in Autoimmune,Phase 2,Suspended,832,2016
+NCT00000962,Study of Antibody A in Infectious Disease,Phase 4,Recruiting,776,2019
+NCT00000963,Study of Antibody B in Cardiovascular,Phase 2,Terminated,793,2020
+NCT00000964,Study of Antibody C in Neurological,Phase 1,Suspended,852,2016
+NCT00000965,Study of Antibody D in Cancer,Phase 2,Suspended,586,2022
+NCT00000966,Study of Antibody E in Autoimmune,Phase 2,Recruiting,136,2023
+NCT00000967,Study of Antibody F in Infectious Disease,Phase 2,Recruiting,467,2013
+NCT00000968,Study of Antibody G in Cardiovascular,Phase 1,Terminated,537,2022
+NCT00000969,Study of Antibody H in Neurological,Phase 4,Terminated,975,2011
+NCT00000970,Study of Antibody I in Cancer,Phase 4,Terminated,678,2012
+NCT00000971,Study of Antibody J in Autoimmune,Phase 3,Suspended,579,2020
+NCT00000972,Study of Antibody K in Infectious Disease,Phase 4,Terminated,734,2010
+NCT00000973,Study of Antibody L in Cardiovascular,Phase 3,Recruiting,685,2016
+NCT00000974,Study of Antibody M in Neurological,Phase 2,Completed,979,2010
+NCT00000975,Study of Antibody N in Cancer,Phase 2,Recruiting,474,2022
+NCT00000976,Study of Antibody O in Autoimmune,Phase 4,Recruiting,253,2017
+NCT00000977,Study of Antibody P in Infectious Disease,Phase 4,Recruiting,619,2010
+NCT00000978,Study of Antibody Q in Cardiovascular,Phase 3,Terminated,986,2023
+NCT00000979,Study of Antibody R in Neurological,Phase 4,Suspended,657,2023
+NCT00000980,Study of Antibody S in Cancer,Phase 4,Completed,992,2018
+NCT00000981,Study of Antibody T in Autoimmune,Phase 1,Completed,820,2023
+NCT00000982,Study of Antibody U in Infectious Disease,Phase 1,Completed,520,2013
+NCT00000983,Study of Antibody V in Cardiovascular,Phase 3,Completed,683,2023
+NCT00000984,Study of Antibody W in Neurological,Phase 1,Recruiting,806,2010
+NCT00000985,Study of Antibody X in Cancer,Phase 4,Suspended,598,2020
+NCT00000986,Study of Antibody Y in Autoimmune,Phase 2,Terminated,80,2010
+NCT00000987,Study of Antibody Z in Infectious Disease,Phase 1,Suspended,796,2021
+NCT00000988,Study of Antibody A in Cardiovascular,Phase 1,Suspended,264,2022
+NCT00000989,Study of Antibody B in Neurological,Phase 4,Recruiting,58,2014
+NCT00000990,Study of Antibody C in Cancer,Phase 2,Terminated,563,2020
+NCT00000991,Study of Antibody D in Autoimmune,Phase 1,Suspended,954,2021
+NCT00000992,Study of Antibody E in Infectious Disease,Phase 2,Suspended,536,2010
+NCT00000993,Study of Antibody F in Cardiovascular,Phase 2,Recruiting,287,2010
+NCT00000994,Study of Antibody G in Neurological,Phase 4,Suspended,482,2023
+NCT00000995,Study of Antibody H in Cancer,Phase 4,Recruiting,527,2021
+NCT00000996,Study of Antibody I in Autoimmune,Phase 2,Terminated,157,2017
+NCT00000997,Study of Antibody J in Infectious Disease,Phase 4,Completed,552,2014
+NCT00000998,Study of Antibody K in Cardiovascular,Phase 1,Recruiting,386,2020
+NCT00000999,Study of Antibody L in Neurological,Phase 4,Completed,574,2018
