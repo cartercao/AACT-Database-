@@ -1,0 +1,515 @@
+nct_id,intervention_name,intervention_type,intervention_description
+NCT36359049,Rituximab,Biological,Rituximab for Lymphoma
+NCT48729418,Rituximab,Biological,Rituximab for Lymphoma
+NCT32734633,Rituximab,Biological,Rituximab for Lymphoma
+NCT57871801,Rituximab,Biological,Rituximab for Lymphoma
+NCT83581942,Rituximab,Biological,Rituximab for Lymphoma
+NCT23823136,Rituximab,Biological,Rituximab for Lymphoma
+NCT93654326,Rituximab,Biological,Rituximab for Lymphoma
+NCT64586623,Rituximab,Biological,Rituximab for Lymphoma
+NCT17057020,Rituximab,Biological,Rituximab for Lymphoma
+NCT44586030,Rituximab,Biological,Rituximab for Lymphoma
+NCT67064918,Rituximab,Biological,Rituximab for Lymphoma
+NCT98784408,Rituximab,Biological,Rituximab for Leukemia
+NCT16782352,Rituximab,Biological,Rituximab for Leukemia
+NCT85076861,Rituximab,Biological,Rituximab for Leukemia
+NCT82030671,Rituximab,Biological,Rituximab for Leukemia
+NCT68989080,Rituximab,Biological,Rituximab for Leukemia
+NCT69137751,Rituximab,Biological,Rituximab for Leukemia
+NCT48835969,Rituximab,Biological,Rituximab for Leukemia
+NCT59816313,Rituximab,Biological,Rituximab for Leukemia
+NCT57743063,Rituximab,Biological,Rituximab for Leukemia
+NCT91513091,Rituximab,Biological,Rituximab for Multiple Sclerosis
+NCT24762298,Rituximab,Biological,Rituximab for Multiple Sclerosis
+NCT29922611,Rituximab,Biological,Rituximab for Multiple Sclerosis
+NCT70687198,Rituximab,Biological,Rituximab for Multiple Sclerosis
+NCT65627719,Rituximab,Biological,Rituximab for Multiple Sclerosis
+NCT39275439,Rituximab,Biological,Rituximab for Multiple Sclerosis
+NCT13086082,Rituximab,Biological,Rituximab for Multiple Sclerosis
+NCT16210378,Rituximab,Biological,Rituximab for Multiple Sclerosis
+NCT24962589,Obinutuzumab,Biological,Obinutuzumab for Lymphoma
+NCT32126806,Obinutuzumab,Biological,Obinutuzumab for Lymphoma
+NCT40778145,Obinutuzumab,Biological,Obinutuzumab for Lymphoma
+NCT27960108,Obinutuzumab,Biological,Obinutuzumab for Lymphoma
+NCT18105917,Obinutuzumab,Biological,Obinutuzumab for Lymphoma
+NCT47616921,Obinutuzumab,Biological,Obinutuzumab for Lymphoma
+NCT63782469,Obinutuzumab,Biological,Obinutuzumab for Leukemia
+NCT20258271,Obinutuzumab,Biological,Obinutuzumab for Leukemia
+NCT94625568,Obinutuzumab,Biological,Obinutuzumab for Leukemia
+NCT51289540,Obinutuzumab,Biological,Obinutuzumab for Leukemia
+NCT45429745,Obinutuzumab,Biological,Obinutuzumab for Leukemia
+NCT15896378,Obinutuzumab,Biological,Obinutuzumab for Leukemia
+NCT93671633,Obinutuzumab,Biological,Obinutuzumab for Multiple Sclerosis
+NCT93467774,Obinutuzumab,Biological,Obinutuzumab for Multiple Sclerosis
+NCT93947495,Obinutuzumab,Biological,Obinutuzumab for Multiple Sclerosis
+NCT21889641,Obinutuzumab,Biological,Obinutuzumab for Multiple Sclerosis
+NCT32396804,Obinutuzumab,Biological,Obinutuzumab for Multiple Sclerosis
+NCT99144820,Obinutuzumab,Biological,Obinutuzumab for Multiple Sclerosis
+NCT23459864,Obinutuzumab,Biological,Obinutuzumab for Multiple Sclerosis
+NCT29029783,Obinutuzumab,Biological,Obinutuzumab for Multiple Sclerosis
+NCT84463325,Obinutuzumab,Biological,Obinutuzumab for Multiple Sclerosis
+NCT27329313,Ofatumumab,Biological,Ofatumumab for Lymphoma
+NCT37540896,Ofatumumab,Biological,Ofatumumab for Lymphoma
+NCT89973394,Ofatumumab,Biological,Ofatumumab for Lymphoma
+NCT77548914,Ofatumumab,Biological,Ofatumumab for Lymphoma
+NCT64988149,Ofatumumab,Biological,Ofatumumab for Lymphoma
+NCT69249820,Ofatumumab,Biological,Ofatumumab for Lymphoma
+NCT78462301,Ofatumumab,Biological,Ofatumumab for Lymphoma
+NCT98305573,Ofatumumab,Biological,Ofatumumab for Leukemia
+NCT25684850,Ofatumumab,Biological,Ofatumumab for Leukemia
+NCT35402693,Ofatumumab,Biological,Ofatumumab for Leukemia
+NCT10712776,Ofatumumab,Biological,Ofatumumab for Leukemia
+NCT25015027,Ofatumumab,Biological,Ofatumumab for Leukemia
+NCT11694638,Ofatumumab,Biological,Ofatumumab for Leukemia
+NCT76832648,Ofatumumab,Biological,Ofatumumab for Leukemia
+NCT35783129,Ofatumumab,Biological,Ofatumumab for Leukemia
+NCT36392133,Ofatumumab,Biological,Ofatumumab for Leukemia
+NCT49566743,Ofatumumab,Biological,Ofatumumab for Leukemia
+NCT66807541,Ofatumumab,Biological,Ofatumumab for Leukemia
+NCT17616731,Ofatumumab,Biological,Ofatumumab for Multiple Sclerosis
+NCT15397926,Ofatumumab,Biological,Ofatumumab for Multiple Sclerosis
+NCT97402885,Ofatumumab,Biological,Ofatumumab for Multiple Sclerosis
+NCT86890998,Ofatumumab,Biological,Ofatumumab for Multiple Sclerosis
+NCT13167781,Ofatumumab,Biological,Ofatumumab for Multiple Sclerosis
+NCT76528896,Ofatumumab,Biological,Ofatumumab for Multiple Sclerosis
+NCT63286949,Ofatumumab,Biological,Ofatumumab for Multiple Sclerosis
+NCT86109948,Ocrelizumab,Biological,Ocrelizumab for Lymphoma
+NCT86915742,Ocrelizumab,Biological,Ocrelizumab for Lymphoma
+NCT41400974,Ocrelizumab,Biological,Ocrelizumab for Lymphoma
+NCT57661992,Ocrelizumab,Biological,Ocrelizumab for Lymphoma
+NCT39141575,Ocrelizumab,Biological,Ocrelizumab for Lymphoma
+NCT73360696,Ocrelizumab,Biological,Ocrelizumab for Leukemia
+NCT72416710,Ocrelizumab,Biological,Ocrelizumab for Leukemia
+NCT42921792,Ocrelizumab,Biological,Ocrelizumab for Leukemia
+NCT67285403,Ocrelizumab,Biological,Ocrelizumab for Leukemia
+NCT16510682,Ocrelizumab,Biological,Ocrelizumab for Leukemia
+NCT62742948,Ocrelizumab,Biological,Ocrelizumab for Leukemia
+NCT99184747,Ocrelizumab,Biological,Ocrelizumab for Leukemia
+NCT33886240,Ocrelizumab,Biological,Ocrelizumab for Leukemia
+NCT89092666,Ocrelizumab,Biological,Ocrelizumab for Leukemia
+NCT58611678,Ocrelizumab,Biological,Ocrelizumab for Leukemia
+NCT15614833,Ocrelizumab,Biological,Ocrelizumab for Leukemia
+NCT74925460,Ocrelizumab,Biological,Ocrelizumab for Multiple Sclerosis
+NCT89346782,Ocrelizumab,Biological,Ocrelizumab for Multiple Sclerosis
+NCT56705534,Ocrelizumab,Biological,Ocrelizumab for Multiple Sclerosis
+NCT68759844,Ocrelizumab,Biological,Ocrelizumab for Multiple Sclerosis
+NCT79393535,Ocrelizumab,Biological,Ocrelizumab for Multiple Sclerosis
+NCT24029614,Ocrelizumab,Biological,Ocrelizumab for Multiple Sclerosis
+NCT30495566,Ocrelizumab,Biological,Ocrelizumab for Multiple Sclerosis
+NCT82052914,Ocrelizumab,Biological,Ocrelizumab for Multiple Sclerosis
+NCT86855955,Ocrelizumab,Biological,Ocrelizumab for Multiple Sclerosis
+NCT92491261,Trastuzumab,Biological,Trastuzumab for Breast Cancer
+NCT18101054,Trastuzumab,Biological,Trastuzumab for Breast Cancer
+NCT38706919,Trastuzumab,Biological,Trastuzumab for Breast Cancer
+NCT24725663,Trastuzumab,Biological,Trastuzumab for Breast Cancer
+NCT50442191,Trastuzumab,Biological,Trastuzumab for Breast Cancer
+NCT53460629,Trastuzumab,Biological,Trastuzumab for Breast Cancer
+NCT94079951,Trastuzumab,Biological,Trastuzumab for Gastric Cancer
+NCT39777525,Trastuzumab,Biological,Trastuzumab for Gastric Cancer
+NCT33301017,Trastuzumab,Biological,Trastuzumab for Gastric Cancer
+NCT76979198,Trastuzumab,Biological,Trastuzumab for Gastric Cancer
+NCT45563241,Trastuzumab,Biological,Trastuzumab for Gastric Cancer
+NCT94231093,Trastuzumab,Biological,Trastuzumab for Gastric Cancer
+NCT68557517,Trastuzumab,Biological,Trastuzumab for Gastric Cancer
+NCT69340701,Trastuzumab,Biological,Trastuzumab for Gastric Cancer
+NCT36116932,Trastuzumab,Biological,Trastuzumab for Esophageal Cancer
+NCT78005094,Trastuzumab,Biological,Trastuzumab for Esophageal Cancer
+NCT79923711,Trastuzumab,Biological,Trastuzumab for Esophageal Cancer
+NCT29469432,Trastuzumab,Biological,Trastuzumab for Esophageal Cancer
+NCT46616575,Trastuzumab,Biological,Trastuzumab for Esophageal Cancer
+NCT84496688,Trastuzumab,Biological,Trastuzumab for Esophageal Cancer
+NCT12976838,Trastuzumab,Biological,Trastuzumab for Esophageal Cancer
+NCT71697507,Trastuzumab,Biological,Trastuzumab for Esophageal Cancer
+NCT31880841,Trastuzumab,Biological,Trastuzumab for Esophageal Cancer
+NCT43793287,Pertuzumab,Biological,Pertuzumab for Breast Cancer
+NCT24407969,Pertuzumab,Biological,Pertuzumab for Breast Cancer
+NCT77108827,Pertuzumab,Biological,Pertuzumab for Breast Cancer
+NCT58387230,Pertuzumab,Biological,Pertuzumab for Breast Cancer
+NCT30700714,Pertuzumab,Biological,Pertuzumab for Breast Cancer
+NCT80130999,Pertuzumab,Biological,Pertuzumab for Breast Cancer
+NCT23534320,Pertuzumab,Biological,Pertuzumab for Gastric Cancer
+NCT90006506,Pertuzumab,Biological,Pertuzumab for Gastric Cancer
+NCT97858564,Pertuzumab,Biological,Pertuzumab for Gastric Cancer
+NCT16058594,Pertuzumab,Biological,Pertuzumab for Gastric Cancer
+NCT55337370,Pertuzumab,Biological,Pertuzumab for Gastric Cancer
+NCT97183937,Pertuzumab,Biological,Pertuzumab for Gastric Cancer
+NCT24473171,Pertuzumab,Biological,Pertuzumab for Gastric Cancer
+NCT37128190,Pertuzumab,Biological,Pertuzumab for Esophageal Cancer
+NCT29347995,Pertuzumab,Biological,Pertuzumab for Esophageal Cancer
+NCT28830407,Pertuzumab,Biological,Pertuzumab for Esophageal Cancer
+NCT60563372,Pertuzumab,Biological,Pertuzumab for Esophageal Cancer
+NCT43322529,Pertuzumab,Biological,Pertuzumab for Esophageal Cancer
+NCT79211980,Pertuzumab,Biological,Pertuzumab for Esophageal Cancer
+NCT58590759,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Breast Cancer
+NCT85983103,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Breast Cancer
+NCT11430383,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Breast Cancer
+NCT18866819,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Breast Cancer
+NCT52824323,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Breast Cancer
+NCT43413000,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Breast Cancer
+NCT12062929,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Breast Cancer
+NCT88116734,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Breast Cancer
+NCT73872146,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Breast Cancer
+NCT44433687,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Gastric Cancer
+NCT66133386,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Gastric Cancer
+NCT25951363,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Gastric Cancer
+NCT52669879,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Gastric Cancer
+NCT87151190,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Gastric Cancer
+NCT96037081,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Gastric Cancer
+NCT66539686,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Gastric Cancer
+NCT16257188,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Gastric Cancer
+NCT11260808,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Gastric Cancer
+NCT58072648,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Gastric Cancer
+NCT66352181,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Esophageal Cancer
+NCT66991801,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Esophageal Cancer
+NCT38764835,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Esophageal Cancer
+NCT33237170,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Esophageal Cancer
+NCT49181561,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Esophageal Cancer
+NCT77286202,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Esophageal Cancer
+NCT21048793,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Esophageal Cancer
+NCT36169219,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Esophageal Cancer
+NCT17708466,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Esophageal Cancer
+NCT37664544,Ado-trastuzumab emtansine,Biological,Ado-trastuzumab emtansine for Esophageal Cancer
+NCT29066790,Bevacizumab,Biological,Bevacizumab for Colorectal Cancer
+NCT83403465,Bevacizumab,Biological,Bevacizumab for Colorectal Cancer
+NCT64315172,Bevacizumab,Biological,Bevacizumab for Colorectal Cancer
+NCT99506370,Bevacizumab,Biological,Bevacizumab for Colorectal Cancer
+NCT82032992,Bevacizumab,Biological,Bevacizumab for Colorectal Cancer
+NCT62713148,Bevacizumab,Biological,Bevacizumab for Colorectal Cancer
+NCT46207933,Bevacizumab,Biological,Bevacizumab for Colorectal Cancer
+NCT78174268,Bevacizumab,Biological,Bevacizumab for Colorectal Cancer
+NCT77476911,Bevacizumab,Biological,Bevacizumab for Colorectal Cancer
+NCT71882375,Bevacizumab,Biological,Bevacizumab for Lung Cancer
+NCT67291452,Bevacizumab,Biological,Bevacizumab for Lung Cancer
+NCT10154072,Bevacizumab,Biological,Bevacizumab for Lung Cancer
+NCT12243516,Bevacizumab,Biological,Bevacizumab for Lung Cancer
+NCT52650141,Bevacizumab,Biological,Bevacizumab for Lung Cancer
+NCT11919204,Bevacizumab,Biological,Bevacizumab for Lung Cancer
+NCT61859305,Bevacizumab,Biological,Bevacizumab for Lung Cancer
+NCT62533883,Bevacizumab,Biological,Bevacizumab for Lung Cancer
+NCT10274697,Bevacizumab,Biological,Bevacizumab for Ovarian Cancer
+NCT76174895,Bevacizumab,Biological,Bevacizumab for Ovarian Cancer
+NCT17855717,Bevacizumab,Biological,Bevacizumab for Ovarian Cancer
+NCT44443320,Bevacizumab,Biological,Bevacizumab for Ovarian Cancer
+NCT57372270,Bevacizumab,Biological,Bevacizumab for Ovarian Cancer
+NCT22593637,Bevacizumab,Biological,Bevacizumab for Ovarian Cancer
+NCT40222790,Bevacizumab,Biological,Bevacizumab for Ovarian Cancer
+NCT29125103,Bevacizumab,Biological,Bevacizumab for Ovarian Cancer
+NCT15911018,Ranibizumab,Biological,Ranibizumab for Colorectal Cancer
+NCT79899332,Ranibizumab,Biological,Ranibizumab for Colorectal Cancer
+NCT56800937,Ranibizumab,Biological,Ranibizumab for Colorectal Cancer
+NCT42097829,Ranibizumab,Biological,Ranibizumab for Colorectal Cancer
+NCT59772960,Ranibizumab,Biological,Ranibizumab for Colorectal Cancer
+NCT43823427,Ranibizumab,Biological,Ranibizumab for Colorectal Cancer
+NCT18471639,Ranibizumab,Biological,Ranibizumab for Colorectal Cancer
+NCT65835095,Ranibizumab,Biological,Ranibizumab for Colorectal Cancer
+NCT71331350,Ranibizumab,Biological,Ranibizumab for Colorectal Cancer
+NCT83319508,Ranibizumab,Biological,Ranibizumab for Colorectal Cancer
+NCT80748979,Ranibizumab,Biological,Ranibizumab for Lung Cancer
+NCT86164621,Ranibizumab,Biological,Ranibizumab for Lung Cancer
+NCT15283476,Ranibizumab,Biological,Ranibizumab for Lung Cancer
+NCT79560343,Ranibizumab,Biological,Ranibizumab for Lung Cancer
+NCT30751078,Ranibizumab,Biological,Ranibizumab for Lung Cancer
+NCT85616530,Ranibizumab,Biological,Ranibizumab for Lung Cancer
+NCT53998641,Ranibizumab,Biological,Ranibizumab for Lung Cancer
+NCT71515230,Ranibizumab,Biological,Ranibizumab for Lung Cancer
+NCT65927640,Ranibizumab,Biological,Ranibizumab for Lung Cancer
+NCT12503048,Ranibizumab,Biological,Ranibizumab for Lung Cancer
+NCT33948851,Ranibizumab,Biological,Ranibizumab for Ovarian Cancer
+NCT21950629,Ranibizumab,Biological,Ranibizumab for Ovarian Cancer
+NCT66231169,Ranibizumab,Biological,Ranibizumab for Ovarian Cancer
+NCT92095482,Ranibizumab,Biological,Ranibizumab for Ovarian Cancer
+NCT46905073,Ranibizumab,Biological,Ranibizumab for Ovarian Cancer
+NCT50887043,Ranibizumab,Biological,Ranibizumab for Ovarian Cancer
+NCT32940316,Ranibizumab,Biological,Ranibizumab for Ovarian Cancer
+NCT32427062,Ranibizumab,Biological,Ranibizumab for Ovarian Cancer
+NCT30875486,Ranibizumab,Biological,Ranibizumab for Ovarian Cancer
+NCT89856329,Aflibercept,Biological,Aflibercept for Colorectal Cancer
+NCT38428726,Aflibercept,Biological,Aflibercept for Colorectal Cancer
+NCT69062284,Aflibercept,Biological,Aflibercept for Colorectal Cancer
+NCT60969132,Aflibercept,Biological,Aflibercept for Colorectal Cancer
+NCT93347085,Aflibercept,Biological,Aflibercept for Colorectal Cancer
+NCT42621682,Aflibercept,Biological,Aflibercept for Colorectal Cancer
+NCT46851208,Aflibercept,Biological,Aflibercept for Colorectal Cancer
+NCT71538311,Aflibercept,Biological,Aflibercept for Colorectal Cancer
+NCT22125377,Aflibercept,Biological,Aflibercept for Colorectal Cancer
+NCT38335861,Aflibercept,Biological,Aflibercept for Lung Cancer
+NCT63206947,Aflibercept,Biological,Aflibercept for Lung Cancer
+NCT53563341,Aflibercept,Biological,Aflibercept for Lung Cancer
+NCT94925643,Aflibercept,Biological,Aflibercept for Lung Cancer
+NCT38572955,Aflibercept,Biological,Aflibercept for Lung Cancer
+NCT44754290,Aflibercept,Biological,Aflibercept for Lung Cancer
+NCT65193257,Aflibercept,Biological,Aflibercept for Lung Cancer
+NCT58362627,Aflibercept,Biological,Aflibercept for Lung Cancer
+NCT58416245,Aflibercept,Biological,Aflibercept for Lung Cancer
+NCT68466127,Aflibercept,Biological,Aflibercept for Lung Cancer
+NCT93609410,Aflibercept,Biological,Aflibercept for Ovarian Cancer
+NCT64850646,Aflibercept,Biological,Aflibercept for Ovarian Cancer
+NCT79583245,Aflibercept,Biological,Aflibercept for Ovarian Cancer
+NCT85193572,Aflibercept,Biological,Aflibercept for Ovarian Cancer
+NCT61798014,Aflibercept,Biological,Aflibercept for Ovarian Cancer
+NCT20608576,Aflibercept,Biological,Aflibercept for Ovarian Cancer
+NCT16668712,Pembrolizumab,Biological,Pembrolizumab for Melanoma
+NCT21782304,Pembrolizumab,Biological,Pembrolizumab for Melanoma
+NCT44376605,Pembrolizumab,Biological,Pembrolizumab for Melanoma
+NCT36962884,Pembrolizumab,Biological,Pembrolizumab for Melanoma
+NCT21130707,Pembrolizumab,Biological,Pembrolizumab for Melanoma
+NCT63699390,Pembrolizumab,Biological,Pembrolizumab for Melanoma
+NCT29932113,Pembrolizumab,Biological,Pembrolizumab for Melanoma
+NCT29738899,Pembrolizumab,Biological,Pembrolizumab for Melanoma
+NCT90042183,Pembrolizumab,Biological,Pembrolizumab for Melanoma
+NCT15817360,Pembrolizumab,Biological,Pembrolizumab for Melanoma
+NCT50144995,Pembrolizumab,Biological,Pembrolizumab for Melanoma
+NCT64224792,Pembrolizumab,Biological,Pembrolizumab for Melanoma
+NCT31924506,Pembrolizumab,Biological,Pembrolizumab for Lung Cancer
+NCT29868322,Pembrolizumab,Biological,Pembrolizumab for Lung Cancer
+NCT34939790,Pembrolizumab,Biological,Pembrolizumab for Lung Cancer
+NCT81489568,Pembrolizumab,Biological,Pembrolizumab for Lung Cancer
+NCT37990206,Pembrolizumab,Biological,Pembrolizumab for Lung Cancer
+NCT10545464,Pembrolizumab,Biological,Pembrolizumab for Lung Cancer
+NCT97611651,Pembrolizumab,Biological,Pembrolizumab for Lung Cancer
+NCT14202147,Pembrolizumab,Biological,Pembrolizumab for Lung Cancer
+NCT50717175,Pembrolizumab,Biological,Pembrolizumab for Lymphoma
+NCT62099161,Pembrolizumab,Biological,Pembrolizumab for Lymphoma
+NCT28982172,Pembrolizumab,Biological,Pembrolizumab for Lymphoma
+NCT63954740,Pembrolizumab,Biological,Pembrolizumab for Lymphoma
+NCT37315303,Pembrolizumab,Biological,Pembrolizumab for Lymphoma
+NCT85480230,Pembrolizumab,Biological,Pembrolizumab for Lymphoma
+NCT23711365,Pembrolizumab,Biological,Pembrolizumab for Lymphoma
+NCT35260372,Pembrolizumab,Biological,Pembrolizumab for Lymphoma
+NCT82427229,Pembrolizumab,Biological,Pembrolizumab for Lymphoma
+NCT83392707,Pembrolizumab,Biological,Pembrolizumab for Lymphoma
+NCT35460790,Pembrolizumab,Biological,Pembrolizumab for Lymphoma
+NCT75842185,Nivolumab,Biological,Nivolumab for Melanoma
+NCT17518948,Nivolumab,Biological,Nivolumab for Melanoma
+NCT80331730,Nivolumab,Biological,Nivolumab for Melanoma
+NCT86459434,Nivolumab,Biological,Nivolumab for Melanoma
+NCT39967869,Nivolumab,Biological,Nivolumab for Melanoma
+NCT24341371,Nivolumab,Biological,Nivolumab for Melanoma
+NCT32889601,Nivolumab,Biological,Nivolumab for Melanoma
+NCT75925533,Nivolumab,Biological,Nivolumab for Melanoma
+NCT94198799,Nivolumab,Biological,Nivolumab for Lung Cancer
+NCT73617729,Nivolumab,Biological,Nivolumab for Lung Cancer
+NCT15479368,Nivolumab,Biological,Nivolumab for Lung Cancer
+NCT97301291,Nivolumab,Biological,Nivolumab for Lung Cancer
+NCT60553499,Nivolumab,Biological,Nivolumab for Lung Cancer
+NCT55268605,Nivolumab,Biological,Nivolumab for Lung Cancer
+NCT39313364,Nivolumab,Biological,Nivolumab for Lung Cancer
+NCT18387314,Nivolumab,Biological,Nivolumab for Lung Cancer
+NCT86678181,Nivolumab,Biological,Nivolumab for Lung Cancer
+NCT75343369,Nivolumab,Biological,Nivolumab for Lung Cancer
+NCT42505109,Nivolumab,Biological,Nivolumab for Lung Cancer
+NCT62260047,Nivolumab,Biological,Nivolumab for Lung Cancer
+NCT80938625,Nivolumab,Biological,Nivolumab for Lymphoma
+NCT77308094,Nivolumab,Biological,Nivolumab for Lymphoma
+NCT90762726,Nivolumab,Biological,Nivolumab for Lymphoma
+NCT76046465,Nivolumab,Biological,Nivolumab for Lymphoma
+NCT78929451,Nivolumab,Biological,Nivolumab for Lymphoma
+NCT16638362,Nivolumab,Biological,Nivolumab for Lymphoma
+NCT87218069,Nivolumab,Biological,Nivolumab for Lymphoma
+NCT85275764,Nivolumab,Biological,Nivolumab for Lymphoma
+NCT64596365,Nivolumab,Biological,Nivolumab for Lymphoma
+NCT81751883,Nivolumab,Biological,Nivolumab for Lymphoma
+NCT58789817,Nivolumab,Biological,Nivolumab for Lymphoma
+NCT53634000,Nivolumab,Biological,Nivolumab for Lymphoma
+NCT90878202,Cemiplimab,Biological,Cemiplimab for Melanoma
+NCT53849951,Cemiplimab,Biological,Cemiplimab for Melanoma
+NCT41906780,Cemiplimab,Biological,Cemiplimab for Melanoma
+NCT15135495,Cemiplimab,Biological,Cemiplimab for Melanoma
+NCT17616763,Cemiplimab,Biological,Cemiplimab for Melanoma
+NCT90088890,Cemiplimab,Biological,Cemiplimab for Melanoma
+NCT66786008,Cemiplimab,Biological,Cemiplimab for Melanoma
+NCT16562248,Cemiplimab,Biological,Cemiplimab for Melanoma
+NCT47901988,Cemiplimab,Biological,Cemiplimab for Melanoma
+NCT58062277,Cemiplimab,Biological,Cemiplimab for Melanoma
+NCT65516625,Cemiplimab,Biological,Cemiplimab for Melanoma
+NCT29084518,Cemiplimab,Biological,Cemiplimab for Lung Cancer
+NCT44253125,Cemiplimab,Biological,Cemiplimab for Lung Cancer
+NCT25404073,Cemiplimab,Biological,Cemiplimab for Lung Cancer
+NCT68692331,Cemiplimab,Biological,Cemiplimab for Lung Cancer
+NCT73424244,Cemiplimab,Biological,Cemiplimab for Lung Cancer
+NCT41033207,Cemiplimab,Biological,Cemiplimab for Lung Cancer
+NCT12959918,Cemiplimab,Biological,Cemiplimab for Lung Cancer
+NCT24693985,Cemiplimab,Biological,Cemiplimab for Lung Cancer
+NCT54177517,Cemiplimab,Biological,Cemiplimab for Lung Cancer
+NCT63485508,Cemiplimab,Biological,Cemiplimab for Lung Cancer
+NCT12530506,Cemiplimab,Biological,Cemiplimab for Lymphoma
+NCT72297871,Cemiplimab,Biological,Cemiplimab for Lymphoma
+NCT24136200,Cemiplimab,Biological,Cemiplimab for Lymphoma
+NCT21710226,Cemiplimab,Biological,Cemiplimab for Lymphoma
+NCT39801497,Cemiplimab,Biological,Cemiplimab for Lymphoma
+NCT67291114,Cemiplimab,Biological,Cemiplimab for Lymphoma
+NCT87668614,Cemiplimab,Biological,Cemiplimab for Lymphoma
+NCT25829882,Cemiplimab,Biological,Cemiplimab for Lymphoma
+NCT33583694,Atezolizumab,Biological,Atezolizumab for Lung Cancer
+NCT46034490,Atezolizumab,Biological,Atezolizumab for Lung Cancer
+NCT66716385,Atezolizumab,Biological,Atezolizumab for Lung Cancer
+NCT65899919,Atezolizumab,Biological,Atezolizumab for Lung Cancer
+NCT80575300,Atezolizumab,Biological,Atezolizumab for Lung Cancer
+NCT75681869,Atezolizumab,Biological,Atezolizumab for Lung Cancer
+NCT96504389,Atezolizumab,Biological,Atezolizumab for Lung Cancer
+NCT46042865,Atezolizumab,Biological,Atezolizumab for Bladder Cancer
+NCT64054453,Atezolizumab,Biological,Atezolizumab for Bladder Cancer
+NCT99658277,Atezolizumab,Biological,Atezolizumab for Bladder Cancer
+NCT88131226,Atezolizumab,Biological,Atezolizumab for Bladder Cancer
+NCT56751684,Atezolizumab,Biological,Atezolizumab for Bladder Cancer
+NCT91343847,Atezolizumab,Biological,Atezolizumab for Bladder Cancer
+NCT98559134,Atezolizumab,Biological,Atezolizumab for Bladder Cancer
+NCT70109965,Atezolizumab,Biological,Atezolizumab for Bladder Cancer
+NCT75862657,Atezolizumab,Biological,Atezolizumab for Breast Cancer
+NCT76824808,Atezolizumab,Biological,Atezolizumab for Breast Cancer
+NCT25629315,Atezolizumab,Biological,Atezolizumab for Breast Cancer
+NCT32803597,Atezolizumab,Biological,Atezolizumab for Breast Cancer
+NCT67098592,Atezolizumab,Biological,Atezolizumab for Breast Cancer
+NCT88982673,Atezolizumab,Biological,Atezolizumab for Breast Cancer
+NCT73325873,Atezolizumab,Biological,Atezolizumab for Breast Cancer
+NCT69726904,Durvalumab,Biological,Durvalumab for Lung Cancer
+NCT53036638,Durvalumab,Biological,Durvalumab for Lung Cancer
+NCT85353811,Durvalumab,Biological,Durvalumab for Lung Cancer
+NCT21304959,Durvalumab,Biological,Durvalumab for Lung Cancer
+NCT77829873,Durvalumab,Biological,Durvalumab for Lung Cancer
+NCT29437925,Durvalumab,Biological,Durvalumab for Lung Cancer
+NCT98990326,Durvalumab,Biological,Durvalumab for Lung Cancer
+NCT62312552,Durvalumab,Biological,Durvalumab for Lung Cancer
+NCT10860513,Durvalumab,Biological,Durvalumab for Bladder Cancer
+NCT65333032,Durvalumab,Biological,Durvalumab for Bladder Cancer
+NCT70836974,Durvalumab,Biological,Durvalumab for Bladder Cancer
+NCT50158543,Durvalumab,Biological,Durvalumab for Bladder Cancer
+NCT16316498,Durvalumab,Biological,Durvalumab for Bladder Cancer
+NCT99530343,Durvalumab,Biological,Durvalumab for Bladder Cancer
+NCT58137453,Durvalumab,Biological,Durvalumab for Breast Cancer
+NCT44823892,Durvalumab,Biological,Durvalumab for Breast Cancer
+NCT51078860,Durvalumab,Biological,Durvalumab for Breast Cancer
+NCT55975214,Durvalumab,Biological,Durvalumab for Breast Cancer
+NCT34466698,Durvalumab,Biological,Durvalumab for Breast Cancer
+NCT27298431,Avelumab,Biological,Avelumab for Lung Cancer
+NCT65573035,Avelumab,Biological,Avelumab for Lung Cancer
+NCT80442267,Avelumab,Biological,Avelumab for Lung Cancer
+NCT63997255,Avelumab,Biological,Avelumab for Lung Cancer
+NCT48832433,Avelumab,Biological,Avelumab for Lung Cancer
+NCT58719623,Avelumab,Biological,Avelumab for Lung Cancer
+NCT14177472,Avelumab,Biological,Avelumab for Lung Cancer
+NCT42918888,Avelumab,Biological,Avelumab for Lung Cancer
+NCT29118784,Avelumab,Biological,Avelumab for Bladder Cancer
+NCT12332652,Avelumab,Biological,Avelumab for Bladder Cancer
+NCT72626465,Avelumab,Biological,Avelumab for Bladder Cancer
+NCT88737941,Avelumab,Biological,Avelumab for Bladder Cancer
+NCT25662679,Avelumab,Biological,Avelumab for Bladder Cancer
+NCT60509361,Avelumab,Biological,Avelumab for Bladder Cancer
+NCT49720492,Avelumab,Biological,Avelumab for Bladder Cancer
+NCT40175824,Avelumab,Biological,Avelumab for Bladder Cancer
+NCT59769233,Avelumab,Biological,Avelumab for Bladder Cancer
+NCT57904088,Avelumab,Biological,Avelumab for Breast Cancer
+NCT46535339,Avelumab,Biological,Avelumab for Breast Cancer
+NCT89225649,Avelumab,Biological,Avelumab for Breast Cancer
+NCT59440678,Avelumab,Biological,Avelumab for Breast Cancer
+NCT37505588,Avelumab,Biological,Avelumab for Breast Cancer
+NCT24133250,Avelumab,Biological,Avelumab for Breast Cancer
+NCT33373656,Ipilimumab,Biological,Ipilimumab for Melanoma
+NCT97104381,Ipilimumab,Biological,Ipilimumab for Melanoma
+NCT11931862,Ipilimumab,Biological,Ipilimumab for Melanoma
+NCT87230481,Ipilimumab,Biological,Ipilimumab for Melanoma
+NCT16335321,Ipilimumab,Biological,Ipilimumab for Melanoma
+NCT28519311,Ipilimumab,Biological,Ipilimumab for Melanoma
+NCT27084854,Ipilimumab,Biological,Ipilimumab for Melanoma
+NCT64768987,Ipilimumab,Biological,Ipilimumab for Lung Cancer
+NCT92322273,Ipilimumab,Biological,Ipilimumab for Lung Cancer
+NCT90382262,Ipilimumab,Biological,Ipilimumab for Lung Cancer
+NCT50643016,Ipilimumab,Biological,Ipilimumab for Lung Cancer
+NCT60442511,Ipilimumab,Biological,Ipilimumab for Lung Cancer
+NCT37231699,Ipilimumab,Biological,Ipilimumab for Lung Cancer
+NCT91101049,Ipilimumab,Biological,Ipilimumab for Lung Cancer
+NCT57054706,Ipilimumab,Biological,Ipilimumab for Lung Cancer
+NCT78431036,Tremelimumab,Biological,Tremelimumab for Melanoma
+NCT16337078,Tremelimumab,Biological,Tremelimumab for Melanoma
+NCT10417905,Tremelimumab,Biological,Tremelimumab for Melanoma
+NCT21408995,Tremelimumab,Biological,Tremelimumab for Melanoma
+NCT13572258,Tremelimumab,Biological,Tremelimumab for Melanoma
+NCT32770173,Tremelimumab,Biological,Tremelimumab for Melanoma
+NCT97225414,Tremelimumab,Biological,Tremelimumab for Melanoma
+NCT41223122,Tremelimumab,Biological,Tremelimumab for Melanoma
+NCT56265315,Tremelimumab,Biological,Tremelimumab for Melanoma
+NCT16513150,Tremelimumab,Biological,Tremelimumab for Lung Cancer
+NCT50986875,Tremelimumab,Biological,Tremelimumab for Lung Cancer
+NCT54799425,Tremelimumab,Biological,Tremelimumab for Lung Cancer
+NCT89252381,Tremelimumab,Biological,Tremelimumab for Lung Cancer
+NCT17690425,Tremelimumab,Biological,Tremelimumab for Lung Cancer
+NCT79933371,Tremelimumab,Biological,Tremelimumab for Lung Cancer
+NCT43887240,Tremelimumab,Biological,Tremelimumab for Lung Cancer
+NCT12158858,Tremelimumab,Biological,Tremelimumab for Lung Cancer
+NCT33337016,Tremelimumab,Biological,Tremelimumab for Lung Cancer
+NCT46325025,Tremelimumab,Biological,Tremelimumab for Lung Cancer
+NCT11007461,Adalimumab,Biological,Adalimumab for Rheumatoid Arthritis
+NCT97748109,Adalimumab,Biological,Adalimumab for Rheumatoid Arthritis
+NCT35573456,Adalimumab,Biological,Adalimumab for Rheumatoid Arthritis
+NCT43966690,Adalimumab,Biological,Adalimumab for Rheumatoid Arthritis
+NCT85933226,Adalimumab,Biological,Adalimumab for Rheumatoid Arthritis
+NCT92756595,Adalimumab,Biological,Adalimumab for Rheumatoid Arthritis
+NCT99489167,Adalimumab,Biological,Adalimumab for Rheumatoid Arthritis
+NCT80682174,Adalimumab,Biological,Adalimumab for Rheumatoid Arthritis
+NCT24135362,Adalimumab,Biological,Adalimumab for Crohn's Disease
+NCT94038370,Adalimumab,Biological,Adalimumab for Crohn's Disease
+NCT50093936,Adalimumab,Biological,Adalimumab for Crohn's Disease
+NCT48837019,Adalimumab,Biological,Adalimumab for Crohn's Disease
+NCT22311693,Adalimumab,Biological,Adalimumab for Crohn's Disease
+NCT74981713,Adalimumab,Biological,Adalimumab for Crohn's Disease
+NCT80758062,Adalimumab,Biological,Adalimumab for Crohn's Disease
+NCT80948906,Adalimumab,Biological,Adalimumab for Crohn's Disease
+NCT37486257,Adalimumab,Biological,Adalimumab for Crohn's Disease
+NCT96417196,Adalimumab,Biological,Adalimumab for Psoriasis
+NCT44511828,Adalimumab,Biological,Adalimumab for Psoriasis
+NCT32085804,Adalimumab,Biological,Adalimumab for Psoriasis
+NCT92889143,Adalimumab,Biological,Adalimumab for Psoriasis
+NCT15815294,Adalimumab,Biological,Adalimumab for Psoriasis
+NCT68719223,Adalimumab,Biological,Adalimumab for Psoriasis
+NCT30399032,Adalimumab,Biological,Adalimumab for Psoriasis
+NCT79831002,Adalimumab,Biological,Adalimumab for Psoriasis
+NCT49032232,Adalimumab,Biological,Adalimumab for Psoriasis
+NCT55167681,Infliximab,Biological,Infliximab for Rheumatoid Arthritis
+NCT16019324,Infliximab,Biological,Infliximab for Rheumatoid Arthritis
+NCT31936985,Infliximab,Biological,Infliximab for Rheumatoid Arthritis
+NCT75611145,Infliximab,Biological,Infliximab for Rheumatoid Arthritis
+NCT99787561,Infliximab,Biological,Infliximab for Rheumatoid Arthritis
+NCT24208608,Infliximab,Biological,Infliximab for Rheumatoid Arthritis
+NCT43982576,Infliximab,Biological,Infliximab for Rheumatoid Arthritis
+NCT31344084,Infliximab,Biological,Infliximab for Rheumatoid Arthritis
+NCT15451654,Infliximab,Biological,Infliximab for Rheumatoid Arthritis
+NCT90733242,Infliximab,Biological,Infliximab for Rheumatoid Arthritis
+NCT31094512,Infliximab,Biological,Infliximab for Crohn's Disease
+NCT82979804,Infliximab,Biological,Infliximab for Crohn's Disease
+NCT30804216,Infliximab,Biological,Infliximab for Crohn's Disease
+NCT47154172,Infliximab,Biological,Infliximab for Crohn's Disease
+NCT17286189,Infliximab,Biological,Infliximab for Crohn's Disease
+NCT97360248,Infliximab,Biological,Infliximab for Crohn's Disease
+NCT12891154,Infliximab,Biological,Infliximab for Crohn's Disease
+NCT17612082,Infliximab,Biological,Infliximab for Crohn's Disease
+NCT43370171,Infliximab,Biological,Infliximab for Crohn's Disease
+NCT93835633,Infliximab,Biological,Infliximab for Crohn's Disease
+NCT34886786,Infliximab,Biological,Infliximab for Psoriasis
+NCT12508045,Infliximab,Biological,Infliximab for Psoriasis
+NCT59756976,Infliximab,Biological,Infliximab for Psoriasis
+NCT20102274,Infliximab,Biological,Infliximab for Psoriasis
+NCT56010568,Infliximab,Biological,Infliximab for Psoriasis
+NCT82942613,Infliximab,Biological,Infliximab for Psoriasis
+NCT23874360,Infliximab,Biological,Infliximab for Psoriasis
+NCT73100492,Infliximab,Biological,Infliximab for Psoriasis
+NCT11972949,Infliximab,Biological,Infliximab for Psoriasis
+NCT80399181,Certolizumab,Biological,Certolizumab for Rheumatoid Arthritis
+NCT81449223,Certolizumab,Biological,Certolizumab for Rheumatoid Arthritis
+NCT95177158,Certolizumab,Biological,Certolizumab for Rheumatoid Arthritis
+NCT15990835,Certolizumab,Biological,Certolizumab for Rheumatoid Arthritis
+NCT62484067,Certolizumab,Biological,Certolizumab for Rheumatoid Arthritis
+NCT76321648,Certolizumab,Biological,Certolizumab for Rheumatoid Arthritis
+NCT11808985,Certolizumab,Biological,Certolizumab for Rheumatoid Arthritis
+NCT46815158,Certolizumab,Biological,Certolizumab for Rheumatoid Arthritis
+NCT35993705,Certolizumab,Biological,Certolizumab for Crohn's Disease
+NCT85373679,Certolizumab,Biological,Certolizumab for Crohn's Disease
+NCT41165618,Certolizumab,Biological,Certolizumab for Crohn's Disease
+NCT74965919,Certolizumab,Biological,Certolizumab for Crohn's Disease
+NCT70065580,Certolizumab,Biological,Certolizumab for Crohn's Disease
+NCT93831616,Certolizumab,Biological,Certolizumab for Crohn's Disease
+NCT71567453,Certolizumab,Biological,Certolizumab for Crohn's Disease
+NCT42977990,Certolizumab,Biological,Certolizumab for Crohn's Disease
+NCT29107906,Certolizumab,Biological,Certolizumab for Psoriasis
+NCT89978301,Certolizumab,Biological,Certolizumab for Psoriasis
+NCT63389468,Certolizumab,Biological,Certolizumab for Psoriasis
+NCT94256173,Certolizumab,Biological,Certolizumab for Psoriasis
